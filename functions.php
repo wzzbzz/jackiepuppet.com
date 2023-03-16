@@ -137,6 +137,11 @@ function chooseRoute( $path ){
             $locations = new \JackiePuppet\Locations(loadLocations());
             $locations->renderPage();
             break;
+        case "location":
+            $locations = new \JackiePuppet\Locations(loadLocations());
+            $location = $locations->find( $slug );
+            $location->renderPage();
+            break;
         case "error":
             renderError();
             break;
@@ -241,3 +246,113 @@ function parse_shared_credit( $credit ){
     
     return $credit;
 }
+
+
+function loadLocations(){
+    $locations = json_decode( file_get_contents( __DIR__ . "/app/JackiePuppet/locations.json" ), false );
+    return $locations;
+}
+
+function fix(){
+    $songs =  json_decode( file_get_contents( __DIR__ . "/app/JackiePuppet/songs-old.json" ), false );
+
+    $current_attribute = "locations";
+    $current_attributes_array = [];
+
+    $dates = [];
+    // create locations array 
+    foreach($songs as $song){
+        
+        foreach( $song->$current_attribute as $attribute ){
+
+            // match these sections in a regex 
+            // Sydney Airport (Sydney Australia) – September 15, 1975\
+            $pattern = '/^([^(]+) \(([A-Za-z0-9 .\',-]+)\) [–-] ([A-Za-z]+) (\d{1,2}), (\d{4})$/';
+
+            $patterns = [
+                "parent-month-day-year"=>'/^([^(]+) \(([A-Za-z0-9 .\',-]+)\) [–-] ([A-Za-z]+) (\d{1,2}), (\d{4})$/',
+                "parent-month-year"=>'/^([^(]+) \(([A-Za-z0-9 .\',-]+)\) [–-] ([A-Za-z]+) (\d{4})$/',
+                "parent-year-range"=>'/^([^(]+) \(([A-Za-z0-9 .\',-]+)\) [–-] (\d{4}-\d{4})$/',
+                "parent"=>'/^([^(]+) \(([A-Za-z0-9 .\',-]+)\)$/',
+                "simple"=>'/^([^(]+)$/',
+            ];
+            
+            $match=false;
+     
+            foreach($patterns as $key=>$pattern){
+                preg_match($pattern, $attribute, $matches);
+                
+                
+                if( count($matches) > 0 ){
+                    
+                    switch ($key ){
+                        case "parent-month-day-year":
+                        case "parent-month-year":
+                        case "parent-year-range":
+                        case "parent":
+                            
+                            // create the location if it doesn't exist 
+                            $name = trim($matches[1]);
+                            $slug = slugify( $matches[1] );
+                            $parent = trim($matches[2]);
+                            $parent_slug = slugify( $matches[2] );
+
+                            if( !array_key_exists( $slug, $current_attributes_array ) ){
+                                $current_attributes_array[$slug] = (object) [
+                                    "name" => $name,
+                                    "slug" => $slug,
+                                    "count" => 0,
+                                    "children" => [],
+                                    "parent" => $parent_slug,
+                                    "songs" => [ $song->slug ],
+                                ];
+                            }
+                            else{
+                                $current_attributes_array[$slug]->parent = $parent_slug;
+                                if( !in_array( $song->slug, $current_attributes_array[$slug]->songs ) ){
+                                    $current_attributes_array[$slug]->songs[] = $song->slug;
+                                }
+                            }
+                            // create the parent location if it doesn't exist
+                            if( !array_key_exists( $parent_slug, $current_attributes_array ) ){
+                                $current_attributes_array[$parent_slug] = (object) [
+                                    "name" => $parent,
+                                    "slug" => $parent_slug,
+                                    "count" => 0,
+                                    "children" => [],
+                                    "parent" => "",
+                                    "songs" => [ $song->slug ],
+                                ];
+                            }
+                            else{
+                                if( !in_array( $slug, $current_attributes_array[$parent_slug]->children ) ){
+                                    $current_attributes_array[$parent_slug]->children[] = $slug;
+                                }
+                                if( !in_array( $song->slug, $current_attributes_array[$parent_slug]->songs ) ){
+                                    $current_attributes_array[$parent_slug]->songs[] = $song->slug;
+                                }
+                            }
+                            break;
+                    }
+                    break;
+                }
+            } 
+
+            
+            continue;
+        }
+
+    }
+    // sort by name
+    usort( $current_attributes_array, function( $a, $b ){
+        return strcmp( $a->name, $b->name );
+    } );
+    // write the locations json file
+    file_put_contents( __DIR__ . "/app/JackiePuppet/locations.json" , json_encode( $current_attributes_array, JSON_PRETTY_PRINT ) );
+    //file_put_contents( __DIR__ . "/app/JackiePuppet/dates.json" , json_encode( $dates, JSON_PRETTY_PRINT ) );
+    //echo "done";
+die;
+}
+
+    // write the people json file
+    //file_put_contents( __DIR__ . "/app/JackiePuppet/songs.json" , json_encode( $songs, JSON_PRETTY_PRINT ) );

@@ -86,7 +86,7 @@
             " Lou Reed"
         ],
         "locations": [
-            "Sydney Airport (Sydney Australia) \u2013 September 15, 1975"
+            "Sydney Airport (Sydney Australia) - September 15, 1975"
         ],
         "settings": [
             "tv interview"
@@ -123,7 +123,7 @@
             "Jackie Puppet band"
         ],
         "locations": [
-            "The Local NYC (Long Island City NY) \u2013 February 22, 2017"
+            "The Local NYC (Long Island City NY) - February 22, 2017"
         ],
         "settings": [
             "hostel"
@@ -168,7 +168,7 @@
             " punk rockers"
         ],
         "locations": [
-            "Dr. Lou's Place (Roebling, NJ) \u2013 December 23, 2016"
+            "Dr. Lou's Place (Roebling, NJ) - December 23, 2016"
         ],
         "settings": [
             "bar"
@@ -194,7 +194,8 @@
             " Charlene Whittenburg"
         ],
         "locations": [
-            "Kate's Lazy Cabin (Woodstock, NY), Catskills (NY) \u2013 October 2016"
+            "Kate's Lazy Cabin (Woodstock, NY)",
+            "Catskills (NY) - October 2016"
         ],
         "settings": [
             "cabin in the woods"
@@ -287,8 +288,7 @@
             " Jackie Puppet band"
         ],
         "locations": [
-            "The Meatlocker (Montclair",
-            " NJ)"
+            "The Meatlocker (Montclair, NJ)"
         ],
         "settings": [
             "bar"
@@ -471,12 +471,9 @@
             " Luke Duke"
         ],
         "locations": [
-            "Bowcraft (Scotch Plains",
-            " NJ)",
-            " Watchung Reservation (Union County",
-            " NJ)",
-            " Route 22 (Union County",
-            " NJ)"
+            "Bowcraft (Scotch Plains, NJ)",
+            "Watchung Reservation (Union County, NJ)",
+            " Route 22 (Union County NJ)"
         ],
         "settings": [
             "amusement park",
@@ -525,9 +522,7 @@
         ],
         "locations": [
             "Anticipation (Lake Como, NJ)",
-            " Stone Pony (Asbury Park",
-            " NJ) \u2013 May 15",
-            " 2016"
+            "Stone Pony (Asbury Park, NJ) - May 15, 2016"
         ],
         "settings": [
             "bars",
@@ -624,7 +619,7 @@
         ],
         "locations": [
             "The Hamptons, Long Island (NY)",
-            " Manhattan (NY) \u2013 2019 thru 2020"
+            " Manhattan (NY) - 2019-2020"
         ],
         "settings": [
             "Halloween",
@@ -1013,7 +1008,7 @@
             "The Bakers"
         ],
         "locations": [
-            "Vaccaro\u2019s Bakery (Clark, NJ)"
+            "Vaccaro's Bakery (Clark, NJ)"
         ],
         "settings": [
             "bakery"
@@ -2143,8 +2138,7 @@
             "The Hot Sprinter"
         ],
         "locations": [
-            "Oak Ridge Park (Clark",
-            " NJ)"
+            "Oak Ridge Park (Clark, NJ)"
         ],
         "settings": [
             "high school track"
@@ -2214,7 +2208,7 @@
         "locations": [
             "Dr. Lou's Place (Roebling, NJ)",
             " Robin's Nest (Linden, NJ)",
-            " \"Tremelo Point\" (Linden, NJ)"
+            "Tremelo Point (Linden, NJ)"
         ],
         "settings": [
             "bars"
@@ -3022,7 +3016,7 @@
             " The Mad Caulker"
         ],
         "locations": [
-            "\"Ridgemont Avenue\" (New Jersey)"
+            "Ridgemont Avenue (New Jersey)"
         ],
         "settings": [],
         "themes": [
@@ -3319,8 +3313,7 @@
             "Ramona Singer"
         ],
         "locations": [
-            "The Hamptons (Long Island",
-            " NY)"
+            "The Hamptons (Long Island, NY)"
         ],
         "settings": [
             "the Moon"
@@ -4008,7 +4001,7 @@
             " Jeremy"
         ],
         "locations": [
-            "Greenhouse Caf\u00e9 (Brooklyn, NY) \u2013 November 7, 2019"
+            "Greenhouse Cafe (Brooklyn, NY) - November 7, 2019"
         ],
         "settings": [
             "open mic night"
@@ -4717,7 +4710,7 @@
             " The Venus"
         ],
         "locations": [
-            "\"Popular Peaks\" (mountain range)"
+            "Popular Peaks (mountain range)"
         ],
         "settings": [
             "the sea",
@@ -4745,8 +4738,7 @@
             " Max Weinberg"
         ],
         "locations": [
-            "Oak Ridge Park (Clark",
-            " NJ)"
+            "Oak Ridge Park (Clark, NJ)"
         ],
         "settings": [
             "outdoor concert",
@@ -4819,8 +4811,7 @@
             "The Timeshare Guy"
         ],
         "locations": [
-            "Disney World (Orlando",
-            " FL)"
+            "Disney World (Orlando, FL)"
         ],
         "settings": [
             "timeshare presentation"
@@ -5067,8 +5058,7 @@
             " Peter Gatien"
         ],
         "locations": [
-            "The Limelight (Manhattan",
-            " NY)"
+            "The Limelight (Manhattan, NY)"
         ],
         "settings": [
             "little league ballpark"
@@ -5244,9 +5234,7 @@
             " Neil Young"
         ],
         "locations": [
-            "Carnegie Hall (Manhattan",
-            " NY) - January 6",
-            " 2014"
+            "Carnegie Hall (Manhattan, NY) - January 6, 2014"
         ],
         "settings": [
             "Neil Young concert",
@@ -5304,15 +5292,15 @@
         ],
         "characters": [
             "Howard Stern",
-            " \u201cHoward Stern Show\u201d cast of characters"
+            " Howard Stern Show cast of characters"
         ],
         "locations": [
-            "Manhattan (NY)",
-            " New York",
+            "Manhattan (NY)", 
+            "New York",
             " worldwide"
         ],
         "settings": [
-            "\u201cThe Howard Stern Show\u201d"
+            "The Howard Stern Show"
         ],
         "themes": [
             "comedy",
@@ -5376,8 +5364,7 @@
             "Panther Pelt Girl"
         ],
         "locations": [
-            "Barnes & Noble (Clark",
-            " NJ)"
+            "Barnes & Noble (Clark, NJ)"
         ],
         "settings": [
             "bookstore"
@@ -5407,8 +5394,7 @@
             " race track"
         ],
         "themes": [
-            "alcohol (beer",
-            " Scotch)",
+            "alcohol (beer, scotch)",
             " cars",
             " cigars",
             " crime",
@@ -5433,9 +5419,7 @@
         ],
         "themes": [
             "bail bonds",
-            " sea life (krill",
-            " plankton",
-            " whales)",
+            " sea life (krill, plankton, whales)",
             " trickery"
         ],
         "slug": "whales-do",
@@ -5450,8 +5434,7 @@
             "The Drag Queen"
         ],
         "locations": [
-            "Barnes & Noble (Clark",
-            " NJ)"
+            "Barnes & Noble (Clark, NJ)"
         ],
         "settings": [
             "bookstore"
@@ -5477,8 +5460,7 @@
             "Dean Rane"
         ],
         "locations": [
-            "King Killer Studios (Brooklyn",
-            " NY)"
+            "King Killer Studios (Brooklyn, NY)"
         ],
         "settings": [
             "recording studio"
@@ -5569,8 +5551,7 @@
             "The Bossgirl"
         ],
         "locations": [
-            "Barnes & Noble (Clark",
-            " NJ)"
+            "Barnes & Noble (Clark, NJ)"
         ],
         "settings": [
             "bookstore"
@@ -5594,8 +5575,7 @@
         ],
         "locations": [
             "Staten Island (NY)",
-            " Yasgur\u2019s Farm (Bethel",
-            " NY)"
+            " Yasgur\u2019s Farm (Bethel, NY)"
         ],
         "settings": [
             "Woodstock Festival"
@@ -5669,11 +5649,8 @@
         "locations": [],
         "settings": [],
         "themes": [
-            "alcohol (pop wine",
-            " Boone's Farm",
-            " Zapple)",
-            " fruit (apples",
-            " strawberries)",
+            "alcohol (pop wine, Boone's Farm, Zapple)",
+            " fruit (apples, strawberries)",
             " wrestling"
         ],
         "slug": "zapple-mmm",
@@ -5720,8 +5697,8 @@
         "themes": [
             "danger",
             " escape",
-            " reptiles (caimans",
-            " mamba snakes) sea life (dolphins)",
+            " reptiles (caimans, mamba snakes)", 
+            " sea life (dolphins)",
             " wildlife (elephants",
             " Kodiak bears",
             " llamas",
@@ -5740,8 +5717,7 @@
             " Zsaws"
         ],
         "locations": [
-            "Amity Island (New England",
-            " USA)"
+            "Amity Island (New England, USA)"
         ],
         "settings": [
             "beach",

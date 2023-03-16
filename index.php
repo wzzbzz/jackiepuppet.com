@@ -10,27 +10,9 @@ require "functions.php";
 // get the slug from the server variable
 $path = $_SERVER['REQUEST_URI'];
 
-$songs =  json_decode( file_get_contents( __DIR__ . "/app/JackiePuppet/songs.json" ), false );
-
-// adjust the credits to be slugs, with roles if they exist
-foreach( $songs as $song ){
-    
-    foreach( $song->credits as $song_key => $credit_line ){
-    
-    //    $song->settings = array_map("trim",$song->locations);
-        
-    }
-    
-
+if(isset($_GET['fix'])){
+    fix();
 }
-
-
-
-
-
-// write the people json file
-//file_put_contents( __DIR__ . "/app/JackiePuppet/songs.json" , json_encode( $songs, JSON_PRETTY_PRINT ) );
-
 ?>
 <!-- mobile first boiler plate with bootstrap -->
 <!DOCTYPE html>

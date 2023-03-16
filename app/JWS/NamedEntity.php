@@ -23,6 +23,7 @@ class NamedEntity{
     public function renderLink(){
         
         $section = strtolower( ( new \ReflectionClass( $this ) )->getShortName() );
+    
         ob_start();
         ?>
         <a href="/<?php echo $section; ?>/<?php echo $this->slug(); ?>/">
@@ -30,6 +31,13 @@ class NamedEntity{
         </a>
         <?php
         return ob_get_clean();
+    }
+
+    public static function fromSlug( $slug ){
+        $class = ( new \ReflectionClass( get_called_class() ) )->getShortName();
+        $collectionClass = ( new \ReflectionClass( get_called_class() ) )->getNamespaceName() . "\\" . $class . "s";
+        $collection = new $collectionClass();
+        return $collection->find( $slug );
     }
     
 

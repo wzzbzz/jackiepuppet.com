@@ -20,13 +20,19 @@ class Location extends \JWS\NamedEntity{
 
 
     public function notes(){
+        return "";
         return $this->data->notes;
+    }
+    
+    public function parent(){
+        return Locations::fromSlugList( $this->data->parent );
     }
 
     public function renderPage(){
            ?>
             <h1><?php echo $this->name(); ?></h1>
-            <p><?php echo $this->notes(); ?></p>
+            <!-- if it has a parent, print the parent -->
+            <p>Parent Location: <?php echo $this->parent()->renderLink(); ?></p>
             <p>Songs: <?php echo $this->songs()->renderCommaSeparatedListOfLinks(); ?></p>
             <?php  
     }
