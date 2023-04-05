@@ -1,0 +1,7392 @@
+[
+    {
+        "title": "Alexander Albetsarov",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "alexander-albetsarov"
+        ],
+        "locations": [
+            "route-22",
+            "brooklyn",
+            "unspecified-quick-mart"
+        ],
+        "settings": [],
+        "themes": [
+            "unpredictable",
+            "russian"
+        ],
+        "slug": "alexander-albetsarov",
+        "alternate_titles": []
+    },
+    {
+        "title": "Ambidextrous High Five Gang",
+        "slug": "ambidextrous-high-five-gang",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-ambidextrous-high-five-gang"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "gangs",
+            "greetings",
+            "trickery"
+        ],
+        "notes": "sung by The Ambidextrous High Five Gang",
+        "alternate_titles": []
+    },
+    {
+        "title": "Anatomy Of A Coup",
+        "slug": "anatomy-of-a-coup",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "g-hillman",
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "Apple Calypso",
+        "slug": "apple-calypso",
+        "credits": [
+            {
+                "role": "lyrics & music",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "anabelle",
+            "liz",
+            "renee"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "entitlement",
+            "horses",
+            "knights",
+            "orgies",
+            "sex",
+            "wisdom",
+            "apocalypse"
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Are You Happy Being A Schmuck?",
+        "slug": "are-you-happy-being-a-schmuck",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "j-williams",
+                    "l-reed"
+                ]
+            }
+        ],
+        "characters": [
+            "the-journalist-a-ka-teleprompter-tough-guy-a-k-a-index-card-biff",
+            "lou-reed"
+        ],
+        "locations": [
+            "sydney-australia",
+            "sydney-airport"
+        ],
+        "settings": [
+            "tv-interview"
+        ],
+        "themes": [
+            "alcohol",
+            "scotch",
+            "celebrity",
+            "confrontation",
+            "interviews",
+            "rock-roll"
+        ],
+        "notes": "* sung by \"Lou Reed\"",
+        "alternate_titles": []
+    },
+    {
+        "title": "At The Quarter Machine",
+        "slug": "at-the-quarter-machine",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "notes": "",
+        "alternate_titles": []
+    },
+    {
+        "title": "Audible",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [
+            "long-island-city-ny",
+            "the-local-nyc"
+        ],
+        "settings": [
+            "hostel"
+        ],
+        "themes": [
+            "comebacks",
+            "live-music"
+        ],
+        "notes": "* sung by Jackie Puppet band",
+        "slug": "audible",
+        "alternate_titles": []
+    },
+    {
+        "title": "Backdoor Pilot",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "tv-executives"
+        ],
+        "locations": [],
+        "settings": [
+            "tv-studios",
+            "writing-rooms"
+        ],
+        "themes": [
+            "trickery"
+        ],
+        "notes": "",
+        "slug": "backdoor-pilot",
+        "alternate_titles": []
+    },
+    {
+        "title": "Bad Band Blair",
+        "credits": [
+            {
+                "role": "music & lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "audience-member"
+                ]
+            }
+        ],
+        "characters": [
+            "blair-the-drummer",
+            "jackie-puppet-band-w-dean-rane-john-gabriele",
+            "punk-rockers"
+        ],
+        "locations": [
+            "roebling-nj",
+            "dr-lou-s-place"
+        ],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "criticism",
+            "live-music",
+            "punk-rock",
+            "yodeling",
+            "bad"
+        ],
+        "notes": "",
+        "slug": "bad-band-blair",
+        "alternate_titles": []
+    },
+    {
+        "title": "Bad Gambler",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-bad-gambler",
+            "charlene-whittenburg"
+        ],
+        "locations": [
+            "woodstock-ny",
+            "kate-s-lazy-cabin",
+            "ny",
+            "catskills"
+        ],
+        "settings": [
+            "cabin-in-the-woods"
+        ],
+        "themes": [
+            "cards",
+            "gambling",
+            "games",
+            "phase-ten",
+            "lust",
+            "bad"
+        ],
+        "notes": "* sung by The Bad Gambler",
+        "slug": "bad-gambler",
+        "alternate_titles": []
+    },
+    {
+        "title": "Bad Gift Good Paper",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "robyn"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "birthdays",
+            "gifts",
+            "misrepresentations",
+            "bad"
+        ],
+        "notes": "",
+        "slug": "bad-gift-good-paper",
+        "alternate_titles": []
+    },
+    {
+        "title": "Barnacles",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-the-jokeman-martling"
+        ],
+        "locations": [
+            "oyster-bay-long-island-ny",
+            "jokeland"
+        ],
+        "settings": [
+            "beach",
+            "ocean"
+        ],
+        "themes": [
+            "barnacles",
+            "jetties",
+            "sterniverse"
+        ],
+        "notes": "",
+        "slug": "barnacles",
+        "alternate_titles": []
+    },
+    {
+        "title": "Barstool Mensch",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-barstool-mensch"
+        ],
+        "locations": [],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "alcohol",
+            "generosity",
+            "live-music",
+            "recklessness"
+        ],
+        "notes": "",
+        "slug": "barstool-mensch",
+        "alternate_titles": []
+    },
+    {
+        "title": "Beard",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams",
+                    "j-braverman",
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-bakers",
+            "jackie-puppet-band"
+        ],
+        "locations": [
+            "montclair-nj",
+            "the-meatlocker"
+        ],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "beards",
+            "food",
+            "baked-goods",
+            "grooming"
+        ],
+        "notes": "",
+        "slug": "beard",
+        "alternate_titles": []
+    },
+    {
+        "title": "Beer Bottle Song",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams",
+                    "j-braverman",
+                    "ricky"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "beer",
+            "experimental-music",
+            "improvisation"
+        ],
+        "notes": "",
+        "slug": "beer-bottle-song",
+        "alternate_titles": []
+    },
+    {
+        "title": "Beer Garden",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "pretty-women"
+        ],
+        "locations": [
+            "ocean-nj",
+            "monmouth-park"
+        ],
+        "settings": [
+            "racetrack-horses"
+        ],
+        "themes": [
+            "alcohol",
+            "beer",
+            "bottomless-plastic-cups"
+        ],
+        "notes": "",
+        "slug": "beer-garden",
+        "alternate_titles": []
+    },
+    {
+        "title": "Billionaires In Space",
+        "alternate_titles": [
+            "Billionaires In Space (The Powerball Song)"
+        ],
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-bakers",
+            "jeff-bezos",
+            "elon-musk",
+            "richard-branson"
+        ],
+        "locations": [
+            "clark-nj",
+            "vaccaro-s-bakery"
+        ],
+        "settings": [
+            "bakery"
+        ],
+        "themes": [
+            "billionaires",
+            "food",
+            "baked-goods",
+            "gambling",
+            "powerball",
+            "space-travel",
+            "air-travel"
+        ],
+        "notes": "* sung by The Bakers",
+        "slug": "billionaires-in-space"
+    },
+    {
+        "title": "Bitter Days",
+        "credits": [
+            {
+                "role": "title",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "bruce"
+        ],
+        "locations": [],
+        "settings": [
+            "donut-shop",
+            "kitchen"
+        ],
+        "themes": [
+            "cars",
+            "coffee",
+            "donuts",
+            "frustration",
+            "lust",
+            "perseverance"
+        ],
+        "notes": "",
+        "slug": "bitter-days",
+        "alternate_titles": []
+    },
+    {
+        "title": "Bolton The Articulate Bigot",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "alan-bolton-student",
+            "peter-rivers-student",
+            "sam-robinson-teacher"
+        ],
+        "locations": [
+            "maroubra-new-south-wales-australia",
+            "hartley-high"
+        ],
+        "settings": [],
+        "themes": [
+            "bigotry",
+            "harassment",
+            "lust",
+            "sex",
+            "student-teacher-relations"
+        ],
+        "notes": "",
+        "slug": "bolton-the-articulate-bigot",
+        "alternate_titles": []
+    },
+    {
+        "title": "Boondoggle & The Nudnik Follies",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "locations": [
+            "ocean-nj",
+            "monmouth-park"
+        ],
+        "settings": [
+            "kennel"
+        ],
+        "themes": [
+            "dogs",
+            "border-collie",
+            "colorforms",
+            "fashion",
+            "foxes",
+            "japanese-food",
+            "mink-stoles",
+            "outer-space",
+            "puddles",
+            "sex",
+            "square-dancing",
+            "storms",
+            "turtles"
+        ],
+        "notes": "",
+        "slug": "boondoggle-the-nudnik-follies",
+        "characters": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "Bowcraft Bop",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "alternate_titles": [
+            "The Reservation"
+        ],
+        "characters": [
+            "bo-duke",
+            "luke-duke"
+        ],
+        "locations": [
+            "scotch-plains-nj",
+            "bowcraft",
+            "union-county-nj",
+            "watchung-reservation",
+            "route-22"
+        ],
+        "settings": [
+            "amusement-park",
+            "arcade",
+            "woods"
+        ],
+        "themes": [
+            "games",
+            "miniature-golf",
+            "redevelopment"
+        ],
+        "notes": "",
+        "slug": "bowcraft-bop"
+    },
+    {
+        "title": "Brazen Admirer",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "alternate_title": "",
+        "characters": [
+            "the-brazen-admirer"
+        ],
+        "locations": [],
+        "settings": [
+            "bat-house",
+            "cave"
+        ],
+        "themes": [
+            "art",
+            "caveman",
+            "lust",
+            "sex"
+        ],
+        "slug": "brazen-admirer",
+        "alternate_titles": []
+    },
+    {
+        "title": "Budweiser Wednesday",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band",
+            "the-valet"
+        ],
+        "locations": [
+            "lake-como-nj",
+            "anticipation",
+            "asbury-park-nj",
+            "stone-pony"
+        ],
+        "settings": [
+            "jersey-shore",
+            "bars",
+            "boardwalk"
+        ],
+        "themes": [
+            "alcohol",
+            "art",
+            "birds",
+            "ospreys",
+            "live-music",
+            "beer"
+        ],
+        "slug": "budweiser-wednesday",
+        "alternate_titles": []
+    },
+    {
+        "title": "Burnouts Parking Lot",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "g-hillman",
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-burnouts"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "cars",
+            "danger",
+            "racing",
+            "recklessness",
+            "weed"
+        ],
+        "notes": "",
+        "slug": "burnouts-parking-lot",
+        "alternate_titles": []
+    },
+    {
+        "title": "(But Not The Horse You Rode In On)",
+        "characters": [
+            "the-fool",
+            "the-horse-the-fool-rode-in-on"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "blame",
+            "horses",
+            "rain"
+        ],
+        "slug": "but-not-the-horse-you-rode-in-on",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Butterscotch Brenda",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "butterscotch-brenda"
+        ],
+        "locations": [],
+        "settings": [
+            "casino"
+        ],
+        "themes": [
+            "gambling",
+            "parachutes",
+            "physical-labor"
+        ],
+        "notes": "",
+        "slug": "butterscotch-brenda",
+        "alternate_titles": []
+    },
+    {
+        "title": "Clusterfuck Catfight Ladies",
+        "credits": [
+            {
+                "role": "title",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "countess-luann-de-lesseps",
+            "leah-mcsweeney",
+            "dorinda-medley",
+            "sonja-morgan",
+            "tinsley-mortimer",
+            "ramona-singer"
+        ],
+        "locations": [
+            "ny",
+            "the-hamptons-long-island",
+            "manhattan"
+        ],
+        "settings": [
+            "restaurant",
+            "swimming-pool",
+            "tiki-bar"
+        ],
+        "themes": [
+            "alcohol",
+            "arguments",
+            "bad-manners",
+            "fashion",
+            "recklessness",
+            "wealth"
+        ],
+        "slug": "clusterfuck-catfight-ladies",
+        "alternate_titles": []
+    },
+    {
+        "title": "Cobra Caveman",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "johnny-lawrence",
+            "ratt"
+        ],
+        "locations": [
+            "california",
+            "reseda-san-fernando-valley"
+        ],
+        "settings": [
+            "johnny-s-apartment"
+        ],
+        "themes": [
+            "alcohol",
+            "coors-banquet",
+            "cavemen",
+            "depression",
+            "glam-metal",
+            "karate",
+            "money-issues",
+            "political-correctness"
+        ],
+        "slug": "cobra-caveman",
+        "alternate_titles": []
+    },
+    {
+        "title": "Cocapina",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman",
+                    "j-braverman",
+                    "j-williams",
+                    "o-brien-family"
+                ]
+            }
+        ],
+        "characters": [
+            "the-cocapina"
+        ],
+        "locations": [],
+        "settings": [
+            "house",
+            "town"
+        ],
+        "themes": [
+            "ass-grabbing",
+            "avoidance",
+            "shopping",
+            "surprises"
+        ],
+        "slug": "cocapina",
+        "alternate_titles": []
+    },
+    {
+        "title": "Colossus Of Roads",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-colossus-of-roads"
+        ],
+        "locations": [
+            "elizabeth-nj-to-staten-island-ny",
+            "goethals-bridge"
+        ],
+        "settings": [
+            "bridge",
+            "rivers",
+            "roads"
+        ],
+        "themes": [
+            "cars",
+            "giants",
+            "tolls",
+            "travel"
+        ],
+        "slug": "colossus-of-roads",
+        "alternate_titles": []
+    },
+    {
+        "title": "Comedy Show",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [],
+        "settings": [
+            "concert-venue"
+        ],
+        "themes": [
+            "alcohol",
+            "beer",
+            "comedy",
+            "criticism",
+            "depression",
+            "live-performance"
+        ],
+        "notes": "sung by Jackie Puppet band",
+        "slug": "comedy-show",
+        "alternate_titles": []
+    },
+    {
+        "title": "Courtside Peanut Gallery",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-courtside-peanut-gallery",
+            "jackie-puppet-band"
+        ],
+        "locations": [
+            "brooklyn-ny",
+            "branded-saloon"
+        ],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "banter",
+            "comedy",
+            "criticism",
+            "live-performance"
+        ],
+        "notes": "sung by Jackie Puppet band",
+        "slug": "courtside-peanut-gallery",
+        "alternate_titles": []
+    },
+    {
+        "title": "Crack Studio",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [
+            "brooklyn-ny",
+            "king-killer-studios"
+        ],
+        "settings": [
+            "rehearsal-space",
+            "streets"
+        ],
+        "themes": [
+            "architecture",
+            "construction",
+            "music",
+            "redevelopment"
+        ],
+        "slug": "crack-studio",
+        "alternate_titles": []
+    },
+    {
+        "title": "Crashpad",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "go-go-bar"
+        ],
+        "themes": [
+            "alcohol",
+            "beer",
+            "dreams",
+            "jewels",
+            "longing",
+            "neon",
+            "tiaras"
+        ],
+        "slug": "crashpad",
+        "alternate_titles": []
+    },
+    {
+        "title": "Crestfallen & Tickled",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "dan-krug",
+            "jackie-the-jokeman-martling",
+            "willie-nelson"
+        ],
+        "locations": [
+            "oyster-bay-long-island-ny",
+            "jokeland"
+        ],
+        "settings": [],
+        "themes": [
+            "baseball",
+            "comedy",
+            "embarrassment",
+            "fandom",
+            "mail",
+            "mistakes",
+            "whittling"
+        ],
+        "slug": "crestfallen-tickled",
+        "alternate_titles": []
+    },
+    {
+        "title": "Cricket Physicists",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman",
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-cricket-physicists"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "crickets",
+            "physicists"
+        ],
+        "slug": "cricket-physicists",
+        "alternate_titles": []
+    },
+    {
+        "title": "Curtis The Absurdist",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "curtis-the-absurdist"
+        ],
+        "locations": [],
+        "settings": [
+            "breakfast-table",
+            "kitchen"
+        ],
+        "themes": [
+            "absurdity",
+            "confidence",
+            "lack-of-filter",
+            "proclamations"
+        ],
+        "slug": "curtis-the-absurdist",
+        "alternate_titles": []
+    },
+    {
+        "title": "Cuttin A Rug",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "willie-randolph",
+            "christopher-walken"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "acting",
+            "baseball",
+            "celebrities",
+            "dance-offs"
+        ],
+        "slug": "cuttin-a-rug",
+        "alternate_titles": []
+    },
+    {
+        "title": "Dan Smith Will Teach You Guitar",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "dan-smith"
+        ],
+        "locations": [
+            "ny",
+            "manhattan"
+        ],
+        "settings": [],
+        "themes": [
+            "guitar-lessons",
+            "music"
+        ],
+        "slug": "dan-smith-will-teach-you-guitar",
+        "alternate_titles": []
+    },
+    {
+        "title": "Dartboard Dwayne",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "dartboard-dwayne"
+        ],
+        "locations": [
+            "nj",
+            "barnegat-bay"
+        ],
+        "settings": [
+            "barnegat-bay-nj"
+        ],
+        "themes": [
+            "alcohol",
+            "beer",
+            "bananas",
+            "clumsiness",
+            "danger",
+            "darts",
+            "games",
+            "pigeons",
+            "recklessness"
+        ],
+        "slug": "dartboard-dwayne",
+        "alternate_titles": []
+    },
+    {
+        "title": "Day Cap",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "alcohol",
+            "beer",
+            "boats"
+        ],
+        "slug": "day-cap",
+        "alternate_titles": []
+    },
+    {
+        "title": "Daylight Robbery",
+        "credits": [
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            },
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "charro",
+            "jackie-puppet-band",
+            "the-spokesmodel",
+            "aaron-judge-the-judge"
+        ],
+        "locations": [
+            "manhattan-ny",
+            "downtown"
+        ],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "awards",
+            "cars",
+            "dreams",
+            "fame",
+            "gambling",
+            "judges",
+            "limos",
+            "lotteries",
+            "lust",
+            "medals",
+            "music",
+            "the-olympics",
+            "pens",
+            "rockets",
+            "trickery"
+        ],
+        "slug": "daylight-robbery",
+        "alternate_titles": []
+    },
+    {
+        "title": "Despite Our Cake",
+        "alternate_title": "Despite All Our Cakes",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "the-bakers"
+        ],
+        "locations": [
+            "clark-nj",
+            "vaccaro-s-bakery"
+        ],
+        "settings": [
+            "bakery"
+        ],
+        "themes": [
+            "cheesecake",
+            "cinnamon-cake",
+            "pound-cake",
+            "upside-down-cake",
+            "fudge",
+            "gambling",
+            "powerball"
+        ],
+        "notes": "sung by The Bakers",
+        "slug": "despite-our-cake",
+        "alternate_titles": []
+    },
+    {
+        "title": "Detective Snooparoni",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "detective-snooparoni"
+        ],
+        "locations": [],
+        "settings": [
+            "detective-office"
+        ],
+        "themes": [
+            "coffee",
+            "raincoats",
+            "detective-snooparoni-cases"
+        ],
+        "slug": "detective-snooparoni",
+        "alternate_titles": []
+    },
+    {
+        "title": "Dick In My Hand",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams",
+                    "s-mcbride"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "slug": "dick-in-my-hand",
+        "alternate_titles": []
+    },
+    {
+        "title": "Dickhead Dalton",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "ant-farms",
+            "blame",
+            "coffee",
+            "etch-a-sketch",
+            "horses",
+            "lawsuits",
+            "mischief",
+            "pole-vaults",
+            "pretzels"
+        ],
+        "slug": "dickhead-dalton",
+        "characters": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "Diggin' For Gold",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "g-hillman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "southside-slim",
+            "joelle",
+            "slim-s-father",
+            "mother",
+            "son-snorer-loud-talker-tbd-cast-of-the-song"
+        ],
+        "locations": [
+            "all-over-earth-and-dreamland"
+        ],
+        "settings": [],
+        "themes": [],
+        "slug": "diggin-for-gold",
+        "alternate_titles": []
+    },
+    {
+        "title": "Disco-Dozer",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "bee-gees",
+            "donna-summer",
+            "the-village-people"
+        ],
+        "locations": [
+            "chicago-il",
+            "comiskey-park"
+        ],
+        "settings": [
+            "disco-demolition-night",
+            "baseball-game"
+        ],
+        "themes": [
+            "baseball",
+            "demolition",
+            "disco",
+            "fights",
+            "gatherings"
+        ],
+        "slug": "disco-dozer",
+        "alternate_titles": []
+    },
+    {
+        "title": "Do What I Want",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "the-loser"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "slug": "do-what-i-want",
+        "alternate_titles": []
+    },
+    {
+        "title": "Donna Loves Honey",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "eric-forrester",
+            "donna-logan"
+        ],
+        "locations": [
+            "ca",
+            "los-angeles",
+            "tx",
+            "dallas",
+            "north-dakota",
+            "south-dakota"
+        ],
+        "settings": [],
+        "themes": [
+            "bears",
+            "bees",
+            "honey",
+            "lust",
+            "obsession"
+        ],
+        "slug": "donna-loves-honey",
+        "alternate_titles": []
+    },
+    {
+        "title": "Don't Throw Your Radios Away",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [],
+        "settings": [
+            "radio"
+        ],
+        "themes": [
+            "jackie-puppet-radio"
+        ],
+        "notes": "sung by Jackie Puppet band",
+        "slug": "don-t-throw-your-radios-away",
+        "alternate_titles": []
+    },
+    {
+        "title": "Drinks Until She Falls In Love",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-starlet"
+        ],
+        "locations": [],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "alcohol",
+            "screwdrivers",
+            "chauffeurs",
+            "dreams",
+            "fame",
+            "love",
+            "nightlife",
+            "sleep"
+        ],
+        "slug": "drinks-until-she-falls-in-love",
+        "alternate_titles": []
+    },
+    {
+        "title": "Dumb Dumb Dumb",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-dumb-dumb-dumb"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "dumb",
+            "dumb",
+            "dumb"
+        ],
+        "slug": "dumb-dumb-dumb",
+        "alternate_titles": []
+    },
+    {
+        "title": "Eleven!",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-jackie-puppet"
+        ],
+        "locations": [],
+        "settings": [
+            "7-11-store"
+        ],
+        "themes": [
+            "days",
+            "elves",
+            "numbers",
+            "slurpees"
+        ],
+        "notes": "sung by The Jackie Puppet",
+        "slug": "eleven",
+        "alternate_titles": []
+    },
+    {
+        "title": "Entry Level Brides",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "the-entry-level-brides"
+        ],
+        "locations": [
+            "penitentiary-district-x"
+        ],
+        "settings": [
+            "prison"
+        ],
+        "themes": [
+            "crime",
+            "gambling-sex",
+            "conjugal-visits"
+        ],
+        "slug": "entry-level-brides",
+        "alternate_titles": []
+    },
+    {
+        "title": "Expectations",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "wine",
+            "electricity",
+            "fear",
+            "idealization",
+            "lust",
+            "music",
+            "peacocks",
+            "showgirls",
+            "songwriting",
+            "sprinklers",
+            "time"
+        ],
+        "slug": "expectations",
+        "alternate_titles": []
+    },
+    {
+        "title": "Familiarity Breeds Cover Bands",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band-as-the-eh-street-band",
+            "kiss-cover-band"
+        ],
+        "locations": [],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "cover-bands",
+            "live-performance",
+            "recording"
+        ],
+        "slug": "familiarity-breeds-cover-bands",
+        "alternate_titles": []
+    },
+    {
+        "title": "Fanmail Overstock",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-the-jokeman-martling",
+            "the-sumo-wrestler"
+        ],
+        "locations": [
+            "jokeland",
+            "oyster-bay",
+            "long-island",
+            "ny",
+            "orlando",
+            "fl"
+        ],
+        "settings": [
+            "garage",
+            "post-office"
+        ],
+        "themes": [
+            "comedy",
+            "fans",
+            "mail",
+            "phones",
+            "sumo-wrestling",
+            "voicemail"
+        ],
+        "slug": "fanmail-overstock",
+        "alternate_titles": [
+            "P.O. Box Song"
+        ]
+    },
+    {
+        "title": "Ferric Oxide Never Sleeps",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "j-braverrman"
+                ]
+            }
+        ],
+        "characters": [
+            "meryl-streep",
+            "dennis-young"
+        ],
+        "locations": [
+            "west-virginia",
+            "cassette-factory"
+        ],
+        "settings": [],
+        "themes": [
+            "cassette-manufacturing",
+            "lemons",
+            "rain",
+            "renovations",
+            "salmon"
+        ],
+        "slug": "ferric-oxide-never-sleeps",
+        "alternate_titles": []
+    },
+    {
+        "title": "52 Pick-Up",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-prankster"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "cards",
+            "games",
+            "trickery"
+        ],
+        "slug": "52-pick-up",
+        "alternate_titles": []
+    },
+    {
+        "title": "Find The Yeti",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-yeti"
+        ],
+        "locations": [
+            "il",
+            "chicago",
+            "ny",
+            "manhattan",
+            "wi",
+            "milwaukee",
+            "fl",
+            "orlando",
+            "sarasota",
+            "usa",
+            "rocky-mountains"
+        ],
+        "settings": [
+            "mountains",
+            "woods"
+        ],
+        "themes": [
+            "latin",
+            "legends",
+            "searches",
+            "soda",
+            "grape"
+        ],
+        "slug": "find-the-yeti",
+        "alternate_titles": []
+    },
+    {
+        "title": "Five Dollar Pull",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "s-mcbride"
+                ]
+            }
+        ],
+        "characters": [
+            "baby-the-elephant",
+            "the-bartender",
+            "clown-kong",
+            "johnny-eck"
+        ],
+        "locations": [
+            "tn",
+            "knoxville"
+        ],
+        "settings": [
+            "bar",
+            "circus-ringling-brothers"
+        ],
+        "themes": [
+            "alcohol",
+            "moonshine",
+            "monster-trucks"
+        ],
+        "slug": "five-dollar-pull",
+        "alternate_titles": []
+    },
+    {
+        "title": "Flash Gordon",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "the-flasher",
+            "gordon"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "clothing",
+            "flashing",
+            "raincoats"
+        ],
+        "slug": "flash-gordon",
+        "alternate_titles": []
+    },
+    {
+        "title": "Flipturn",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-flipturn"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "flipturns"
+        ],
+        "slug": "flipturn",
+        "alternate_titles": []
+    },
+    {
+        "title": "Floodlight Attic",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [
+            "vermont"
+        ],
+        "settings": [
+            "attic"
+        ],
+        "themes": [
+            "college",
+            "lava-lamps",
+            "raccoons",
+            "records"
+        ],
+        "slug": "floodlight-attic",
+        "alternate_titles": []
+    },
+    {
+        "title": "Food Fight",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "food-fights"
+        ],
+        "slug": "food-fight",
+        "alternate_titles": []
+    },
+    {
+        "title": "Fool Of The County",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-fool-of-the-county"
+        ],
+        "locations": [],
+        "settings": [
+            "balloon-festival"
+        ],
+        "themes": [
+            "basketball",
+            "boomerangs",
+            "bowling",
+            "coffee",
+            "kangaroos",
+            "motorcycles",
+            "orangutans",
+            "titles"
+        ],
+        "slug": "fool-of-the-county",
+        "alternate_titles": []
+    },
+    {
+        "title": "For The Birds",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-birdie-holder"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "pigeons",
+            "pirates"
+        ],
+        "slug": "for-the-birds",
+        "alternate_titles": []
+    },
+    {
+        "title": "Frisbee Fritz",
+        "credit": "B. Kleiman",
+        "characters": [
+            "bee-gees",
+            "frisbee-fritz"
+        ],
+        "locations": [],
+        "settings": [
+            "park"
+        ],
+        "themes": [
+            "baseball",
+            "frisbee",
+            "recklessness"
+        ],
+        "slug": "frisbee-fritz",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Full Context Sex Appeal",
+        "credit": "B. Kleiman",
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "suburbs"
+        ],
+        "themes": [
+            "bikinis",
+            "context",
+            "lust",
+            "pin-ups",
+            "playboy-models",
+            "surprises"
+        ],
+        "slug": "full-context-sex-appeal",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Game Of Hope",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "christmas"
+        ],
+        "themes": [],
+        "slug": "game-of-hope",
+        "alternate_titles": []
+    },
+    {
+        "title": "Game For Whiskey",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "donkey-kong"
+        ],
+        "locations": [],
+        "settings": [
+            "arcade"
+        ],
+        "themes": [
+            "alcohol",
+            "whiskey",
+            "scaffolds"
+        ],
+        "slug": "game-for-whiskey",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Games That You Want",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "miss-new-jersey"
+        ],
+        "locations": [
+            "new-jersey"
+        ],
+        "settings": [],
+        "themes": [
+            "entitlement",
+            "balderdash",
+            "chutes-ladders",
+            "game-of-life",
+            "monopoly",
+            "scattegories",
+            "scrabble",
+            "simon-says",
+            "slinky",
+            "sorry",
+            "tiddlywinks",
+            "upwords",
+            "yahtzee",
+            "yo-yos",
+            "pageants"
+        ],
+        "slug": "the-games-that-you-want",
+        "alternate_titles": []
+    },
+    {
+        "title": "Gator Golf",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-golf-course-gator",
+            "mr-chan"
+        ],
+        "locations": [
+            "florida"
+        ],
+        "settings": [
+            "golf-course"
+        ],
+        "themes": [
+            "alligators",
+            "escape",
+            "fences",
+            "golf",
+            "grizzly-bears",
+            "sliding-doors",
+            "windmills"
+        ],
+        "slug": "gator-golf",
+        "alternate_titles": []
+    },
+    {
+        "title": "Gawk & Stare",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "alcohol",
+            "beer",
+            "bees",
+            "dogs",
+            "electric-fences",
+            "fashion",
+            "lust",
+            "spilling"
+        ],
+        "slug": "gawk-stare",
+        "alternate_titles": []
+    },
+    {
+        "title": "Gertrude's Stein",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-electrician-gertrude-s-cousin",
+            "gertrude"
+        ],
+        "locations": [
+            "england"
+        ],
+        "settings": [],
+        "themes": [
+            "cocktails",
+            "basketball",
+            "beer-steins",
+            "coffee"
+        ],
+        "slug": "gertrude-s-stein",
+        "alternate_titles": []
+    },
+    {
+        "title": "Get Up",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "slug": "get-up",
+        "alternate_titles": []
+    },
+    {
+        "title": "Ghostrider",
+        "alternate_title": "The Ghost Writer",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "lisa-marie-presley"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "slug": "ghostrider",
+        "alternate_titles": []
+    },
+    {
+        "title": "Give Me A Sample",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [
+            "atlantic-ocean"
+        ],
+        "settings": [],
+        "themes": [
+            "breezes",
+            "cheese",
+            "horses",
+            "pepperoni",
+            "street-cleaners",
+            "sumo-wrestling",
+            "zambonis"
+        ],
+        "slug": "give-me-a-sample",
+        "alternate_titles": []
+    },
+    {
+        "title": "Globe Runnin'",
+        "credit": "B. Kleiman",
+        "characters": [],
+        "locations": [
+            "oh",
+            "toledo",
+            "wi",
+            "milwaukee",
+            "tennessee",
+            "usa",
+            "rocky-mountains",
+            "canada",
+            "japan",
+            "tokyo",
+            "mount-fuji",
+            "grenada"
+        ],
+        "settings": [
+            "lakes",
+            "mountains"
+        ],
+        "themes": [
+            "travel"
+        ],
+        "slug": "globe-runnin",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Gravy",
+        "credit": "B. Kleiman",
+        "characters": [
+            "charlene-whittenburg"
+        ],
+        "locations": [
+            "ny",
+            "catskills"
+        ],
+        "settings": [
+            "mountains",
+            "wedding",
+            "zoo"
+        ],
+        "themes": [
+            "bubblegum",
+            "cougars",
+            "fashion",
+            "feathers",
+            "fur-coats",
+            "gravy",
+            "laughter",
+            "lust",
+            "the-navy"
+        ],
+        "slug": "gravy",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Greetings From Roanoke",
+        "credit": "B. Kleiman",
+        "characters": [
+            "catskills-brand",
+            "sonic-steve"
+        ],
+        "locations": [
+            "ny",
+            "catskills",
+            "virginia",
+            "roanoke"
+        ],
+        "settings": [
+            "castles",
+            "mountains"
+        ],
+        "themes": [
+            "castles"
+        ],
+        "slug": "greetings-from-roanoke",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Greta",
+        "credit": "J. Williams",
+        "characters": [
+            "greta-van-fleet-band"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "bands"
+        ],
+        "slug": "greta",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Guinea Pig Trip",
+        "credit": "B. Kleiman; title: J. Williams",
+        "characters": [],
+        "locations": [
+            "usa",
+            "appalachia"
+        ],
+        "settings": [
+            "rooftops"
+        ],
+        "themes": [
+            "alcohol",
+            "moonshine",
+            "invitations",
+            "parties",
+            "pilot-episodes"
+        ],
+        "slug": "guinea-pig-trip",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Gutterball Jamila",
+        "credit": "B. Kleiman\/ J. Williams\/ J. Braverman\/ S. Morgan\/ N. Magnani",
+        "characters": [
+            "gutterball-jamila"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "bowling"
+        ],
+        "slug": "gutterball-jamila",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Hand Stamp Action",
+        "credit": "B. Kleiman",
+        "characters": [
+            "the-doorman"
+        ],
+        "locations": [],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "access",
+            "alcohol",
+            "fashion",
+            "security"
+        ],
+        "slug": "hand-stamp-action",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "The Hang-Up",
+        "credit": "B. Kleiman\/ J. Williams",
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "light-parade",
+            "night-brigade"
+        ],
+        "themes": [
+            "fear",
+            "love",
+            "phones"
+        ],
+        "slug": "the-hang-up",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "He Got The EGOT",
+        "credit": "B. Kleiman",
+        "characters": [
+            "jon-bon-jovi",
+            "steve-buscemi",
+            "bo-jackson",
+            "deion-sanders"
+        ],
+        "locations": [],
+        "settings": [
+            "the-emmys",
+            "the-grammys",
+            "the-oscars",
+            "the-tonys"
+        ],
+        "themes": [
+            "awards",
+            "celebrities",
+            "talent"
+        ],
+        "slug": "he-got-the-egot",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "He Who Laughs The Hardest",
+        "credit": "B. Kleiman",
+        "characters": [
+            "jackie-the-jokeman-martling",
+            "howard-stern"
+        ],
+        "locations": [
+            "manhattan-ny",
+            "k-rock-studios"
+        ],
+        "settings": [
+            "howard-stern-show"
+        ],
+        "themes": [
+            "comedy",
+            "credit",
+            "laughter"
+        ],
+        "slug": "he-who-laughs-the-hardest",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Helmets On, Pencils Down",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "david-letterman",
+            "pac-man",
+            "transformers",
+            "x-men-inc-cyclops"
+        ],
+        "locations": [],
+        "settings": [
+            "school"
+        ],
+        "themes": [
+            "arcade-games",
+            "astronauts",
+            "comic-books",
+            "mutants",
+            "oysters",
+            "pencils",
+            "tests"
+        ],
+        "slug": "helmets-on-pencils-down",
+        "alternate_titles": []
+    },
+    {
+        "title": "Hey, Montauk!",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [
+            "long-island-ny",
+            "montauk"
+        ],
+        "settings": [],
+        "themes": [
+            "live-performance"
+        ],
+        "slug": "hey-montauk",
+        "alternate_titles": []
+    },
+    {
+        "title": "History Of Greatness",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-aluminum-foils-band",
+            "arse-slim-band",
+            "famous-band",
+            "the-meltin-sands-band",
+            "motivation-band",
+            "powder-clown-the-unbelievables-band",
+            "the-screwpickheads-band"
+        ],
+        "locations": [
+            "jersey-shore"
+        ],
+        "settings": [],
+        "themes": [
+            "bands",
+            "fame",
+            "live-performance",
+            "music",
+            "obscurity",
+            "spaghetti",
+            "travel"
+        ],
+        "slug": "history-of-greatness",
+        "alternate_titles": []
+    },
+    {
+        "title": "Hot Hand",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "fashion",
+            "lust",
+            "trains"
+        ],
+        "slug": "hot-hand",
+        "themes": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "Hot Sprinter",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-hot-sprinter"
+        ],
+        "locations": [
+            "clark-nj",
+            "oak-ridge-park"
+        ],
+        "settings": [
+            "high-school-track"
+        ],
+        "themes": [
+            "exercise",
+            "lust",
+            "running"
+        ],
+        "slug": "hot-sprinter",
+        "alternate_titles": []
+    },
+    {
+        "title": "Hugh The Swimaway Manatee",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "hugh-the-swimaway-manatee"
+        ],
+        "locations": [
+            "florida-keys",
+            "jersey-shore",
+            "liberty-island-new-york-harbor-ny",
+            "statue-of-liberty"
+        ],
+        "settings": [],
+        "themes": [
+            "buoys",
+            "escapes",
+            "manatees",
+            "searches",
+            "speedboats",
+            "travel"
+        ],
+        "slug": "hugh-the-swimaway-manatee",
+        "alternate_titles": []
+    },
+    {
+        "title": "I Keep The Lights Off (On Halloween)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-trick-or-treaters-including-elroy-jetson"
+        ],
+        "locations": [],
+        "settings": [
+            "halloween"
+        ],
+        "themes": [
+            "candy",
+            "trick-or-treaters"
+        ],
+        "slug": "i-keep-the-lights-off-on-halloween",
+        "alternate_titles": []
+    },
+    {
+        "title": "I Need A New Bar",
+        "credits": [
+            {
+                "role": "a.k.a. \"Anita Newbarr\" (lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [
+            "roebling-nj",
+            "dr-lou-s-place",
+            "linden-nj",
+            "robin-s-nest",
+            "tremelo-point"
+        ],
+        "settings": [
+            "bars"
+        ],
+        "themes": [
+            "alcohol",
+            "bars",
+            "live-music",
+            "redevelopment",
+            "trains"
+        ],
+        "slug": "i-need-a-new-bar",
+        "alternate_titles": []
+    },
+    {
+        "title": "I Taste The Wasabi",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams",
+                    "j-braverman",
+                    "ricky"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "japanese-food"
+        ],
+        "slug": "i-taste-the-wasabi",
+        "alternate_titles": []
+    },
+    {
+        "title": "I Was A Sperm (Legacy Of Love)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams",
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "slug": "i-was-a-sperm-legacy-of-love",
+        "alternate_titles": []
+    },
+    {
+        "title": "I'd Like To Buy A Vowel",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "the-alphabet",
+            "love"
+        ],
+        "slug": "i-d-like-to-buy-a-vowel",
+        "characters": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "I'm A Geologist",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-geologist"
+        ],
+        "locations": [
+            "pangea"
+        ],
+        "settings": [],
+        "themes": [
+            "break-ups",
+            "geology",
+            "love",
+            "plate-tectonics"
+        ],
+        "slug": "i-m-a-geologist",
+        "alternate_titles": []
+    },
+    {
+        "title": "I'm Not A Marsupial",
+        "alternate_title": "Keg Stand",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "kegs",
+            "lust",
+            "marsupials"
+        ],
+        "slug": "i-m-not-a-marsupial",
+        "characters": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "Imitation Crab",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-braverman",
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "madam-tussaud"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "cigarillos",
+            "crabs",
+            "fact-fiction",
+            "pringles"
+        ],
+        "slug": "imitation-crab",
+        "alternate_titles": []
+    },
+    {
+        "title": "Interloper",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "music"
+                ]
+            }
+        ],
+        "characters": [
+            "the-interloper"
+        ],
+        "locations": [
+            "maroubram-new-south-wales-australia",
+            "hartley-high"
+        ],
+        "settings": [
+            "high-school",
+            "skatepark"
+        ],
+        "themes": [
+            "accents",
+            "alcohol",
+            "wine",
+            "bunk-beds",
+            "fashion"
+        ],
+        "slug": "interloper",
+        "alternate_titles": []
+    },
+    {
+        "title": "International Music",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "locations": [
+            "hawaii",
+            "oahu",
+            "australia",
+            "france",
+            "paris",
+            "scotland"
+        ],
+        "settings": [],
+        "themes": [
+            "bagpipes",
+            "digeridoos",
+            "french-horns",
+            "music",
+            "travel",
+            "ukuleles"
+        ],
+        "slug": "international-music",
+        "characters": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "Jackie Puppet",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "slug": "jackie-puppet",
+        "characters": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "Jamila's Perfect Game",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "gutterball-jamila",
+            "seven-ten-steve"
+        ],
+        "locations": [],
+        "settings": [
+            "bowling-alley"
+        ],
+        "themes": [
+            "alcohol",
+            "beer",
+            "awards",
+            "competition",
+            "sports",
+            "bowling"
+        ],
+        "slug": "jamila-s-perfect-game",
+        "alternate_titles": []
+    },
+    {
+        "title": "Jane Crazy",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jane-crazy"
+        ],
+        "locations": [],
+        "settings": [
+            "dance-club"
+        ],
+        "themes": [
+            "dances",
+            "the-electric-eel",
+            "the-man-of-steel",
+            "the-love-supreme",
+            "the-teenage-dream",
+            "the-sonic-twist",
+            "the-bubblegum-kiss",
+            "off-the-grid",
+            "the-highest-bid"
+        ],
+        "slug": "jane-crazy",
+        "alternate_titles": []
+    },
+    {
+        "title": "Jetty",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-the-jokeman-martling"
+        ],
+        "locations": [
+            "oyster-bay-long-island-ny",
+            "jokeland"
+        ],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "beer",
+            "clams",
+            "firecrackers",
+            "garbage-cans",
+            "horseshoes",
+            "keg-cans",
+            "titles",
+            "yellowjackets"
+        ],
+        "slug": "jetty",
+        "alternate_titles": []
+    },
+    {
+        "title": "Jockey Song",
+        "alternate_title": "Jockeys",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-jockeys"
+        ],
+        "locations": [
+            "ocean-nj",
+            "monmouth-park"
+        ],
+        "settings": [],
+        "themes": [
+            "gambling",
+            "horses",
+            "lawn-jockeys"
+        ],
+        "slug": "jockey-song",
+        "alternate_titles": []
+    },
+    {
+        "title": "Jolly Green Carnivore",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-jolly-green-giant"
+        ],
+        "locations": [],
+        "settings": [
+            "deli",
+            "grocery-store"
+        ],
+        "themes": [
+            "asparagus",
+            "bar-b-q-sauce",
+            "beef-barley-soup",
+            "corned-beef-on-rye",
+            "creamed-corn",
+            "deception",
+            "eating-habits",
+            "food",
+            "meat",
+            "pickles",
+            "steak",
+            "vegetables"
+        ],
+        "slug": "jolly-green-carnivore",
+        "alternate_titles": []
+    },
+    {
+        "title": "Judo Day Job",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "awards",
+            "boxing",
+            "ermine-pelts",
+            "fights",
+            "gelt",
+            "grenades",
+            "jobs",
+            "judo",
+            "karate-belts",
+            "medals",
+            "wealth"
+        ],
+        "slug": "judo-day-job",
+        "alternate_titles": []
+    },
+    {
+        "title": "Just Another Barfight",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-naughty-nuns",
+            "the-park-ranger"
+        ],
+        "locations": [],
+        "settings": [
+            "bar",
+            "park"
+        ],
+        "themes": [
+            "alcohol",
+            "cap-guns",
+            "fights",
+            "gangs",
+            "wrestling"
+        ],
+        "slug": "just-another-barfight",
+        "alternate_titles": []
+    },
+    {
+        "title": "Just Desserts",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "sprinkles-pin-up-model",
+            "vanilla-sundae-stripper"
+        ],
+        "locations": [],
+        "settings": [
+            "strip-club"
+        ],
+        "themes": [
+            "alcohol",
+            "cabernet-sauvignon-wine",
+            "cupcake-brand-wine",
+            "baked-goods",
+            "lindzer-torts",
+            "iced-cream-sundaes",
+            "women"
+        ],
+        "slug": "just-desserts",
+        "alternate_titles": []
+    },
+    {
+        "title": "Karate Games",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "badminton",
+            "games",
+            "monopoly",
+            "karate",
+            "karate-belts"
+        ],
+        "slug": "karate-games",
+        "alternate_titles": []
+    },
+    {
+        "title": "Kelly Bundy Catcall",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "kelly-bundy"
+        ],
+        "locations": [
+            "il",
+            "chicago",
+            "ca",
+            "hollywood"
+        ],
+        "settings": [
+            "bundy-household"
+        ],
+        "themes": [
+            "candles",
+            "crabs",
+            "handball",
+            "lions",
+            "lust"
+        ],
+        "slug": "kelly-bundy-catcall",
+        "alternate_titles": []
+    },
+    {
+        "title": "Kickstart My Coffee\/Cock In Check",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "morning-time"
+        ],
+        "themes": [
+            "coffee",
+            "conversation",
+            "indecent-exposure",
+            "lust",
+            "roosters",
+            "sleep"
+        ],
+        "slug": "kickstart-my-coffee-cock-in-check",
+        "alternate_titles": []
+    },
+    {
+        "title": "L.A. Mic Stand Disaster 2015",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "hiawatha",
+            "jimmy-kimmel",
+            "david-lee-roth",
+            "van-halen-band"
+        ],
+        "locations": [
+            "los-angeles-ca",
+            "hollywood-boulevard",
+            "panama"
+        ],
+        "settings": [
+            "jimmy-kimmel-live"
+        ],
+        "themes": [
+            "alcohol",
+            "picklebacks",
+            "chrome",
+            "color-guard",
+            "guitar",
+            "injury",
+            "live-performance",
+            "skyscrapers",
+            "tv-shows"
+        ],
+        "slug": "l-a-mic-stand-disaster-2015",
+        "alternate_titles": []
+    },
+    {
+        "title": "Lake Of No Trout",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [
+            "london-england",
+            "thames-river"
+        ],
+        "settings": [
+            "garden",
+            "lake"
+        ],
+        "themes": [
+            "daisies",
+            "feast-or-famine",
+            "trout",
+            "love",
+            "oil",
+            "potatoes"
+        ],
+        "slug": "lake-of-no-trout",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Laughs That You Want",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "comedy"
+        ],
+        "slug": "the-laughs-that-you-want",
+        "alternate_titles": []
+    },
+    {
+        "title": "Lawn Flamingo",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "birds",
+            "lawn-furniture",
+            "garden-gnomes",
+            "lawn-flamingos",
+            "lawn-jockeys"
+        ],
+        "slug": "lawn-flamingo",
+        "alternate_titles": []
+    },
+    {
+        "title": "Lemon Dalliance",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band",
+            "dan-krug",
+            "bruce-springsteen",
+            "the-surfer"
+        ],
+        "locations": [
+            "asbury-park-nj",
+            "stone-pony",
+            "nj",
+            "asbury-park"
+        ],
+        "settings": [
+            "arcade",
+            "bars",
+            "boardwalk",
+            "restaurants"
+        ],
+        "themes": [
+            "art",
+            "chewing-gum",
+            "dancing",
+            "fences",
+            "injury",
+            "knives",
+            "live-performance",
+            "love",
+            "pinball-games",
+            "slick-chick",
+            "recklessness",
+            "stop-signs",
+            "weed"
+        ],
+        "slug": "lemon-dalliance",
+        "alternate_titles": []
+    },
+    {
+        "title": "Lemon Pledge",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "lansky",
+            "lansky-s-marionette"
+        ],
+        "locations": [],
+        "settings": [
+            "veranda-ledge"
+        ],
+        "themes": [
+            "popcorn",
+            "puppets",
+            "vows"
+        ],
+        "slug": "lemon-pledge",
+        "alternate_titles": []
+    },
+    {
+        "title": "Leotard Ladies",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "the-leotard-ladies",
+            "sandman"
+        ],
+        "locations": [],
+        "settings": [
+            "gazebo",
+            "meadow",
+            "woods"
+        ],
+        "themes": [
+            "cinnamon",
+            "dancing",
+            "love",
+            "lust",
+            "neon",
+            "roses",
+            "sage",
+            "thyme",
+            "trolleys",
+            "wrestling"
+        ],
+        "slug": "leotard-ladies",
+        "alternate_titles": []
+    },
+    {
+        "title": "Letter To The Editor",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-editor",
+            "the-letter-writer"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "criticisms",
+            "faxes",
+            "newspapers"
+        ],
+        "slug": "letter-to-the-editor",
+        "alternate_titles": []
+    },
+    {
+        "title": "Like A Real Raccoon",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "laura-ingalls-a-k-a-half-pint",
+            "jasper-the-raccoon"
+        ],
+        "locations": [
+            "minnesota",
+            "walnut-grove"
+        ],
+        "settings": [],
+        "themes": [
+            "dogs",
+            "labrador",
+            "pets",
+            "pots-pans",
+            "rabies",
+            "raccoons",
+            "rifles",
+            "style",
+            "sunglasses"
+        ],
+        "slug": "like-a-real-raccoon",
+        "alternate_titles": []
+    },
+    {
+        "title": "Like A Scooby",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "scooby-doo",
+            "video-punks"
+        ],
+        "locations": [
+            "new-york",
+            "manhattan"
+        ],
+        "settings": [
+            "subway"
+        ],
+        "themes": [
+            "bicycle-chains",
+            "fights",
+            "gangs"
+        ],
+        "slug": "like-a-scooby",
+        "alternate_titles": []
+    },
+    {
+        "title": "Like A Tornado",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-tornado",
+            "the-tornado-s-wife"
+        ],
+        "locations": [
+            "oklahoma",
+            "tornado-alley"
+        ],
+        "settings": [
+            "farm"
+        ],
+        "themes": [
+            "farms",
+            "tornadoes"
+        ],
+        "slug": "like-a-tornado",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Little Colt That Shouldn\u2019t",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-beatles",
+            "beautiful-jim-key-horse",
+            "countess-luann-de-lesseps",
+            "president-william-mckinley"
+        ],
+        "locations": [
+            "tn",
+            "shelbyville"
+        ],
+        "settings": [
+            "medicine-show",
+            "woods"
+        ],
+        "themes": [
+            "alcohol",
+            "pabst-blue-ribbon-beer",
+            "alphabet-soup",
+            "beatbox",
+            "beavers",
+            "boars",
+            "cinnamons",
+            "criminals",
+            "hired-assassins",
+            "horses",
+            "tv-stars"
+        ],
+        "slug": "the-little-colt-that-shouldn-t",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Little Group That Shouldn\u2019t",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "live-performance"
+        ],
+        "slug": "the-little-group-that-shouldn-t",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Little House That Shouldn\u2019t",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "laura-ingalls-a-k-a-half-pint",
+            "the-ingalls-family"
+        ],
+        "locations": [
+            "minnesota",
+            "walnut-grove"
+        ],
+        "settings": [
+            "farm"
+        ],
+        "themes": [
+            "farms"
+        ],
+        "slug": "the-little-house-that-shouldn-t",
+        "alternate_titles": []
+    },
+    {
+        "title": "Lulu Wong In The 5th",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "g-hillman",
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "lulu-wong-horse"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "gambling",
+            "horse-racing"
+        ],
+        "slug": "lulu-wong-in-the-5th",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Mad Caulker Of Ridgemont Avenue",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "endicott",
+            "the-mad-caulker"
+        ],
+        "locations": [
+            "new-jersey",
+            "ridgemont-avenue"
+        ],
+        "settings": [],
+        "themes": [
+            "caulking",
+            "home-repair",
+            "social-anxiety"
+        ],
+        "slug": "the-mad-caulker-of-ridgemont-avenue",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Mannequin Moved",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-mannequin-a-k-a-amanda-lepore",
+            "the-psychiatrist"
+        ],
+        "locations": [
+            "manhattan-ny",
+            "patricia-fields"
+        ],
+        "settings": [
+            "fashion-house"
+        ],
+        "themes": [
+            "automatons",
+            "gender",
+            "mannequins",
+            "surprise"
+        ],
+        "slug": "the-mannequin-moved",
+        "alternate_titles": []
+    },
+    {
+        "title": "Mea Culpa (For The Schadenfreude)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "charlie-harper"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "apologies",
+            "immaturity-vs-maturity",
+            "schadenfreude",
+            "sobriety"
+        ],
+        "notes": "* sung by Charlie Harper",
+        "slug": "mea-culpa-for-the-schadenfreude",
+        "alternate_titles": []
+    },
+    {
+        "title": "Miss Dazeem",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "adele-dazeem-a-k-a-idinia-menzel"
+        ],
+        "locations": [],
+        "settings": [
+            "china-shop"
+        ],
+        "themes": [
+            "avocados",
+            "cream",
+            "deception"
+        ],
+        "notes": "",
+        "slug": "miss-dazeem",
+        "alternate_titles": []
+    },
+    {
+        "title": "Moose-Stag Stance",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "vanna-white"
+        ],
+        "locations": [
+            "france",
+            "paris"
+        ],
+        "settings": [
+            "snow"
+        ],
+        "themes": [
+            "bananas",
+            "dancing",
+            "ice",
+            "moose",
+            "zubaz-pants"
+        ],
+        "notes": "",
+        "slug": "moose-stag-stance",
+        "alternate_titles": []
+    },
+    {
+        "title": "Mr. Electric (And His Menacing Crickets)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "don-quixote",
+            "flash-gordon",
+            "marshall-mcluhan-a-k-a-mr-electric",
+            "the-menacing-crickets-a-k-a-the-cricket-physicists",
+            "superman"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "crickets",
+            "cussing",
+            "frogs",
+            "philosophy",
+            "poor-judgement",
+            "violence"
+        ],
+        "notes": "",
+        "slug": "mr-electric-and-his-menacing-crickets",
+        "alternate_titles": []
+    },
+    {
+        "title": "Muffle It, Thunderthief!",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "frasier-crane",
+            "niles-crane"
+        ],
+        "locations": [
+            "washington",
+            "seattle"
+        ],
+        "settings": [
+            "wine-club"
+        ],
+        "themes": [
+            "alcohol",
+            "wine",
+            "awards",
+            "family",
+            "grapes",
+            "rivalries"
+        ],
+        "notes": "* sung by Frasier Crane",
+        "slug": "muffle-it-thunderthief",
+        "alternate_titles": []
+    },
+    {
+        "title": "My Chameleon",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "the-chameleon"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "art",
+            "pollock",
+            "warhol",
+            "chameleons",
+            "light-shows",
+            "lima-beans"
+        ],
+        "notes": "",
+        "slug": "my-chameleon",
+        "alternate_titles": []
+    },
+    {
+        "title": "My Two Rescue Cats (Drove Me To Drink)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "g-hillman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-rescue-cats",
+            "rover"
+        ],
+        "locations": [
+            "manhattan-ny",
+            "pink-s"
+        ],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "alcohol",
+            "cars",
+            "cats",
+            "chauffeurs",
+            "dogs",
+            "goldfish",
+            "pets",
+            "taxis"
+        ],
+        "notes": "",
+        "slug": "my-two-rescue-cats-drove-me-to-drink",
+        "alternate_titles": []
+    },
+    {
+        "title": "Nessie",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "nessie-a-k-a-the-loch-ness-monster"
+        ],
+        "locations": [
+            "atlantic-ocean",
+            "scotland",
+            "lake-loch-ness",
+            "outer-space"
+        ],
+        "settings": [],
+        "themes": [
+            "legends",
+            "searches",
+            "sonars"
+        ],
+        "notes": "",
+        "slug": "nessie",
+        "alternate_titles": []
+    },
+    {
+        "title": "Newsflash",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "g-hillman"
+                ]
+            }
+        ],
+        "characters": [
+            "dan-krug",
+            "pavement-band"
+        ],
+        "locations": [
+            "manhattan-ny",
+            "central-park",
+            "nyu"
+        ],
+        "settings": [
+            "college",
+            "park"
+        ],
+        "themes": [
+            "art-projects",
+            "costumes",
+            "documentaries",
+            "drugs",
+            "marinol",
+            "guitars",
+            "lapdances",
+            "parrots",
+            "parties",
+            "sabotage",
+            "trains",
+            "video-tapes"
+        ],
+        "notes": "",
+        "slug": "newsflash",
+        "alternate_titles": []
+    },
+    {
+        "title": "Not So Fast (Beer Glass Song)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "alarm-clocks",
+            "alcohol",
+            "beer",
+            "cars",
+            "mercedes",
+            "marriage",
+            "romance"
+        ],
+        "notes": "",
+        "slug": "not-so-fast-beer-glass-song",
+        "alternate_titles": []
+    },
+    {
+        "title": "Oh, Ramona!",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "j-williams",
+                    "d-bowie"
+                ]
+            }
+        ],
+        "characters": [
+            "ramona-singer"
+        ],
+        "locations": [
+            "long-island-ny",
+            "the-hamptons"
+        ],
+        "settings": [
+            "the-moon"
+        ],
+        "themes": [
+            "comets",
+            "love",
+            "titles"
+        ],
+        "notes": "",
+        "slug": "oh-ramona",
+        "alternate_titles": []
+    },
+    {
+        "title": "Oh(sh) Hit",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "weed"
+        ],
+        "notes": "",
+        "slug": "oh-sh-hit",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Ol' Detroit Eye Tuck",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-braverman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "d-johansen"
+                ]
+            }
+        ],
+        "characters": [
+            "johnny-carson",
+            "david-johansen-a-k-a-buster-poindexter"
+        ],
+        "locations": [
+            "michigan",
+            "detroit"
+        ],
+        "settings": [],
+        "themes": [
+            "eye-surgery",
+            "plastic-surgery"
+        ],
+        "notes": "",
+        "slug": "the-ol-detroit-eye-tuck",
+        "alternate_titles": []
+    },
+    {
+        "title": "One-Tick Pony",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-braverman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-one-tick-pony"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "cussing",
+            "drugs",
+            "misheard-words",
+            "music",
+            "ponies",
+            "storms",
+            "thunder",
+            "weather",
+            "weed"
+        ],
+        "notes": "",
+        "slug": "one-tick-pony",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Opposite Of An Encore",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [
+            "brooklyn-ny",
+            "branded-saloon"
+        ],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "live-performance"
+        ],
+        "notes": "* sung by Jackie Puppet band",
+        "slug": "the-opposite-of-an-encore",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Opposite Side (Of The Interview)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "drew-barrymore"
+        ],
+        "locations": [
+            "ny",
+            "manhattan"
+        ],
+        "settings": [],
+        "themes": [
+            "actresses",
+            "age",
+            "celebrity",
+            "crushes",
+            "fame",
+            "fans",
+            "lust",
+            "movies"
+        ],
+        "notes": "",
+        "slug": "the-opposite-side-of-the-interview",
+        "alternate_titles": []
+    },
+    {
+        "title": "Oregano",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "lou-reed",
+            "the-stickler",
+            "the-strokes"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "criticism",
+            "drugs",
+            "music",
+            "weed"
+        ],
+        "notes": "",
+        "slug": "oregano",
+        "alternate_titles": []
+    },
+    {
+        "title": "Our Band Is The Greatest Band",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "confidence",
+            "music"
+        ],
+        "slug": "our-band-is-the-greatest-band",
+        "alternate_titles": []
+    },
+    {
+        "title": "Outpunk The Skunk",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-skunk"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "myths",
+            "ships",
+            "skunks"
+        ],
+        "notes": "",
+        "slug": "outpunk-the-skunk",
+        "alternate_titles": []
+    },
+    {
+        "title": "Over-Amorous",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [
+            "usa",
+            "east-coast"
+        ],
+        "settings": [
+            "malls",
+            "the-beach"
+        ],
+        "themes": [
+            "excitement",
+            "lust",
+            "ocean-liners",
+            "tigers",
+            "whiffleball"
+        ],
+        "notes": "",
+        "slug": "over-amorous",
+        "alternate_titles": []
+    },
+    {
+        "title": "Overboard",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "the-castaways"
+        ],
+        "locations": [
+            "atlantic-ocean"
+        ],
+        "settings": [],
+        "themes": [
+            "strandings-at-sea"
+        ],
+        "notes": "* sung by The Castaways",
+        "slug": "overboard",
+        "alternate_titles": []
+    },
+    {
+        "title": "Pauline The Egg Salad Lady",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "pauline-the-egg-salad-lady"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "notes": "",
+        "slug": "pauline-the-egg-salad-lady",
+        "alternate_titles": []
+    },
+    {
+        "title": "Peanut Brittle Madness",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jean-michel-basquiat",
+            "stockard-channing",
+            "the-detective-snooparoni",
+            "the-tennyson-of-venison"
+        ],
+        "locations": [],
+        "settings": [
+            "college-campus"
+        ],
+        "themes": [
+            "art",
+            "bubblegum",
+            "bubbalicious",
+            "hubba-bubba",
+            "bunsons-beakers",
+            "crime",
+            "dreams",
+            "hunting",
+            "jobs",
+            "painting",
+            "peanut-brittle",
+            "poetry",
+            "snakes",
+            "theft",
+            "whiffleball"
+        ],
+        "notes": "",
+        "slug": "peanut-brittle-madness",
+        "alternate_titles": []
+    },
+    {
+        "title": "Peg Leg Maria",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "g-hillman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "johnny",
+            "peg-leg-maria",
+            "officer-o-malley"
+        ],
+        "locations": [
+            "nj",
+            "exit-19"
+        ],
+        "settings": [
+            "diner"
+        ],
+        "themes": [],
+        "notes": "",
+        "slug": "peg-leg-maria",
+        "alternate_titles": []
+    },
+    {
+        "title": "Pencil Stalactites",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "tedium-boy-a-k-a-the-forger"
+        ],
+        "locations": [],
+        "settings": [
+            "office"
+        ],
+        "themes": [
+            "baseball",
+            "boredom",
+            "ceilings",
+            "football",
+            "jobs",
+            "offices",
+            "paper-footballs",
+            "paper-airplanes",
+            "paper-clips",
+            "pencils",
+            "rubber-band-balls",
+            "stalactites",
+            "styrofoam-tiles",
+            "telemarketers"
+        ],
+        "notes": "",
+        "slug": "pencil-stalactites",
+        "alternate_titles": []
+    },
+    {
+        "title": "Phenomenal",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "corona-beer",
+            "gravity",
+            "lime",
+            "lust",
+            "pineapples",
+            "trains"
+        ],
+        "notes": "",
+        "slug": "phenomenal",
+        "alternate_titles": []
+    },
+    {
+        "title": "Pink's Slip",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "charlene-whittenburg",
+            "slim",
+            "hill",
+            "the-stooges-band"
+        ],
+        "locations": [
+            "manhattan-ny",
+            "pink-s"
+        ],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "alcohol",
+            "noise-complaints"
+        ],
+        "notes": "",
+        "slug": "pink-s-slip",
+        "alternate_titles": []
+    },
+    {
+        "title": "Pirate Radio",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "pirates"
+        ],
+        "locations": [],
+        "settings": [
+            "wrrrrr-fm-radio"
+        ],
+        "themes": [
+            "pirates",
+            "radio"
+        ],
+        "notes": "",
+        "slug": "pirate-radio",
+        "alternate_titles": []
+    },
+    {
+        "title": "Pity Party (An American Waltz)",
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "notes": "",
+        "slug": "pity-party-an-american-waltz",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "jackie-puppet"
+                ]
+            }
+        ],
+        "alternate_titles": []
+    },
+    {
+        "title": "Pony Up, Pony Boy",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-greasers",
+            "pony-boy",
+            "the-socs"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "coffee",
+            "dogs",
+            "fights",
+            "money",
+            "movies-novels",
+            "the-outsiders",
+            "sandwiches",
+            "soda",
+            "coke"
+        ],
+        "slug": "pony-up-pony-boy",
+        "alternate_titles": []
+    },
+    {
+        "title": "Poppy Seed (Is The Glitter Of Bagel Toppings)",
+        "characters": [],
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "bagels",
+            "glitter",
+            "poppy-seeds",
+            "strippers"
+        ],
+        "slug": "poppy-seed-is-the-glitter-of-bagel-toppings",
+        "alternate_titles": []
+    },
+    {
+        "title": "Practice Round",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "baseball",
+            "spring-training",
+            "boxing",
+            "live-performance",
+            "scrimmage"
+        ],
+        "slug": "practice-round",
+        "alternate_titles": []
+    },
+    {
+        "title": "Prove Me Right",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "beer",
+            "ice",
+            "lust",
+            "music",
+            "practice",
+            "stockings"
+        ],
+        "notes": "* sung by Slim",
+        "slug": "prove-me-right",
+        "alternate_titles": []
+    },
+    {
+        "title": "Publicity Hounds",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-publicity-hounds"
+        ],
+        "locations": [],
+        "settings": [
+            "quinceanaras",
+            "kennels",
+            "park",
+            "parking-lot"
+        ],
+        "themes": [
+            "buses",
+            "crime",
+            "fashion",
+            "ghetto-blasters",
+            "hounds",
+            "lust",
+            "publicity",
+            "page-six-models",
+            "pyrite",
+            "theft",
+            "wolves"
+        ],
+        "slug": "publicity-hounds",
+        "alternate_titles": []
+    },
+    {
+        "title": "Puff Piece\/Hatchet Job",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "norm-macdonald"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "bread-butter",
+            "comedy",
+            "criticism",
+            "praise",
+            "roller-skating",
+            "weed",
+            "wrestling"
+        ],
+        "slug": "puff-piece-hatchet-job",
+        "alternate_titles": []
+    },
+    {
+        "title": "Punchbowl Spiker",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "rambo"
+        ],
+        "locations": [],
+        "settings": [
+            "backyard-party"
+        ],
+        "themes": [
+            "age",
+            "alcohol",
+            "hackey-sack",
+            "mischief",
+            "punchbowls"
+        ],
+        "slug": "punchbowl-spiker",
+        "alternate_titles": []
+    },
+    {
+        "title": "Radio Trivia",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-buggles-band"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "computers",
+            "music-video",
+            "radio",
+            "tv",
+            "mtv",
+            "trivia"
+        ],
+        "slug": "radio-trivia",
+        "alternate_titles": []
+    },
+    {
+        "title": "Raines Sandwich",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "j-braverman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-stickler"
+        ],
+        "locations": [
+            "ny",
+            "manhattan"
+        ],
+        "settings": [
+            "surprise-party"
+        ],
+        "themes": [
+            "alcohol",
+            "beer",
+            "guinness",
+            "bay-leaves",
+            "raines-sandwiches"
+        ],
+        "slug": "raines-sandwich",
+        "alternate_titles": []
+    },
+    {
+        "title": "Rambo The Mischievous",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-librarian",
+            "rambo"
+        ],
+        "locations": [],
+        "settings": [
+            "college",
+            "high-school-prom",
+            "homeroom",
+            "library",
+            "pizzeria"
+        ],
+        "themes": [
+            "alcohol",
+            "bees",
+            "cars",
+            "catfish",
+            "eggs",
+            "hazing",
+            "honey",
+            "initiations",
+            "mischief",
+            "police",
+            "pepper-shakers",
+            "punchbowls",
+            "trickery"
+        ],
+        "slug": "rambo-the-mischievous",
+        "alternate_titles": []
+    },
+    {
+        "title": "Rapscallion",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-rapscallion"
+        ],
+        "locations": [],
+        "settings": [
+            "commune"
+        ],
+        "themes": [
+            "comedy",
+            "dreams",
+            "sleep",
+            "stream-of-consciousness",
+            "talents",
+            "vacuums"
+        ],
+        "slug": "rapscallion",
+        "alternate_titles": []
+    },
+    {
+        "title": "Read The Room",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "christy-canyon",
+            "slim",
+            "jeremy"
+        ],
+        "locations": [
+            "brooklyn-ny",
+            "greenhouse-cafe"
+        ],
+        "settings": [
+            "open-mic-night"
+        ],
+        "themes": [
+            "alcohol",
+            "corn-pone",
+            "live-performance",
+            "music",
+            "poetry",
+            "pornography",
+            "reviews"
+        ],
+        "notes": "* sung by Slim",
+        "slug": "read-the-room",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Real Macaw (Assault By Lasagna)",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams",
+                    "j-braverman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-marinara-magnet",
+            "the-real-macaw"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "birds",
+            "macaws",
+            "cabbage",
+            "cole-slaw",
+            "feathers",
+            "sauce",
+            "pillows"
+        ],
+        "notes": "",
+        "slug": "the-real-macaw-assault-by-lasagna",
+        "alternate_titles": []
+    },
+    {
+        "title": "Rock & Roll Reenie",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "david-bowie",
+            "mick-jagger",
+            "iggy-pop",
+            "lou-reed",
+            "rock-roll-reenie-a-k-a-cathy-catamount",
+            "grace-slick"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "dancing",
+            "fashion",
+            "leases",
+            "peacocks",
+            "rock-roll",
+            "yachts"
+        ],
+        "slug": "rock-roll-reenie",
+        "alternate_titles": []
+    },
+    {
+        "title": "Rooftop Party (See You At The Ranch House)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [
+            "ny",
+            "brooklyn"
+        ],
+        "settings": [
+            "ranch-house",
+            "rooftop-party"
+        ],
+        "themes": [
+            "couches",
+            "fear-of-heights",
+            "invitations"
+        ],
+        "notes": "",
+        "slug": "rooftop-party-see-you-at-the-ranch-house",
+        "alternate_titles": [
+            "See You At The Ranch House"
+        ]
+    },
+    {
+        "title": "Ruined My Bar",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "alcohol",
+            "fangs",
+            "furniture",
+            "jukeboxes",
+            "renovations",
+            "tar",
+            "time"
+        ],
+        "notes": "",
+        "slug": "ruined-my-bar",
+        "alternate_titles": []
+    },
+    {
+        "title": "RVdersehen",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "slim",
+            "robyn"
+        ],
+        "locations": [
+            "alaska",
+            "anchorage",
+            "manhattan-ny",
+            "bowery",
+            "south-america",
+            "bogota",
+            "canada",
+            "alberta"
+        ],
+        "settings": [
+            "the-road"
+        ],
+        "themes": [
+            "cars",
+            "horns",
+            "rvs",
+            "rain",
+            "roadtrips",
+            "sleet",
+            "travel",
+            "waiters",
+            "weed"
+        ],
+        "notes": "",
+        "slug": "rvdersehen",
+        "alternate_titles": []
+    },
+    {
+        "title": "Scrimshaw Sneed",
+        "alternate_title": "Frenchman At The Deli",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-frenchman",
+            "scrimshaw-sneed",
+            "spot-scrimshaw-sneed-s-horse"
+        ],
+        "locations": [],
+        "settings": [
+            "deli"
+        ],
+        "themes": [
+            "corned-beef",
+            "french",
+            "reviews",
+            "turkey"
+        ],
+        "notes": "",
+        "slug": "scrimshaw-sneed",
+        "alternate_titles": []
+    },
+    {
+        "title": "Scuba Bob",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "detective-snooparoni",
+            "scuba-bob",
+            "the-missing-squid"
+        ],
+        "locations": [],
+        "settings": [
+            "village"
+        ],
+        "themes": [
+            "bees",
+            "boats",
+            "breezes",
+            "bubbles",
+            "fish",
+            "hammerhead-sharks",
+            "jellyfish",
+            "kelp",
+            "manatees",
+            "manta-rays",
+            "masks",
+            "money",
+            "quid",
+            "sails",
+            "sea-anemones",
+            "stubble",
+            "tales"
+        ],
+        "slug": "scuba-bob",
+        "alternate_titles": []
+    },
+    {
+        "title": "Secret Agent Mandrill",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "secret-agent-mandrill"
+        ],
+        "locations": [],
+        "settings": [
+            "zoo"
+        ],
+        "themes": [
+            "flashiness",
+            "gadgets",
+            "mandrills",
+            "secret-agents",
+            "spies",
+            "talents"
+        ],
+        "notes": "",
+        "slug": "secret-agent-mandrill",
+        "alternate_titles": []
+    },
+    {
+        "title": "See-Saw",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "you",
+            "your-friends",
+            "the-scene-watchers"
+        ],
+        "locations": [
+            "ave-a",
+            "east-river"
+        ],
+        "settings": [
+            "party"
+        ],
+        "themes": [
+            "hooking-up"
+        ],
+        "notes": "",
+        "slug": "see-saw",
+        "alternate_titles": []
+    },
+    {
+        "title": "Semi-Confidential",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jeremy-the-bearded-dragon-drew-barrymore-s-pet-lizard",
+            "rowdy-roddy-piper"
+        ],
+        "locations": [
+            "ny",
+            "manhattan"
+        ],
+        "settings": [
+            "tv-studio",
+            "cavern",
+            "wrestling-ring"
+        ],
+        "themes": [
+            "bagpipes",
+            "confidentiality",
+            "kilts",
+            "stalactites",
+            "style",
+            "scissors",
+            "wrestling"
+        ],
+        "notes": "",
+        "slug": "semi-confidential",
+        "alternate_titles": []
+    },
+    {
+        "title": "7 Out Of 8 Ain\u2019t Bad",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-octopus",
+            "the-squids"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "arm-wrestling"
+        ],
+        "notes": "",
+        "slug": "7-out-of-8-ain-t-bad",
+        "alternate_titles": []
+    },
+    {
+        "title": "700 Hefty Bags Of Pot",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "crime",
+            "diamonds",
+            "dump-trucks",
+            "theft",
+            "weed"
+        ],
+        "notes": "",
+        "slug": "700-hefty-bags-of-pot",
+        "alternate_titles": []
+    },
+    {
+        "title": "Shady Contractor",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-braverman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-shady-contractor"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "contractors",
+            "home-repair",
+            "vacations",
+            "weather"
+        ],
+        "notes": "",
+        "slug": "shady-contractor",
+        "alternate_titles": []
+    },
+    {
+        "title": "Shapeshifters",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "bumper-stickers",
+            "dogs",
+            "frisbees",
+            "mad-magazine",
+            "paint",
+            "shapeshifting"
+        ],
+        "slug": "shapeshifters",
+        "characters": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "Sheila\u2019s Toe",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "the-police",
+            "sheila-carter"
+        ],
+        "locations": [
+            "california-mountain-range",
+            "sierra-nevada"
+        ],
+        "settings": [
+            "national-park"
+        ],
+        "themes": [
+            "bears",
+            "grizzlies",
+            "crime",
+            "fugitives",
+            "toes",
+            "trickery"
+        ],
+        "slug": "sheila-s-toe",
+        "alternate_titles": []
+    },
+    {
+        "title": "Slow Work Day (A Forgery)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-forger"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "art",
+            "matisse",
+            "boredom",
+            "cheese",
+            "gorgonzola",
+            "crime",
+            "forgery",
+            "jobs",
+            "offices",
+            "time"
+        ],
+        "notes": "sung by The Forger",
+        "slug": "slow-work-day-a-forgery",
+        "alternate_titles": []
+    },
+    {
+        "title": "Smooth As Geppetto",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "james-william-chichetto",
+            "geppetto",
+            "sandman",
+            "the-stenographer"
+        ],
+        "locations": [],
+        "settings": [
+            "meadow",
+            "the-west-usa"
+        ],
+        "themes": [
+            "dogs",
+            "sleep",
+            "puppets"
+        ],
+        "slug": "smooth-as-geppetto",
+        "alternate_titles": []
+    },
+    {
+        "title": "Sneaking Suspicion",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "gilding-the-lily",
+            "suspicion"
+        ],
+        "slug": "sneaking-suspicion",
+        "alternate_titles": []
+    },
+    {
+        "title": "Soho Truffle",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-strokes"
+        ],
+        "locations": [
+            "manhattan-ny",
+            "soho"
+        ],
+        "settings": [
+            "youtube"
+        ],
+        "themes": [
+            "conspiracy-theories",
+            "music",
+            "pigs",
+            "suspicion",
+            "trickery",
+            "truffles"
+        ],
+        "slug": "soho-truffle",
+        "alternate_titles": []
+    },
+    {
+        "title": "Song For The Squids",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-squids"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "squids"
+        ],
+        "slug": "song-for-the-squids",
+        "alternate_titles": []
+    },
+    {
+        "title": "Space Lovin'",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "byron-h-nudelaman"
+        ],
+        "locations": [
+            "planet-nudelman"
+        ],
+        "settings": [
+            "outer-space"
+        ],
+        "themes": [
+            "aliens",
+            "arrows",
+            "baked-goods",
+            "babka",
+            "custard",
+            "fish",
+            "barracudas",
+            "piranhas",
+            "love",
+            "lust",
+            "space-birds"
+        ],
+        "slug": "space-lovin",
+        "alternate_titles": []
+    },
+    {
+        "title": "Standing In A Forest",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "forest",
+            "shore"
+        ],
+        "themes": [
+            "love",
+            "lust",
+            "painting",
+            "storms",
+            "stylus"
+        ],
+        "slug": "standing-in-a-forest",
+        "alternate_titles": []
+    },
+    {
+        "title": "Staten Island Rinkadink",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [
+            "ny",
+            "staten-island"
+        ],
+        "settings": [
+            "roller-rink"
+        ],
+        "themes": [
+            "alcohol",
+            "disco",
+            "gazelles",
+            "limes",
+            "marbles",
+            "parties",
+            "roller-derby",
+            "roller-disco",
+            "roller-skating"
+        ],
+        "slug": "staten-island-rinkadink",
+        "alternate_titles": []
+    },
+    {
+        "title": "Stephanie, For One",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "byron-h-nudelman",
+            "stephanie"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "discouragement",
+            "encouragement",
+            "fish",
+            "love",
+            "women"
+        ],
+        "slug": "stephanie-for-one",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Stickler",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-stickler"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "beer",
+            "guinness",
+            "corrections",
+            "flowers",
+            "dandelions",
+            "facts",
+            "frustration",
+            "wildlife",
+            "baleen-whales",
+            "bugs",
+            "chimpanzees",
+            "fish",
+            "grasshoppers",
+            "lizards",
+            "monkeys",
+            "salamanders",
+            "rock-formations",
+            "stalactites",
+            "stalagmites",
+            "vegetables",
+            "tomatoes"
+        ],
+        "notes": "* sung by The Stickler",
+        "slug": "the-stickler",
+        "alternate_titles": []
+    },
+    {
+        "title": "Suspicion",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-suspicious-character"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "crime",
+            "disguises",
+            "suspicion",
+            "truth-or-fiction"
+        ],
+        "notes": "",
+        "slug": "suspicion",
+        "alternate_titles": []
+    },
+    {
+        "title": "Tax Deductible",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams",
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "money",
+            "music",
+            "taxes"
+        ],
+        "notes": "",
+        "slug": "tax-deductible",
+        "alternate_titles": []
+    },
+    {
+        "title": "Tedium Boy (And The Daily Drag)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "helen-of-troy",
+            "tedium-boy-a-k-a-the-forger"
+        ],
+        "locations": [],
+        "settings": [
+            "the-office"
+        ],
+        "themes": [
+            "boredom",
+            "daydreams",
+            "distractions",
+            "dreams",
+            "jobs",
+            "offices",
+            "sleeping-bags",
+            "wrestling"
+        ],
+        "slug": "tedium-boy-and-the-daily-drag",
+        "alternate_titles": []
+    },
+    {
+        "title": "Thank You, Thank You (Francesco Fabrica)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "francesco-fabrica",
+            "the-venus"
+        ],
+        "locations": [
+            "mountain-range",
+            "popular-peaks"
+        ],
+        "settings": [
+            "the-sea"
+        ],
+        "themes": [
+            "bikinis",
+            "fashion",
+            "lust",
+            "mountains",
+            "tans",
+            "women"
+        ],
+        "slug": "thank-you-thank-you-francesco-fabrica",
+        "alternate_titles": []
+    },
+    {
+        "title": "That\u2019s The Guy",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "bruce-springsteen-the-e-street-band",
+            "the-weeklings",
+            "max-weinberg"
+        ],
+        "locations": [
+            "clark-nj",
+            "oak-ridge-park"
+        ],
+        "settings": [
+            "summertime",
+            "outdoor-concert"
+        ],
+        "themes": [
+            "age",
+            "county-fairs",
+            "music",
+            "spreading-the-word",
+            "stories"
+        ],
+        "slug": "that-s-the-guy",
+        "alternate_titles": []
+    },
+    {
+        "title": "Those Little Dracula Bites",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "r-mund"
+                ]
+            }
+        ],
+        "characters": [
+            "dracula",
+            "ronnie-the-limo-driver-mund",
+            "vampirella"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "lust",
+            "vampires"
+        ],
+        "slug": "those-little-dracula-bites",
+        "alternate_titles": []
+    },
+    {
+        "title": "Tice Tively Moking",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "richard-belzer",
+            "andrew-dice-clay",
+            "the-cramps-band",
+            "tice-tively-moking",
+            "harry-styles"
+        ],
+        "locations": [],
+        "settings": [
+            "campsite"
+        ],
+        "themes": [
+            "bells",
+            "money",
+            "police",
+            "punks",
+            "rascals",
+            "summer",
+            "tacos",
+            "warnings"
+        ],
+        "slug": "tice-tively-moking",
+        "alternate_titles": []
+    },
+    {
+        "title": "Timeshare Nightmare",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-braverman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-timeshare-guy"
+        ],
+        "locations": [
+            "orlando-fl",
+            "disney-world"
+        ],
+        "settings": [
+            "timeshare-presentation"
+        ],
+        "themes": [
+            "bees",
+            "breezes",
+            "honey",
+            "money",
+            "theme-parks",
+            "timeshares",
+            "trees",
+            "trickery"
+        ],
+        "slug": "timeshare-nightmare",
+        "alternate_titles": []
+    },
+    {
+        "title": "Tinfoil Antenna Tanisha",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "tinfoil-antenna-tanisha"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "contortionists",
+            "drug-dealing",
+            "money",
+            "tv",
+            "weed",
+            "zapple"
+        ],
+        "slug": "tinfoil-antenna-tanisha",
+        "alternate_titles": []
+    },
+    {
+        "title": "Tip Your \u2018Tender",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "the-bartender"
+        ],
+        "locations": [],
+        "settings": [
+            "bars"
+        ],
+        "themes": [
+            "liquor",
+            "wine",
+            "generosity",
+            "money",
+            "oregano",
+            "peer-pressure"
+        ],
+        "slug": "tip-your-tender",
+        "alternate_titles": []
+    },
+    {
+        "title": "Tonsil Hockey\/Pocket Pool",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman",
+                    "j-braverman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "japanese-restaurant"
+        ],
+        "themes": [
+            "japanese-food",
+            "lust",
+            "sexual-activity"
+        ],
+        "slug": "tonsil-hockey-pocket-pool",
+        "alternate_titles": []
+    },
+    {
+        "title": "Tri-Athlete",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-tri-athlete-a-k-a-the-hot-sprinter"
+        ],
+        "locations": [
+            "greece",
+            "crete"
+        ],
+        "settings": [
+            "track"
+        ],
+        "themes": [
+            "alcohol",
+            "johnny-walker-blue-label-scotch",
+            "art",
+            "magritte",
+            "athletics",
+            "beets",
+            "borscht",
+            "bug-spray",
+            "competition",
+            "eating",
+            "running",
+            "trickery"
+        ],
+        "slug": "tri-athlete",
+        "alternate_titles": []
+    },
+    {
+        "title": "Tricky Grey Sky",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [
+            "4-am"
+        ],
+        "themes": [
+            "clouds",
+            "fear",
+            "fireworks",
+            "helicopters",
+            "hounds",
+            "search-teams",
+            "sleep",
+            "storms",
+            "time"
+        ],
+        "slug": "tricky-grey-sky",
+        "alternate_titles": []
+    },
+    {
+        "title": "Tripwire",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "e-villegas"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [
+            "valley-view"
+        ],
+        "settings": [],
+        "themes": [
+            "disguises",
+            "lust",
+            "the-moon",
+            "telescopes",
+            "trickery",
+            "tripwire",
+            "voyeurism"
+        ],
+        "slug": "tripwire",
+        "alternate_titles": []
+    },
+    {
+        "title": "Turn It Into A Song (The Jackie Puppet Manifesto)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-ambidextrous-high-five-gang",
+            "dan-smith",
+            "geppetto",
+            "gutterball-jamila",
+            "jackie-puppet-band",
+            "rock-roll-reenie",
+            "scuba-bob",
+            "the-stickler"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "art",
+            "creativity",
+            "comedy",
+            "songs"
+        ],
+        "slug": "turn-it-into-a-song-the-jackie-puppet-manifesto",
+        "alternate_titles": []
+    },
+    {
+        "title": "Turnstile Hop (Don\u2019t Do It)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-turnstile-jumper"
+        ],
+        "locations": [
+            "ny",
+            "manhattan"
+        ],
+        "settings": [
+            "subway"
+        ],
+        "themes": [
+            "accents",
+            "comets",
+            "crime",
+            "lawyers",
+            "prison",
+            "suites",
+            "theft",
+            "trickery"
+        ],
+        "slug": "turnstile-hop-don-t-do-it",
+        "alternate_titles": []
+    },
+    {
+        "title": "Turnstile Jumper",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-turnstile-jumper"
+        ],
+        "locations": [
+            "ny",
+            "manhattan"
+        ],
+        "settings": [
+            "subway"
+        ],
+        "themes": [
+            "cars",
+            "crime",
+            "high-school",
+            "panhandling",
+            "running",
+            "theft",
+            "track",
+            "trickery",
+            "wallabies"
+        ],
+        "slug": "turnstile-jumper",
+        "alternate_titles": []
+    },
+    {
+        "title": "Twenty-Two",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "alfred-e-neuman",
+            "peter-gatien"
+        ],
+        "locations": [
+            "manhattan-ny",
+            "the-limelight"
+        ],
+        "settings": [
+            "little-league-ballpark"
+        ],
+        "themes": [
+            "age",
+            "alcohol",
+            "tanqueray-gin",
+            "baseball",
+            "bobble-heads",
+            "bubblegum",
+            "big-league-chew",
+            "dalmations",
+            "mad-magazine",
+            "nasal-spray",
+            "tonic",
+            "waterbeds"
+        ],
+        "slug": "twenty-two",
+        "alternate_titles": []
+    },
+    {
+        "title": "Unnecessary Outrage",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "r-quivers"
+                ]
+            }
+        ],
+        "characters": [
+            "daniel-larusso",
+            "tory-nichols",
+            "terry-silver"
+        ],
+        "locations": [
+            "ca",
+            "san-fernando-valley"
+        ],
+        "settings": [
+            "community-swimming-pool",
+            "fancy-house-party"
+        ],
+        "themes": [
+            "alcohol",
+            "bonsai-plants",
+            "political-correctness",
+            "fights",
+            "lust"
+        ],
+        "slug": "unnecessary-outrage",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Updown",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "christine-campbell"
+        ],
+        "locations": [
+            "ca",
+            "los-angeles"
+        ],
+        "settings": [],
+        "themes": [
+            "lust"
+        ],
+        "slug": "the-updown",
+        "alternate_titles": []
+    },
+    {
+        "title": "Varmints",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-car-salesman",
+            "the-spraycan-man",
+            "yosemite-sam"
+        ],
+        "locations": [
+            "nj",
+            "ho-ho-kus"
+        ],
+        "settings": [
+            "jersey-transit-bus",
+            "car-lot",
+            "out-west-usa"
+        ],
+        "themes": [
+            "crime",
+            "cussing",
+            "gambling",
+            "looney-toons",
+            "money",
+            "outlaws",
+            "trickery"
+        ],
+        "slug": "varmints",
+        "alternate_titles": []
+    },
+    {
+        "title": "Video Punks",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-gigolo-hunks",
+            "the-video-punks"
+        ],
+        "locations": [
+            "ny",
+            "manhattan"
+        ],
+        "settings": [
+            "subway"
+        ],
+        "themes": [
+            "cyperpunk",
+            "fights",
+            "gangs",
+            "punks",
+            "video-games"
+        ],
+        "slug": "video-punks",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Vine",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "slug": "the-vine",
+        "alternate_titles": []
+    },
+    {
+        "title": "Voltron (In The Serengeti)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "voltron"
+        ],
+        "locations": [
+            "africa",
+            "the-serengeti"
+        ],
+        "settings": [
+            "plains"
+        ],
+        "themes": [
+            "amoebas",
+            "giants",
+            "hunger",
+            "hunting",
+            "wildlife",
+            "elephants",
+            "fowl",
+            "gazelles",
+            "giraffes",
+            "lions",
+            "macaques",
+            "wildebeest",
+            "zebras"
+        ],
+        "slug": "voltron-in-the-serengeti",
+        "alternate_titles": []
+    },
+    {
+        "title": "Vortex",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "bk",
+            "the-scalper",
+            "slim",
+            "neil-young"
+        ],
+        "locations": [
+            "manhattan-ny",
+            "carnegie-hall"
+        ],
+        "settings": [
+            "neil-young-concert",
+            "wintertime",
+            "train-stations"
+        ],
+        "themes": [
+            "crime",
+            "ticket-scalping",
+            "fights",
+            "music",
+            "polar-vortex",
+            "stickers"
+        ],
+        "slug": "vortex",
+        "alternate_titles": []
+    },
+    {
+        "title": "Vulcanized Rubbers",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "a-vulcan"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "slug": "vulcanized-rubbers",
+        "alternate_titles": []
+    },
+    {
+        "title": "Ware-Peddling Days",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "live-performance",
+            "money",
+            "music",
+            "playboy-models",
+            "records",
+            "weed"
+        ],
+        "slug": "ware-peddling-days",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Way She Does",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "howard-stern",
+            "howard-stern-show-cast-of-characters"
+        ],
+        "locations": [
+            "ny",
+            "manhattan",
+            "new-york",
+            "worldwide"
+        ],
+        "settings": [
+            "the-howard-stern-show"
+        ],
+        "themes": [
+            "comedy",
+            "radio",
+            "wackiness"
+        ],
+        "slug": "the-way-she-does",
+        "alternate_titles": []
+    },
+    {
+        "title": "We Have A Way (With The Ladies)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-wild-crazy-guys"
+        ],
+        "locations": [],
+        "settings": [
+            "bar"
+        ],
+        "themes": [
+            "alcohol",
+            "lust",
+            "owls",
+            "unpopularity"
+        ],
+        "notes": "sung by The Wild & Crazy Guys",
+        "slug": "we-have-a-way-with-the-ladies",
+        "alternate_titles": []
+    },
+    {
+        "title": "Weed Wagon",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman",
+                    "j-williams",
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "beer",
+            "aliens",
+            "dragons",
+            "dreams",
+            "jobs",
+            "sobriety",
+            "weed"
+        ],
+        "notes": "sung by Jackie Puppet band",
+        "slug": "weed-wagon",
+        "alternate_titles": []
+    },
+    {
+        "title": "Well-Aware",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "panther-pelt-girl"
+        ],
+        "locations": [
+            "clark-nj",
+            "barnes-noble"
+        ],
+        "settings": [
+            "bookstore"
+        ],
+        "themes": [
+            "fashion",
+            "lust",
+            "rain"
+        ],
+        "slug": "well-aware",
+        "alternate_titles": []
+    },
+    {
+        "title": "We\u2019re No Thieves",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jackie-puppet-band",
+            "byron-h-nudelman"
+        ],
+        "locations": [
+            "ocean-nj",
+            "monmouth-park"
+        ],
+        "settings": [
+            "beer-garden"
+        ],
+        "themes": [
+            "alcohol",
+            "beer",
+            "scotch",
+            "cars",
+            "cigars",
+            "crime",
+            "honesty",
+            "money",
+            "theft"
+        ],
+        "slug": "we-re-no-thieves",
+        "alternate_titles": []
+    },
+    {
+        "title": "Whales Do",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-whales"
+        ],
+        "locations": [],
+        "settings": [
+            "the-ocean"
+        ],
+        "themes": [
+            "bail-bonds",
+            "sea-life",
+            "krill",
+            "plankton",
+            "whales",
+            "trickery"
+        ],
+        "slug": "whales-do",
+        "alternate_titles": []
+    },
+    {
+        "title": "What A Drag",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-drag-queen"
+        ],
+        "locations": [
+            "clark-nj",
+            "barnes-noble"
+        ],
+        "settings": [
+            "bookstore"
+        ],
+        "themes": [
+            "fashion",
+            "jobs",
+            "lust",
+            "makeup",
+            "parties",
+            "shopping",
+            "time-travel"
+        ],
+        "slug": "what-a-drag",
+        "alternate_titles": []
+    },
+    {
+        "title": "What The Fuck Is Water?",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "title",
+                "credits": [
+                    "d-rane"
+                ]
+            }
+        ],
+        "characters": [
+            "dean-rane"
+        ],
+        "locations": [
+            "brooklyn-ny",
+            "king-killer-studios"
+        ],
+        "settings": [
+            "recording-studio"
+        ],
+        "themes": [
+            "alcohol",
+            "gin",
+            "sambuca",
+            "vodka",
+            "cheese",
+            "gorgonzola",
+            "coffee",
+            "comedy",
+            "criticism",
+            "orange-juice",
+            "recording",
+            "sex",
+            "kama-sutra",
+            "tonic",
+            "water",
+            "wildlife",
+            "llamas",
+            "zoos"
+        ],
+        "slug": "what-the-fuck-is-water",
+        "alternate_titles": []
+    },
+    {
+        "title": "What\u2019s Gnu? Wildebeest",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-gnu-a-k-a-the-wildebeest"
+        ],
+        "locations": [
+            "africa",
+            "the-serengeti"
+        ],
+        "setting": "plains",
+        "themes": [
+            "weather",
+            "wildlife",
+            "wildebeest",
+            "yachts"
+        ],
+        "slug": "what-s-gnu-wildebeest",
+        "settings": [],
+        "alternate_titles": []
+    },
+    {
+        "title": "Where The Cicadas At?",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-cicadas"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "17-year-cicadas",
+            "brood-x"
+        ],
+        "slug": "where-the-cicadas-at",
+        "alternate_titles": []
+    },
+    {
+        "title": "Willy Nilly Fastest Filly",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-braverman"
+                ]
+            }
+        ],
+        "characters": [
+            "willy-nilly-horse"
+        ],
+        "locations": [],
+        "settings": [
+            "race-track"
+        ],
+        "themes": [
+            "gambling",
+            "horses",
+            "independence",
+            "racing"
+        ],
+        "slug": "willy-nilly-fastest-filly",
+        "alternate_titles": []
+    },
+    {
+        "title": "Woman In Power",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-bossgirl"
+        ],
+        "locations": [
+            "clark-nj",
+            "barnes-noble"
+        ],
+        "settings": [
+            "bookstore"
+        ],
+        "themes": [
+            "jobs",
+            "lust",
+            "power",
+            "battle-of-the-sexes"
+        ],
+        "slug": "woman-in-power",
+        "alternate_titles": []
+    },
+    {
+        "title": "\u2019Woodstock\u2019\u201d In Reverse",
+        "credits": [
+            {
+                "role": "lyrics",
+                "credits": [
+                    "b-kleiman"
+                ]
+            },
+            {
+                "role": "music",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "joni-mitchell"
+        ],
+        "locations": [
+            "ny",
+            "staten-island",
+            "bethel-ny",
+            "yasgur-s-farm"
+        ],
+        "settings": [
+            "woodstock-festival"
+        ],
+        "themes": [
+            "coffee",
+            "parties",
+            "roller-skating",
+            "songwriting",
+            "time-travel"
+        ],
+        "slug": "woodstock-in-reverse",
+        "alternate_titles": []
+    },
+    {
+        "title": "Working For Peanuts",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "charlie-brown",
+            "the-illustrator",
+            "elle-yvonne-elephant-protagonist-s-ex-wife"
+        ],
+        "locations": [
+            "ringling-brothers-and-barnum-bailey-circus"
+        ],
+        "settings": [
+            "drawing-room"
+        ],
+        "themes": [
+            "art",
+            "jobs",
+            "money",
+            "peanuts",
+            "peanuts",
+            "comic-strip",
+            "wildlife",
+            "elephants",
+            "work"
+        ],
+        "notes": "sung by The Illustrator",
+        "slug": "working-for-peanuts",
+        "alternate_titles": []
+    },
+    {
+        "title": "The Wrong Guys",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "j-williams"
+                ]
+            }
+        ],
+        "characters": [
+            "ben-franklin",
+            "the-swamp-ghost",
+            "the-wrong-guys",
+            "ares-and-the-gods-of-war",
+            "stephanie-romano",
+            "that-asshole-brandon"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [],
+        "slug": "the-wrong-guys",
+        "alternate_titles": []
+    },
+    {
+        "title": "Zapple (Mmm...)",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "david-lee-roth"
+        ],
+        "locations": [],
+        "settings": [],
+        "themes": [
+            "alcohol",
+            "pop-wine",
+            "boone-s-farm",
+            "zapple",
+            "fruit",
+            "apples",
+            "strawberries",
+            "wrestling"
+        ],
+        "slug": "zapple-mmm",
+        "alternate_titles": []
+    },
+    {
+        "title": "Zebule",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-liger",
+            "the-zebule"
+        ],
+        "locations": [],
+        "settings": [
+            "zoo"
+        ],
+        "themes": [
+            "secret-agents",
+            "spies",
+            "suspicion",
+            "trickery",
+            "wildlife",
+            "ligers",
+            "weasels",
+            "zebules",
+            "wires"
+        ],
+        "slug": "zebule",
+        "alternate_titles": []
+    },
+    {
+        "title": "Zoozoodio",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "the-escapist-female-character"
+        ],
+        "locations": [],
+        "settings": [
+            "zoo"
+        ],
+        "themes": [
+            "danger",
+            "escape",
+            "reptiles",
+            "caimans",
+            "mamba-snakes",
+            "sea-life",
+            "dolphins",
+            "wildlife",
+            "elephants",
+            "kodiak-bears",
+            "llamas",
+            "porcupines"
+        ],
+        "slug": "zoozoodio",
+        "alternate_titles": []
+    },
+    {
+        "title": "Zsaws",
+        "credits": [
+            {
+                "role": "",
+                "credits": [
+                    "b-kleiman"
+                ]
+            }
+        ],
+        "characters": [
+            "jaws",
+            "zsaws"
+        ],
+        "locations": [
+            "new-england-usa",
+            "amity-island"
+        ],
+        "settings": [
+            "beach",
+            "ocean"
+        ],
+        "themes": [
+            "sharks"
+        ],
+        "slug": "zsaws",
+        "alternate_titles": []
+    }
+]

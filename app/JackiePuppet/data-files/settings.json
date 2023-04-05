@@ -1,0 +1,1453 @@
+[
+    {
+        "name": "\"Disco Demolition Night\"",
+        "slug": "disco-demolition-night",
+        "description": "",
+        "image": "",
+        "songs": [
+            "disco-dozer"
+        ]
+    },
+    {
+        "name": "\"Jimmy Kimmel Live\"",
+        "slug": "jimmy-kimmel-live",
+        "description": "",
+        "image": "",
+        "songs": [
+            "l-a-mic-stand-disaster-2015"
+        ]
+    },
+    {
+        "name": "4 AM",
+        "slug": "4-am",
+        "description": "",
+        "image": "",
+        "songs": [
+            "tricky-grey-sky"
+        ]
+    },
+    {
+        "name": "7-11 store",
+        "slug": "7-11-store",
+        "description": "",
+        "image": "",
+        "songs": [
+            "eleven"
+        ]
+    },
+    {
+        "name": "Barnegat Bay (NJ)",
+        "slug": "barnegat-bay-nj",
+        "description": "",
+        "image": "",
+        "songs": [
+            "dartboard-dwayne"
+        ]
+    },
+    {
+        "name": "Bundy household",
+        "slug": "bundy-household",
+        "description": "",
+        "image": "",
+        "songs": [
+            "kelly-bundy-catcall"
+        ]
+    },
+    {
+        "name": "Christmas",
+        "slug": "christmas",
+        "description": "",
+        "image": "",
+        "songs": [
+            "game-of-hope"
+        ]
+    },
+    {
+        "name": "Halloween",
+        "slug": "halloween",
+        "description": "",
+        "image": "",
+        "songs": [
+            "i-keep-the-lights-off-on-halloween"
+        ]
+    },
+    {
+        "name": "Japanese restaurant",
+        "slug": "japanese-restaurant",
+        "description": "",
+        "image": "",
+        "songs": [
+            "tonsil-hockey-pocket-pool"
+        ]
+    },
+    {
+        "name": "Jersey Shore",
+        "slug": "jersey-shore",
+        "description": "",
+        "image": "",
+        "songs": [
+            "budweiser-wednesday"
+        ]
+    },
+    {
+        "name": "Jersey Transit bus",
+        "slug": "jersey-transit-bus",
+        "description": "",
+        "image": "",
+        "songs": [
+            "varmints"
+        ]
+    },
+    {
+        "name": "Johnny\u2019s apartment",
+        "slug": "johnny-s-apartment",
+        "description": "",
+        "image": "",
+        "songs": [
+            "cobra-caveman"
+        ]
+    },
+    {
+        "name": "Neil Young concert",
+        "slug": "neil-young-concert",
+        "description": "",
+        "image": "",
+        "songs": [
+            "vortex"
+        ]
+    },
+    {
+        "name": "Party",
+        "slug": "party",
+        "description": "",
+        "image": "",
+        "songs": [
+            "see-saw"
+        ]
+    },
+    {
+        "name": "Quinceanaras",
+        "slug": "quinceanaras",
+        "description": "",
+        "image": "",
+        "songs": [
+            "publicity-hounds"
+        ]
+    },
+    {
+        "name": "Summertime",
+        "slug": "summertime",
+        "description": "",
+        "image": "",
+        "songs": [
+            "that-s-the-guy"
+        ]
+    },
+    {
+        "name": "TV studio",
+        "slug": "tv-studio",
+        "description": "",
+        "image": "",
+        "songs": [
+            "semi-confidential"
+        ]
+    },
+    {
+        "name": "The Howard Stern Show",
+        "slug": "the-howard-stern-show",
+        "description": "",
+        "image": "",
+        "songs": [
+            "the-way-she-does"
+        ]
+    },
+    {
+        "name": "WRRRRR FM (radio)",
+        "slug": "wrrrrr-fm-radio",
+        "description": "",
+        "image": "",
+        "songs": [
+            "pirate-radio"
+        ]
+    },
+    {
+        "name": "Wintertime",
+        "slug": "wintertime",
+        "description": "",
+        "image": "",
+        "songs": [
+            "vortex"
+        ]
+    },
+    {
+        "name": "Woodstock Festival",
+        "slug": "woodstock-festival",
+        "description": "",
+        "image": "",
+        "songs": [
+            "woodstock-in-reverse"
+        ]
+    },
+    {
+        "name": "YouTube",
+        "slug": "youtube",
+        "description": "",
+        "image": "",
+        "songs": [
+            "soho-truffle"
+        ]
+    },
+    {
+        "name": "amusement park",
+        "slug": "amusement-park",
+        "description": "",
+        "image": "",
+        "songs": [
+            "bowcraft-bop"
+        ]
+    },
+    {
+        "name": "arcade",
+        "slug": "arcade",
+        "description": "",
+        "image": "",
+        "songs": [
+            "bowcraft-bop",
+            "game-for-whiskey",
+            "lemon-dalliance"
+        ]
+    },
+    {
+        "name": "attic",
+        "slug": "attic",
+        "description": "",
+        "image": "",
+        "songs": [
+            "floodlight-attic"
+        ]
+    },
+    {
+        "name": "backyard party",
+        "slug": "backyard-party",
+        "description": "",
+        "image": "",
+        "songs": [
+            "punchbowl-spiker"
+        ]
+    },
+    {
+        "name": "bakery",
+        "slug": "bakery",
+        "description": "",
+        "image": "",
+        "songs": [
+            "billionaires-in-space",
+            "despite-our-cake"
+        ]
+    },
+    {
+        "name": "balloon festival",
+        "slug": "balloon-festival",
+        "description": "",
+        "image": "",
+        "songs": [
+            "fool-of-the-county"
+        ]
+    },
+    {
+        "name": "bar",
+        "slug": "bar",
+        "description": "",
+        "image": "",
+        "songs": [
+            "bad-band-blair",
+            "barstool-mensch",
+            "beard",
+            "courtside-peanut-gallery",
+            "day-cap",
+            "drinks-until-she-falls-in-love",
+            "familiarity-breeds-cover-bands",
+            "five-dollar-pull",
+            "gawk-stare",
+            "hand-stamp-action",
+            "just-another-barfight",
+            "my-two-rescue-cats-drove-me-to-drink",
+            "not-so-fast-beer-glass-song",
+            "the-opposite-of-an-encore",
+            "pink-s-slip",
+            "ruined-my-bar",
+            "we-have-a-way-with-the-ladies"
+        ]
+    },
+    {
+        "name": "bars",
+        "slug": "bars",
+        "description": "",
+        "image": "",
+        "songs": [
+            "budweiser-wednesday",
+            "i-need-a-new-bar",
+            "lemon-dalliance",
+            "tip-your-tender"
+        ]
+    },
+    {
+        "name": "baseball game",
+        "slug": "baseball-game",
+        "description": "",
+        "image": "",
+        "songs": [
+            "disco-dozer"
+        ]
+    },
+    {
+        "name": "bat house",
+        "slug": "bat-house",
+        "description": "",
+        "image": "",
+        "songs": [
+            "brazen-admirer"
+        ]
+    },
+    {
+        "name": "beach",
+        "slug": "beach",
+        "description": "",
+        "image": "",
+        "songs": [
+            "barnacles",
+            "zsaws"
+        ]
+    },
+    {
+        "name": "beer garden",
+        "slug": "beer-garden",
+        "description": "",
+        "image": "",
+        "songs": [
+            "we-re-no-thieves"
+        ]
+    },
+    {
+        "name": "boardwalk",
+        "slug": "boardwalk",
+        "description": "",
+        "image": "",
+        "songs": [
+            "budweiser-wednesday",
+            "lemon-dalliance"
+        ]
+    },
+    {
+        "name": "bookstore",
+        "slug": "bookstore",
+        "description": "",
+        "image": "",
+        "songs": [
+            "well-aware",
+            "what-a-drag",
+            "woman-in-power"
+        ]
+    },
+    {
+        "name": "bowling alley",
+        "slug": "bowling-alley",
+        "description": "",
+        "image": "",
+        "songs": [
+            "jamila-s-perfect-game"
+        ]
+    },
+    {
+        "name": "breakfast table",
+        "slug": "breakfast-table",
+        "description": "",
+        "image": "",
+        "songs": [
+            "curtis-the-absurdist"
+        ]
+    },
+    {
+        "name": "bridge",
+        "slug": "bridge",
+        "description": "",
+        "image": "",
+        "songs": [
+            "colossus-of-roads"
+        ]
+    },
+    {
+        "name": "cabin in the woods",
+        "slug": "cabin-in-the-woods",
+        "description": "",
+        "image": "",
+        "songs": [
+            "bad-gambler"
+        ]
+    },
+    {
+        "name": "campsite",
+        "slug": "campsite",
+        "description": "",
+        "image": "",
+        "songs": [
+            "tice-tively-moking"
+        ]
+    },
+    {
+        "name": "car lot",
+        "slug": "car-lot",
+        "description": "",
+        "image": "",
+        "songs": [
+            "varmints"
+        ]
+    },
+    {
+        "name": "casino",
+        "slug": "casino",
+        "description": "",
+        "image": "",
+        "songs": [
+            "butterscotch-brenda"
+        ]
+    },
+    {
+        "name": "castles",
+        "slug": "castles",
+        "description": "",
+        "image": "",
+        "songs": [
+            "greetings-from-roanoke"
+        ]
+    },
+    {
+        "name": "cave",
+        "slug": "cave",
+        "description": "",
+        "image": "",
+        "songs": [
+            "brazen-admirer"
+        ]
+    },
+    {
+        "name": "cavern",
+        "slug": "cavern",
+        "description": "",
+        "image": "",
+        "songs": [
+            "semi-confidential"
+        ]
+    },
+    {
+        "name": "china shop",
+        "slug": "china-shop",
+        "description": "",
+        "image": "",
+        "songs": [
+            "miss-dazeem"
+        ]
+    },
+    {
+        "name": "circus (Ringling Brothers)",
+        "slug": "circus-ringling-brothers",
+        "description": "",
+        "image": "",
+        "songs": [
+            "five-dollar-pull"
+        ]
+    },
+    {
+        "name": "college",
+        "slug": "college",
+        "description": "",
+        "image": "",
+        "songs": [
+            "newsflash",
+            "rambo-the-mischievous"
+        ]
+    },
+    {
+        "name": "college campus",
+        "slug": "college-campus",
+        "description": "",
+        "image": "",
+        "songs": [
+            "peanut-brittle-madness"
+        ]
+    },
+    {
+        "name": "commune",
+        "slug": "commune",
+        "description": "",
+        "image": "",
+        "songs": [
+            "rapscallion"
+        ]
+    },
+    {
+        "name": "community swimming pool",
+        "slug": "community-swimming-pool",
+        "description": "",
+        "image": "",
+        "songs": [
+            "unnecessary-outrage"
+        ]
+    },
+    {
+        "name": "concert venue",
+        "slug": "concert-venue",
+        "description": "",
+        "image": "",
+        "songs": [
+            "comedy-show"
+        ]
+    },
+    {
+        "name": "dance club",
+        "slug": "dance-club",
+        "description": "",
+        "image": "",
+        "songs": [
+            "jane-crazy"
+        ]
+    },
+    {
+        "name": "deli",
+        "slug": "deli",
+        "description": "",
+        "image": "",
+        "songs": [
+            "jolly-green-carnivore",
+            "scrimshaw-sneed"
+        ]
+    },
+    {
+        "name": "detective office",
+        "slug": "detective-office",
+        "description": "",
+        "image": "",
+        "songs": [
+            "detective-snooparoni"
+        ]
+    },
+    {
+        "name": "diner",
+        "slug": "diner",
+        "description": "",
+        "image": "",
+        "songs": [
+            "peg-leg-maria"
+        ]
+    },
+    {
+        "name": "donut shop",
+        "slug": "donut-shop",
+        "description": "",
+        "image": "",
+        "songs": [
+            "bitter-days"
+        ]
+    },
+    {
+        "name": "drawing room",
+        "slug": "drawing-room",
+        "description": "",
+        "image": "",
+        "songs": [
+            "working-for-peanuts"
+        ]
+    },
+    {
+        "name": "fancy house party",
+        "slug": "fancy-house-party",
+        "description": "",
+        "image": "",
+        "songs": [
+            "unnecessary-outrage"
+        ]
+    },
+    {
+        "name": "farm",
+        "slug": "farm",
+        "description": "",
+        "image": "",
+        "songs": [
+            "like-a-tornado",
+            "the-little-house-that-shouldn-t"
+        ]
+    },
+    {
+        "name": "fashion",
+        "slug": "fashion",
+        "description": "",
+        "image": "",
+        "songs": [
+            "hot-hand"
+        ]
+    },
+    {
+        "name": "fashion house",
+        "slug": "fashion-house",
+        "description": "",
+        "image": "",
+        "songs": [
+            "the-mannequin-moved"
+        ]
+    },
+    {
+        "name": "forest",
+        "slug": "forest",
+        "description": "",
+        "image": "",
+        "songs": [
+            "standing-in-a-forest"
+        ]
+    },
+    {
+        "name": "garage",
+        "slug": "garage",
+        "description": "",
+        "image": "",
+        "songs": [
+            "fanmail-overstock"
+        ]
+    },
+    {
+        "name": "garden",
+        "slug": "garden",
+        "description": "",
+        "image": "",
+        "songs": [
+            "lake-of-no-trout"
+        ]
+    },
+    {
+        "name": "gazebo",
+        "slug": "gazebo",
+        "description": "",
+        "image": "",
+        "songs": [
+            "leotard-ladies"
+        ]
+    },
+    {
+        "name": "go-go bar",
+        "slug": "go-go-bar",
+        "description": "",
+        "image": "",
+        "songs": [
+            "crashpad"
+        ]
+    },
+    {
+        "name": "golf course",
+        "slug": "golf-course",
+        "description": "",
+        "image": "",
+        "songs": [
+            "gator-golf"
+        ]
+    },
+    {
+        "name": "grocery store",
+        "slug": "grocery-store",
+        "description": "",
+        "image": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ]
+    },
+    {
+        "name": "high school",
+        "slug": "high-school",
+        "description": "",
+        "image": "",
+        "songs": [
+            "interloper"
+        ]
+    },
+    {
+        "name": "high school prom",
+        "slug": "high-school-prom",
+        "description": "",
+        "image": "",
+        "songs": [
+            "rambo-the-mischievous"
+        ]
+    },
+    {
+        "name": "high school track",
+        "slug": "high-school-track",
+        "description": "",
+        "image": "",
+        "songs": [
+            "hot-sprinter"
+        ]
+    },
+    {
+        "name": "homeroom",
+        "slug": "homeroom",
+        "description": "",
+        "image": "",
+        "songs": [
+            "rambo-the-mischievous"
+        ]
+    },
+    {
+        "name": "hostel",
+        "slug": "hostel",
+        "description": "",
+        "image": "",
+        "songs": [
+            "audible"
+        ]
+    },
+    {
+        "name": "house",
+        "slug": "house",
+        "description": "",
+        "image": "",
+        "songs": [
+            "cocapina"
+        ]
+    },
+    {
+        "name": "kennel",
+        "slug": "kennel",
+        "description": "",
+        "image": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies"
+        ]
+    },
+    {
+        "name": "kennels",
+        "slug": "kennels",
+        "description": "",
+        "image": "",
+        "songs": [
+            "publicity-hounds"
+        ]
+    },
+    {
+        "name": "kitchen",
+        "slug": "kitchen",
+        "description": "",
+        "image": "",
+        "songs": [
+            "bitter-days",
+            "curtis-the-absurdist"
+        ]
+    },
+    {
+        "name": "lake",
+        "slug": "lake",
+        "description": "",
+        "image": "",
+        "songs": [
+            "lake-of-no-trout"
+        ]
+    },
+    {
+        "name": "lakes",
+        "slug": "lakes",
+        "description": "",
+        "image": "",
+        "songs": [
+            "globe-runnin"
+        ]
+    },
+    {
+        "name": "library",
+        "slug": "library",
+        "description": "",
+        "image": "",
+        "songs": [
+            "rambo-the-mischievous"
+        ]
+    },
+    {
+        "name": "light parade",
+        "slug": "light-parade",
+        "description": "",
+        "image": "",
+        "songs": [
+            "the-hang-up"
+        ]
+    },
+    {
+        "name": "little league ballpark",
+        "slug": "little-league-ballpark",
+        "description": "",
+        "image": "",
+        "songs": [
+            "twenty-two"
+        ]
+    },
+    {
+        "name": "lust",
+        "slug": "lust",
+        "description": "",
+        "image": "",
+        "songs": [
+            "hot-hand"
+        ]
+    },
+    {
+        "name": "malls",
+        "slug": "malls",
+        "description": "",
+        "image": "",
+        "songs": [
+            "over-amorous"
+        ]
+    },
+    {
+        "name": "meadow",
+        "slug": "meadow",
+        "description": "",
+        "image": "",
+        "songs": [
+            "leotard-ladies",
+            "smooth-as-geppetto"
+        ]
+    },
+    {
+        "name": "medicine show",
+        "slug": "medicine-show",
+        "description": "",
+        "image": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ]
+    },
+    {
+        "name": "morning time",
+        "slug": "morning-time",
+        "description": "",
+        "image": "",
+        "songs": [
+            "kickstart-my-coffee-cock-in-check"
+        ]
+    },
+    {
+        "name": "mountains",
+        "slug": "mountains",
+        "description": "",
+        "image": "",
+        "songs": [
+            "find-the-yeti",
+            "globe-runnin",
+            "gravy",
+            "greetings-from-roanoke"
+        ]
+    },
+    {
+        "name": "national park",
+        "slug": "national-park",
+        "description": "",
+        "image": "",
+        "songs": [
+            "sheila-s-toe"
+        ]
+    },
+    {
+        "name": "night brigade",
+        "slug": "night-brigade",
+        "description": "",
+        "image": "",
+        "songs": [
+            "the-hang-up"
+        ]
+    },
+    {
+        "name": "ocean",
+        "slug": "ocean",
+        "description": "",
+        "image": "",
+        "songs": [
+            "barnacles",
+            "zsaws"
+        ]
+    },
+    {
+        "name": "office",
+        "slug": "office",
+        "description": "",
+        "image": "",
+        "songs": [
+            "pencil-stalactites"
+        ]
+    },
+    {
+        "name": "open mic night",
+        "slug": "open-mic-night",
+        "description": "",
+        "image": "",
+        "songs": [
+            "read-the-room"
+        ]
+    },
+    {
+        "name": "out West (USA)",
+        "slug": "out-west-usa",
+        "description": "",
+        "image": "",
+        "songs": [
+            "varmints"
+        ]
+    },
+    {
+        "name": "outdoor concert",
+        "slug": "outdoor-concert",
+        "description": "",
+        "image": "",
+        "songs": [
+            "that-s-the-guy"
+        ]
+    },
+    {
+        "name": "outer space",
+        "slug": "outer-space",
+        "description": "",
+        "image": "",
+        "songs": [
+            "space-lovin"
+        ]
+    },
+    {
+        "name": "park",
+        "slug": "park",
+        "description": "",
+        "image": "",
+        "songs": [
+            "frisbee-fritz",
+            "just-another-barfight",
+            "newsflash",
+            "publicity-hounds"
+        ]
+    },
+    {
+        "name": "parking lot",
+        "slug": "parking-lot",
+        "description": "",
+        "image": "",
+        "songs": [
+            "publicity-hounds"
+        ]
+    },
+    {
+        "name": "pizzeria",
+        "slug": "pizzeria",
+        "description": "",
+        "image": "",
+        "songs": [
+            "rambo-the-mischievous"
+        ]
+    },
+    {
+        "name": "plains",
+        "slug": "plains",
+        "description": "",
+        "image": "",
+        "songs": [
+            "voltron-in-the-serengeti"
+        ]
+    },
+    {
+        "name": "post office",
+        "slug": "post-office",
+        "description": "",
+        "image": "",
+        "songs": [
+            "fanmail-overstock"
+        ]
+    },
+    {
+        "name": "prison",
+        "slug": "prison",
+        "description": "",
+        "image": "",
+        "songs": [
+            "entry-level-brides"
+        ]
+    },
+    {
+        "name": "race track",
+        "slug": "race-track",
+        "description": "",
+        "image": "",
+        "songs": [
+            "willy-nilly-fastest-filly"
+        ]
+    },
+    {
+        "name": "racetrack (horses)",
+        "slug": "racetrack-horses",
+        "description": "",
+        "image": "",
+        "songs": [
+            "beer-garden"
+        ]
+    },
+    {
+        "name": "radio",
+        "slug": "radio",
+        "description": "",
+        "image": "",
+        "songs": [
+            "don-t-throw-your-radios-away"
+        ]
+    },
+    {
+        "name": "ranch house",
+        "slug": "ranch-house",
+        "description": "",
+        "image": "",
+        "songs": [
+            "rooftop-party-see-you-at-the-ranch-house"
+        ]
+    },
+    {
+        "name": "recording studio",
+        "slug": "recording-studio",
+        "description": "",
+        "image": "",
+        "songs": [
+            "what-the-fuck-is-water"
+        ]
+    },
+    {
+        "name": "rehearsal space",
+        "slug": "rehearsal-space",
+        "description": "",
+        "image": "",
+        "songs": [
+            "crack-studio"
+        ]
+    },
+    {
+        "name": "restaurant",
+        "slug": "restaurant",
+        "description": "",
+        "image": "",
+        "songs": [
+            "clusterfuck-catfight-ladies"
+        ]
+    },
+    {
+        "name": "restaurants",
+        "slug": "restaurants",
+        "description": "",
+        "image": "",
+        "songs": [
+            "lemon-dalliance"
+        ]
+    },
+    {
+        "name": "rivers",
+        "slug": "rivers",
+        "description": "",
+        "image": "",
+        "songs": [
+            "colossus-of-roads"
+        ]
+    },
+    {
+        "name": "roads",
+        "slug": "roads",
+        "description": "",
+        "image": "",
+        "songs": [
+            "colossus-of-roads"
+        ]
+    },
+    {
+        "name": "roller rink",
+        "slug": "roller-rink",
+        "description": "",
+        "image": "",
+        "songs": [
+            "staten-island-rinkadink"
+        ]
+    },
+    {
+        "name": "rooftop party",
+        "slug": "rooftop-party",
+        "description": "",
+        "image": "",
+        "songs": [
+            "rooftop-party-see-you-at-the-ranch-house"
+        ]
+    },
+    {
+        "name": "rooftops",
+        "slug": "rooftops",
+        "description": "",
+        "image": "",
+        "songs": [
+            "guinea-pig-trip"
+        ]
+    },
+    {
+        "name": "school",
+        "slug": "school",
+        "description": "",
+        "image": "",
+        "songs": [
+            "helmets-on-pencils-down"
+        ]
+    },
+    {
+        "name": "shore",
+        "slug": "shore",
+        "description": "",
+        "image": "",
+        "songs": [
+            "standing-in-a-forest"
+        ]
+    },
+    {
+        "name": "skatepark",
+        "slug": "skatepark",
+        "description": "",
+        "image": "",
+        "songs": [
+            "interloper"
+        ]
+    },
+    {
+        "name": "snow",
+        "slug": "snow",
+        "description": "",
+        "image": "",
+        "songs": [
+            "moose-stag-stance"
+        ]
+    },
+    {
+        "name": "streets",
+        "slug": "streets",
+        "description": "",
+        "image": "",
+        "songs": [
+            "crack-studio"
+        ]
+    },
+    {
+        "name": "strip club",
+        "slug": "strip-club",
+        "description": "",
+        "image": "",
+        "songs": [
+            "just-desserts"
+        ]
+    },
+    {
+        "name": "suburbs",
+        "slug": "suburbs",
+        "description": "",
+        "image": "",
+        "songs": [
+            "full-context-sex-appeal"
+        ]
+    },
+    {
+        "name": "subway",
+        "slug": "subway",
+        "description": "",
+        "image": "",
+        "songs": [
+            "like-a-scooby",
+            "turnstile-hop-don-t-do-it",
+            "turnstile-jumper",
+            "video-punks"
+        ]
+    },
+    {
+        "name": "surprise party",
+        "slug": "surprise-party",
+        "description": "",
+        "image": "",
+        "songs": [
+            "raines-sandwich"
+        ]
+    },
+    {
+        "name": "swimming pool",
+        "slug": "swimming-pool",
+        "description": "",
+        "image": "",
+        "songs": [
+            "clusterfuck-catfight-ladies"
+        ]
+    },
+    {
+        "name": "the Emmys",
+        "slug": "the-emmys",
+        "description": "",
+        "image": "",
+        "songs": [
+            "he-got-the-egot"
+        ]
+    },
+    {
+        "name": "the Grammys",
+        "slug": "the-grammys",
+        "description": "",
+        "image": "",
+        "songs": [
+            "he-got-the-egot"
+        ]
+    },
+    {
+        "name": "the Moon",
+        "slug": "the-moon",
+        "description": "",
+        "image": "",
+        "songs": [
+            "oh-ramona"
+        ]
+    },
+    {
+        "name": "the Oscars",
+        "slug": "the-oscars",
+        "description": "",
+        "image": "",
+        "songs": [
+            "he-got-the-egot"
+        ]
+    },
+    {
+        "name": "the Tonys",
+        "slug": "the-tonys",
+        "description": "",
+        "image": "",
+        "songs": [
+            "he-got-the-egot"
+        ]
+    },
+    {
+        "name": "the West (USA)",
+        "slug": "the-west-usa",
+        "description": "",
+        "image": "",
+        "songs": [
+            "smooth-as-geppetto"
+        ]
+    },
+    {
+        "name": "the beach",
+        "slug": "the-beach",
+        "description": "",
+        "image": "",
+        "songs": [
+            "over-amorous"
+        ]
+    },
+    {
+        "name": "the ocean",
+        "slug": "the-ocean",
+        "description": "",
+        "image": "",
+        "songs": [
+            "whales-do"
+        ]
+    },
+    {
+        "name": "the office",
+        "slug": "the-office",
+        "description": "",
+        "image": "",
+        "songs": [
+            "tedium-boy-and-the-daily-drag"
+        ]
+    },
+    {
+        "name": "the road",
+        "slug": "the-road",
+        "description": "",
+        "image": "",
+        "songs": [
+            "rvdersehen"
+        ]
+    },
+    {
+        "name": "the sea",
+        "slug": "the-sea",
+        "description": "",
+        "image": "",
+        "songs": [
+            "thank-you-thank-you-francesco-fabrica"
+        ]
+    },
+    {
+        "name": "tiki bar",
+        "slug": "tiki-bar",
+        "description": "",
+        "image": "",
+        "songs": [
+            "clusterfuck-catfight-ladies"
+        ]
+    },
+    {
+        "name": "timeshare presentation",
+        "slug": "timeshare-presentation",
+        "description": "",
+        "image": "",
+        "songs": [
+            "timeshare-nightmare"
+        ]
+    },
+    {
+        "name": "town",
+        "slug": "town",
+        "description": "",
+        "image": "",
+        "songs": [
+            "cocapina"
+        ]
+    },
+    {
+        "name": "track",
+        "slug": "track",
+        "description": "",
+        "image": "",
+        "songs": [
+            "tri-athlete"
+        ]
+    },
+    {
+        "name": "train stations",
+        "slug": "train-stations",
+        "description": "",
+        "image": "",
+        "songs": [
+            "vortex"
+        ]
+    },
+    {
+        "name": "trains",
+        "slug": "trains",
+        "description": "",
+        "image": "",
+        "songs": [
+            "hot-hand"
+        ]
+    },
+    {
+        "name": "tv interview",
+        "slug": "tv-interview",
+        "description": "",
+        "image": "",
+        "songs": [
+            "are-you-happy-being-a-schmuck"
+        ]
+    },
+    {
+        "name": "tv studios",
+        "slug": "tv-studios",
+        "description": "",
+        "image": "",
+        "songs": [
+            "backdoor-pilot"
+        ]
+    },
+    {
+        "name": "Unspecified Quick Mart",
+        "slug": "unspecified-quick-mart",
+        "description": "",
+        "image": "",
+        "songs": [
+            "alexander-albetsarov"
+        ]
+    },
+    {
+        "name": "veranda ledge",
+        "slug": "veranda-ledge",
+        "description": "",
+        "image": "",
+        "songs": [
+            "lemon-pledge"
+        ]
+    },
+    {
+        "name": "village",
+        "slug": "village",
+        "description": "",
+        "image": "",
+        "songs": [
+            "scuba-bob"
+        ]
+    },
+    {
+        "name": "wedding",
+        "slug": "wedding",
+        "description": "",
+        "image": "",
+        "songs": [
+            "gravy"
+        ]
+    },
+    {
+        "name": "wine club",
+        "slug": "wine-club",
+        "description": "",
+        "image": "",
+        "songs": [
+            "muffle-it-thunderthief"
+        ]
+    },
+    {
+        "name": "woods",
+        "slug": "woods",
+        "description": "",
+        "image": "",
+        "songs": [
+            "bowcraft-bop",
+            "find-the-yeti",
+            "leotard-ladies",
+            "the-little-colt-that-shouldn-t"
+        ]
+    },
+    {
+        "name": "wrestling ring",
+        "slug": "wrestling-ring",
+        "description": "",
+        "image": "",
+        "songs": [
+            "semi-confidential"
+        ]
+    },
+    {
+        "name": "writing rooms",
+        "slug": "writing-rooms",
+        "description": "",
+        "image": "",
+        "songs": [
+            "backdoor-pilot"
+        ]
+    },
+    {
+        "name": "zoo",
+        "slug": "zoo",
+        "description": "",
+        "image": "",
+        "songs": [
+            "gravy",
+            "secret-agent-mandrill",
+            "zebule",
+            "zoozoodio"
+        ]
+    },
+    {
+        "name": "\u201cHoward Stern Show\u201d",
+        "slug": "howard-stern-show",
+        "description": "",
+        "image": "",
+        "songs": [
+            "he-who-laughs-the-hardest"
+        ]
+    }
+]

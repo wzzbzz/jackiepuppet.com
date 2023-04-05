@@ -2,11 +2,11 @@
 
 namespace JackiePuppet;
 
-class Location extends \JWS\NamedEntity{
+class Setting extends \JWS\NamedEntity{
 
     public $data;
 
-    public $collectionClass = "JackiePuppet\Locations";
+    public $collectionClass = "JackiePuppet\Settings";
 
     public function songs(){
         return Songs::fromSlugList( $this->data->songs );
@@ -19,8 +19,11 @@ class Location extends \JWS\NamedEntity{
     }
     
     public function parent(){
-        $locations = new Locations();
-        return $locations->find( $this->data->parent );
+        if( empty($this->data->parent)  ){
+            return false;
+        }
+        $settings = new Settings(loadSettings());
+        return $settings->find( $this->data->parent );
     }
 
     public function renderPage(){
@@ -34,14 +37,4 @@ class Location extends \JWS\NamedEntity{
             <?php  
     }
 
-
-
-    public function find( $slug ){
-        $locations = loadLocations();
-        foreach( $locations as $$location ){
-            if( $location->slug == $slug ){
-                return $location;
-            }
-        }
-    }
 }

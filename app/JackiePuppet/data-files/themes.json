@@ -1,0 +1,7304 @@
+[
+    {
+        "name": "\"Mad Magazine\"",
+        "slug": "mad-magazine",
+        "description": "",
+        "songs": [
+            "twenty-two"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "'Looney Toons'",
+        "slug": "looney-toons",
+        "description": "",
+        "songs": [
+            "varmints"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "17-year cicadas",
+        "slug": "17-year-cicadas",
+        "description": "",
+        "songs": [
+            "where-the-cicadas-at"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Balderdash",
+        "slug": "balderdash",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Big League Chew",
+        "slug": "big-league-chew",
+        "description": "",
+        "songs": [
+            "twenty-two"
+        ],
+        "parent": "bubblegum"
+    },
+    {
+        "name": "Boone's Farm",
+        "slug": "boone-s-farm",
+        "description": "",
+        "songs": [
+            "zapple-mmm"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "Brood X",
+        "slug": "brood-x",
+        "description": "",
+        "songs": [
+            "where-the-cicadas-at"
+        ],
+        "parent": "17-year-cicadas"
+    },
+    {
+        "name": "Bubbalicious",
+        "slug": "bubbalicious",
+        "description": "",
+        "songs": [
+            "peanut-brittle-madness"
+        ],
+        "parent": "bubblegum"
+    },
+    {
+        "name": "Cabernet Sauvignon wine",
+        "slug": "cabernet-sauvignon-wine",
+        "description": "",
+        "songs": [
+            "just-desserts"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "Chutes & Ladders",
+        "slug": "chutes-ladders",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Coke",
+        "slug": "coke",
+        "description": "",
+        "songs": [
+            "pony-up-pony-boy"
+        ],
+        "parent": "soda"
+    },
+    {
+        "name": "Coors Banquet",
+        "slug": "coors-banquet",
+        "description": "",
+        "songs": [
+            "cobra-caveman"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "Corona beer",
+        "slug": "corona-beer",
+        "description": "",
+        "songs": [
+            "phenomenal"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "Cupcake brand wine",
+        "slug": "cupcake-brand-wine",
+        "description": "",
+        "songs": [
+            "just-desserts"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "Detective Snooparoni cases",
+        "slug": "detective-snooparoni-cases",
+        "description": "",
+        "songs": [
+            "detective-snooparoni"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Etch-A-Sketch",
+        "slug": "etch-a-sketch",
+        "description": "",
+        "songs": [
+            "dickhead-dalton"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "French",
+        "slug": "french",
+        "description": "",
+        "songs": [
+            "scrimshaw-sneed"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "French horns",
+        "slug": "french-horns",
+        "description": "",
+        "songs": [
+            "international-music"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Game Of Life",
+        "slug": "game-of-life",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Guinness",
+        "slug": "guinness",
+        "description": "",
+        "songs": [
+            "raines-sandwich",
+            "the-stickler"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "Hooking Up",
+        "slug": "hooking-up",
+        "description": "",
+        "songs": [
+            "see-saw"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Hubba Bubba",
+        "slug": "hubba-bubba",
+        "description": "",
+        "songs": [
+            "peanut-brittle-madness"
+        ],
+        "parent": "bubblegum"
+    },
+    {
+        "name": "Jackie Puppet Radio",
+        "slug": "jackie-puppet-radio",
+        "description": "",
+        "songs": [
+            "don-t-throw-your-radios-away"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Japanese food",
+        "slug": "japanese-food",
+        "description": "",
+        "songs": [
+            "tonsil-hockey-pocket-pool"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Johnny Walker blue label scotch",
+        "slug": "johnny-walker-blue-label-scotch",
+        "description": "",
+        "songs": [
+            "tri-athlete"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "Kama Sutra",
+        "slug": "kama-sutra",
+        "description": "",
+        "songs": [
+            "what-the-fuck-is-water"
+        ],
+        "parent": "sex"
+    },
+    {
+        "name": "Kodiak bears",
+        "slug": "kodiak-bears",
+        "description": "",
+        "songs": [
+            "zoozoodio"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "Labrador",
+        "slug": "labrador",
+        "description": "",
+        "songs": [
+            "like-a-real-raccoon"
+        ],
+        "parent": "dogs"
+    },
+    {
+        "name": "Latin",
+        "slug": "latin",
+        "description": "",
+        "songs": [
+            "find-the-yeti"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "MTV",
+        "slug": "mtv",
+        "description": "",
+        "songs": [
+            "radio-trivia"
+        ],
+        "parent": "tv"
+    },
+    {
+        "name": "Magritte",
+        "slug": "magritte",
+        "description": "",
+        "songs": [
+            "tri-athlete"
+        ],
+        "parent": "art"
+    },
+    {
+        "name": "Marinol",
+        "slug": "marinol",
+        "description": "",
+        "songs": [
+            "newsflash"
+        ],
+        "parent": "drugs"
+    },
+    {
+        "name": "Matisse",
+        "slug": "matisse",
+        "description": "",
+        "songs": [
+            "slow-work-day-a-forgery"
+        ],
+        "parent": "art"
+    },
+    {
+        "name": "Mercedes",
+        "slug": "mercedes",
+        "description": "",
+        "songs": [
+            "not-so-fast-beer-glass-song"
+        ],
+        "parent": "cars"
+    },
+    {
+        "name": "Monopoly",
+        "slug": "monopoly",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want",
+            "karate-games"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Off The Grid",
+        "slug": "off-the-grid",
+        "description": "",
+        "songs": [
+            "jane-crazy"
+        ],
+        "parent": "dances"
+    },
+    {
+        "name": "Pabst Blue Ribbon beer",
+        "slug": "pabst-blue-ribbon-beer",
+        "description": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "Page Six models",
+        "slug": "page-six-models",
+        "description": "",
+        "songs": [
+            "publicity-hounds"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Peanuts",
+        "slug": "peanuts",
+        "description": "",
+        "songs": [
+            "working-for-peanuts"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Phase Ten",
+        "slug": "phase-ten",
+        "description": "",
+        "songs": [
+            "bad-gambler"
+        ],
+        "parent": "games"
+    },
+    {
+        "name": "Playboy models",
+        "slug": "playboy-models",
+        "description": "",
+        "songs": [
+            "ware-peddling-days"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Pollock",
+        "slug": "pollock",
+        "description": "",
+        "songs": [
+            "my-chameleon"
+        ],
+        "parent": "art"
+    },
+    {
+        "name": "Powerball",
+        "slug": "powerball",
+        "description": "",
+        "songs": [
+            "despite-our-cake"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Pringles",
+        "slug": "pringles",
+        "description": "",
+        "songs": [
+            "imitation-crab"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "RVs",
+        "slug": "rvs",
+        "description": "",
+        "songs": [
+            "rvdersehen"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Raines sandwiches",
+        "slug": "raines-sandwiches",
+        "description": "",
+        "songs": [
+            "raines-sandwich"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Russian",
+        "slug": "russian",
+        "description": "",
+        "songs": [
+            "alexander-albetsarov"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Scattegories",
+        "slug": "scattegories",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Scrabble",
+        "slug": "scrabble",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Simon Says",
+        "slug": "simon-says",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Slick Chick",
+        "slug": "slick-chick",
+        "description": "",
+        "songs": [
+            "lemon-dalliance"
+        ],
+        "parent": "pinball-games"
+    },
+    {
+        "name": "Slinky",
+        "slug": "slinky",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Slurpees",
+        "slug": "slurpees",
+        "description": "",
+        "songs": [
+            "eleven"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Sorry",
+        "slug": "sorry",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Spring training",
+        "slug": "spring-training",
+        "description": "",
+        "songs": [
+            "practice-round"
+        ],
+        "parent": "baseball"
+    },
+    {
+        "name": "Sterniverse",
+        "slug": "sterniverse",
+        "description": "",
+        "songs": [
+            "barnacles"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Styrofoam tiles",
+        "slug": "styrofoam-tiles",
+        "description": "",
+        "songs": [
+            "pencil-stalactites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Summer",
+        "slug": "summer",
+        "description": "",
+        "songs": [
+            "tice-tively-moking"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "TV",
+        "slug": "tv",
+        "description": "",
+        "songs": [
+            "tinfoil-antenna-tanisha"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "TV shows",
+        "slug": "tv-shows",
+        "description": "",
+        "songs": [
+            "l-a-mic-stand-disaster-2015"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "TV stars",
+        "slug": "tv-stars",
+        "description": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Tanqueray gin",
+        "slug": "tanqueray-gin",
+        "description": "",
+        "songs": [
+            "twenty-two"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "The Outsiders",
+        "slug": "the-outsiders",
+        "description": "",
+        "songs": [
+            "pony-up-pony-boy"
+        ],
+        "parent": "movies-novels"
+    },
+    {
+        "name": "Tiddlywinks",
+        "slug": "tiddlywinks",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Unpredictable",
+        "slug": "unpredictable",
+        "description": "",
+        "songs": [
+            "alexander-albetsarov"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Upwords",
+        "slug": "upwords",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Warhol",
+        "slug": "warhol",
+        "description": "",
+        "songs": [
+            "my-chameleon"
+        ],
+        "parent": "art"
+    },
+    {
+        "name": "Yahtzee",
+        "slug": "yahtzee",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Zapple",
+        "slug": "zapple",
+        "description": "",
+        "songs": [
+            "tinfoil-antenna-tanisha",
+            "zapple-mmm"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "Zubaz pants",
+        "slug": "zubaz-pants",
+        "description": "",
+        "songs": [
+            "moose-stag-stance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "absurdity",
+        "slug": "absurdity",
+        "description": "",
+        "songs": [
+            "curtis-the-absurdist"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "accents",
+        "slug": "accents",
+        "description": "",
+        "songs": [
+            "interloper",
+            "turnstile-hop-don-t-do-it"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "access",
+        "slug": "access",
+        "description": "",
+        "songs": [
+            "hand-stamp-action"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "acting",
+        "slug": "acting",
+        "description": "",
+        "songs": [
+            "cuttin-a-rug"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "actresses",
+        "slug": "actresses",
+        "description": "",
+        "songs": [
+            "the-opposite-side-of-the-interview"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "age",
+        "slug": "age",
+        "description": "",
+        "songs": [
+            "the-opposite-side-of-the-interview",
+            "punchbowl-spiker",
+            "that-s-the-guy",
+            "twenty-two"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "air travel",
+        "slug": "air-travel",
+        "description": "",
+        "songs": [
+            "billionaires-in-space"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "alarm clocks",
+        "slug": "alarm-clocks",
+        "description": "",
+        "songs": [
+            "not-so-fast-beer-glass-song"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "alcohol",
+        "slug": "alcohol",
+        "description": "",
+        "songs": [
+            "are-you-happy-being-a-schmuck",
+            "barstool-mensch",
+            "beer-bottle-song",
+            "beer-garden",
+            "budweiser-wednesday",
+            "clusterfuck-catfight-ladies",
+            "cobra-caveman",
+            "comedy-show",
+            "crashpad",
+            "dartboard-dwayne",
+            "day-cap",
+            "daylight-robbery",
+            "drinks-until-she-falls-in-love",
+            "expectations",
+            "five-dollar-pull",
+            "game-for-whiskey",
+            "gawk-stare",
+            "guinea-pig-trip",
+            "hand-stamp-action",
+            "i-need-a-new-bar",
+            "i-m-not-a-marsupial",
+            "interloper",
+            "jamila-s-perfect-game",
+            "jetty",
+            "just-another-barfight",
+            "just-desserts",
+            "l-a-mic-stand-disaster-2015",
+            "the-little-colt-that-shouldn-t",
+            "mea-culpa-for-the-schadenfreude",
+            "muffle-it-thunderthief",
+            "my-two-rescue-cats-drove-me-to-drink",
+            "not-so-fast-beer-glass-song",
+            "phenomenal",
+            "pink-s-slip",
+            "prove-me-right",
+            "punchbowl-spiker",
+            "raines-sandwich",
+            "rambo-the-mischievous",
+            "read-the-room",
+            "ruined-my-bar",
+            "staten-island-rinkadink",
+            "the-stickler",
+            "tri-athlete",
+            "twenty-two",
+            "unnecessary-outrage",
+            "ware-peddling-days",
+            "we-have-a-way-with-the-ladies",
+            "weed-wagon",
+            "we-re-no-thieves",
+            "what-the-fuck-is-water",
+            "zapple-mmm"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "aliens",
+        "slug": "aliens",
+        "description": "",
+        "songs": [
+            "space-lovin",
+            "weed-wagon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "alligators",
+        "slug": "alligators",
+        "description": "",
+        "songs": [
+            "gator-golf"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "alphabet soup",
+        "slug": "alphabet-soup",
+        "description": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "amoebas",
+        "slug": "amoebas",
+        "description": "",
+        "songs": [
+            "voltron-in-the-serengeti"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ant farms",
+        "slug": "ant-farms",
+        "description": "",
+        "songs": [
+            "dickhead-dalton"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "apocalypse",
+        "slug": "apocalypse",
+        "description": "",
+        "songs": [
+            "apple-calypso"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "apologies",
+        "slug": "apologies",
+        "description": "",
+        "songs": [
+            "mea-culpa-for-the-schadenfreude"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "apples",
+        "slug": "apples",
+        "description": "",
+        "songs": [
+            "zapple-mmm"
+        ],
+        "parent": "fruit"
+    },
+    {
+        "name": "arcade games",
+        "slug": "arcade-games",
+        "description": "",
+        "songs": [
+            "helmets-on-pencils-down"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "architecture",
+        "slug": "architecture",
+        "description": "",
+        "songs": [
+            "crack-studio"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "arguments",
+        "slug": "arguments",
+        "description": "",
+        "songs": [
+            "clusterfuck-catfight-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "arm wrestling",
+        "slug": "arm-wrestling",
+        "description": "",
+        "songs": [
+            "7-out-of-8-ain-t-bad"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "arrows",
+        "slug": "arrows",
+        "description": "",
+        "songs": [
+            "space-lovin"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "art",
+        "slug": "art",
+        "description": "",
+        "songs": [
+            "brazen-admirer",
+            "budweiser-wednesday",
+            "lemon-dalliance",
+            "my-chameleon",
+            "peanut-brittle-madness",
+            "slow-work-day-a-forgery",
+            "tri-athlete",
+            "turn-it-into-a-song-the-jackie-puppet-manifesto",
+            "working-for-peanuts"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "art projects",
+        "slug": "art-projects",
+        "description": "",
+        "songs": [
+            "newsflash"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "asparagus",
+        "slug": "asparagus",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ass-grabbing",
+        "slug": "ass-grabbing",
+        "description": "",
+        "songs": [
+            "cocapina"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "astronauts",
+        "slug": "astronauts",
+        "description": "",
+        "songs": [
+            "helmets-on-pencils-down"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "athletics",
+        "slug": "athletics",
+        "description": "",
+        "songs": [
+            "tri-athlete"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "automatons",
+        "slug": "automatons",
+        "description": "",
+        "songs": [
+            "the-mannequin-moved"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "avocados",
+        "slug": "avocados",
+        "description": "",
+        "songs": [
+            "miss-dazeem"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "avoidance",
+        "slug": "avoidance",
+        "description": "",
+        "songs": [
+            "cocapina"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "awards",
+        "slug": "awards",
+        "description": "",
+        "songs": [
+            "daylight-robbery",
+            "he-got-the-egot",
+            "jamila-s-perfect-game",
+            "judo-day-job",
+            "muffle-it-thunderthief"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "babka",
+        "slug": "babka",
+        "description": "",
+        "songs": [
+            "space-lovin"
+        ],
+        "parent": "baked-goods"
+    },
+    {
+        "name": "bad",
+        "slug": "bad",
+        "description": "",
+        "songs": [
+            "bad-band-blair",
+            "bad-gambler",
+            "bad-gift-good-paper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bad manners",
+        "slug": "bad-manners",
+        "description": "",
+        "songs": [
+            "clusterfuck-catfight-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "badminton",
+        "slug": "badminton",
+        "description": "",
+        "songs": [
+            "karate-games"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bagels",
+        "slug": "bagels",
+        "description": "",
+        "songs": [
+            "poppy-seed-is-the-glitter-of-bagel-toppings"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bagpipes",
+        "slug": "bagpipes",
+        "description": "",
+        "songs": [
+            "international-music",
+            "semi-confidential"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bail bonds",
+        "slug": "bail-bonds",
+        "description": "",
+        "songs": [
+            "whales-do"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "baked goods",
+        "slug": "baked-goods",
+        "description": "",
+        "songs": [
+            "space-lovin"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "baleen whales",
+        "slug": "baleen-whales",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "bananas",
+        "slug": "bananas",
+        "description": "",
+        "songs": [
+            "dartboard-dwayne",
+            "moose-stag-stance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bands",
+        "slug": "bands",
+        "description": "",
+        "songs": [
+            "greta",
+            "history-of-greatness"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "banter",
+        "slug": "banter",
+        "description": "",
+        "songs": [
+            "courtside-peanut-gallery"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bar-b-q sauce",
+        "slug": "bar-b-q-sauce",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "barnacles",
+        "slug": "barnacles",
+        "description": "",
+        "songs": [
+            "barnacles"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "barracudas",
+        "slug": "barracudas",
+        "description": "",
+        "songs": [
+            "space-lovin"
+        ],
+        "parent": "fish"
+    },
+    {
+        "name": "bars",
+        "slug": "bars",
+        "description": "",
+        "songs": [
+            "i-need-a-new-bar"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "baseball",
+        "slug": "baseball",
+        "description": "",
+        "songs": [
+            "crestfallen-tickled",
+            "cuttin-a-rug",
+            "disco-dozer",
+            "frisbee-fritz",
+            "pencil-stalactites",
+            "practice-round",
+            "twenty-two"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "basketball",
+        "slug": "basketball",
+        "description": "",
+        "songs": [
+            "fool-of-the-county",
+            "gertrude-s-stein"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "battle of the sexes",
+        "slug": "battle-of-the-sexes",
+        "description": "",
+        "songs": [
+            "woman-in-power"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bay leaves",
+        "slug": "bay-leaves",
+        "description": "",
+        "songs": [
+            "raines-sandwich"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "beards",
+        "slug": "beards",
+        "description": "",
+        "songs": [
+            "beard"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bears",
+        "slug": "bears",
+        "description": "",
+        "songs": [
+            "donna-loves-honey",
+            "sheila-s-toe"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "beatbox",
+        "slug": "beatbox",
+        "description": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "beavers",
+        "slug": "beavers",
+        "description": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "beef barley soup",
+        "slug": "beef-barley-soup",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "beer",
+        "slug": "beer",
+        "description": "",
+        "songs": [
+            "beer-bottle-song",
+            "beer-garden",
+            "budweiser-wednesday",
+            "comedy-show",
+            "crashpad",
+            "dartboard-dwayne",
+            "day-cap",
+            "gawk-stare",
+            "jamila-s-perfect-game",
+            "jetty",
+            "not-so-fast-beer-glass-song",
+            "prove-me-right",
+            "raines-sandwich",
+            "the-stickler",
+            "weed-wagon",
+            "we-re-no-thieves"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "beer steins",
+        "slug": "beer-steins",
+        "description": "",
+        "songs": [
+            "gertrude-s-stein"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bees",
+        "slug": "bees",
+        "description": "",
+        "songs": [
+            "donna-loves-honey",
+            "gawk-stare",
+            "rambo-the-mischievous",
+            "scuba-bob",
+            "timeshare-nightmare"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "beets",
+        "slug": "beets",
+        "description": "",
+        "songs": [
+            "tri-athlete"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bells",
+        "slug": "bells",
+        "description": "",
+        "songs": [
+            "tice-tively-moking"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bicycle chains",
+        "slug": "bicycle-chains",
+        "description": "",
+        "songs": [
+            "like-a-scooby"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bigotry",
+        "slug": "bigotry",
+        "description": "",
+        "songs": [
+            "bolton-the-articulate-bigot"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bikinis",
+        "slug": "bikinis",
+        "description": "",
+        "songs": [
+            "full-context-sex-appeal",
+            "thank-you-thank-you-francesco-fabrica"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "billionaires",
+        "slug": "billionaires",
+        "description": "",
+        "songs": [
+            "billionaires-in-space"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "birds",
+        "slug": "birds",
+        "description": "",
+        "songs": [
+            "budweiser-wednesday",
+            "lawn-flamingo",
+            "the-real-macaw-assault-by-lasagna"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "birthdays",
+        "slug": "birthdays",
+        "description": "",
+        "songs": [
+            "bad-gift-good-paper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "blame",
+        "slug": "blame",
+        "description": "",
+        "songs": [
+            "but-not-the-horse-you-rode-in-on",
+            "dickhead-dalton"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "boars",
+        "slug": "boars",
+        "description": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "boats",
+        "slug": "boats",
+        "description": "",
+        "songs": [
+            "day-cap",
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bobble-heads",
+        "slug": "bobble-heads",
+        "description": "",
+        "songs": [
+            "twenty-two"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bonsai plants",
+        "slug": "bonsai-plants",
+        "description": "",
+        "songs": [
+            "unnecessary-outrage"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "boomerangs",
+        "slug": "boomerangs",
+        "description": "",
+        "songs": [
+            "fool-of-the-county"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "border collie",
+        "slug": "border-collie",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies"
+        ],
+        "parent": "dogs"
+    },
+    {
+        "name": "boredom",
+        "slug": "boredom",
+        "description": "",
+        "songs": [
+            "pencil-stalactites",
+            "slow-work-day-a-forgery",
+            "tedium-boy-and-the-daily-drag"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "borscht",
+        "slug": "borscht",
+        "description": "",
+        "songs": [
+            "tri-athlete"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bottomless plastic cups",
+        "slug": "bottomless-plastic-cups",
+        "description": "",
+        "songs": [
+            "beer-garden"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bowling",
+        "slug": "bowling",
+        "description": "",
+        "songs": [
+            "fool-of-the-county",
+            "gutterball-jamila",
+            "jamila-s-perfect-game"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "boxing",
+        "slug": "boxing",
+        "description": "",
+        "songs": [
+            "judo-day-job",
+            "practice-round"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bread & butter",
+        "slug": "bread-butter",
+        "description": "",
+        "songs": [
+            "puff-piece-hatchet-job"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "break-ups",
+        "slug": "break-ups",
+        "description": "",
+        "songs": [
+            "i-m-a-geologist"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "breezes",
+        "slug": "breezes",
+        "description": "",
+        "songs": [
+            "give-me-a-sample",
+            "scuba-bob",
+            "timeshare-nightmare"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bubblegum",
+        "slug": "bubblegum",
+        "description": "",
+        "songs": [
+            "gravy",
+            "peanut-brittle-madness",
+            "twenty-two"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bubbles",
+        "slug": "bubbles",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bug spray",
+        "slug": "bug-spray",
+        "description": "",
+        "songs": [
+            "tri-athlete"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bugs",
+        "slug": "bugs",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "bumper stickers",
+        "slug": "bumper-stickers",
+        "description": "",
+        "songs": [
+            "shapeshifters"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bunk beds",
+        "slug": "bunk-beds",
+        "description": "",
+        "songs": [
+            "interloper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "bunsons & beakers",
+        "slug": "bunsons-beakers",
+        "description": "",
+        "songs": [
+            "peanut-brittle-madness"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "buoys",
+        "slug": "buoys",
+        "description": "",
+        "songs": [
+            "hugh-the-swimaway-manatee"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "buses",
+        "slug": "buses",
+        "description": "",
+        "songs": [
+            "publicity-hounds"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cabbage",
+        "slug": "cabbage",
+        "description": "",
+        "songs": [
+            "the-real-macaw-assault-by-lasagna"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "caimans",
+        "slug": "caimans",
+        "description": "",
+        "songs": [
+            "zoozoodio"
+        ],
+        "parent": "reptiles"
+    },
+    {
+        "name": "candles",
+        "slug": "candles",
+        "description": "",
+        "songs": [
+            "kelly-bundy-catcall"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "candy",
+        "slug": "candy",
+        "description": "",
+        "songs": [
+            "i-keep-the-lights-off-on-halloween"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cap-guns",
+        "slug": "cap-guns",
+        "description": "",
+        "songs": [
+            "just-another-barfight"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cards",
+        "slug": "cards",
+        "description": "",
+        "songs": [
+            "bad-gambler",
+            "52-pick-up"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cars",
+        "slug": "cars",
+        "description": "",
+        "songs": [
+            "bitter-days",
+            "burnouts-parking-lot",
+            "colossus-of-roads",
+            "daylight-robbery",
+            "my-two-rescue-cats-drove-me-to-drink",
+            "not-so-fast-beer-glass-song",
+            "rambo-the-mischievous",
+            "rvdersehen",
+            "turnstile-jumper",
+            "we-re-no-thieves"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cassette manufacturing",
+        "slug": "cassette-manufacturing",
+        "description": "",
+        "songs": [
+            "ferric-oxide-never-sleeps"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "castles",
+        "slug": "castles",
+        "description": "",
+        "songs": [
+            "greetings-from-roanoke"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "catfish",
+        "slug": "catfish",
+        "description": "",
+        "songs": [
+            "rambo-the-mischievous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cats",
+        "slug": "cats",
+        "description": "",
+        "songs": [
+            "my-two-rescue-cats-drove-me-to-drink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "caulking",
+        "slug": "caulking",
+        "description": "",
+        "songs": [
+            "the-mad-caulker-of-ridgemont-avenue"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "caveman",
+        "slug": "caveman",
+        "description": "",
+        "songs": [
+            "brazen-admirer"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cavemen",
+        "slug": "cavemen",
+        "description": "",
+        "songs": [
+            "cobra-caveman"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ceilings",
+        "slug": "ceilings",
+        "description": "",
+        "songs": [
+            "pencil-stalactites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "celebrities",
+        "slug": "celebrities",
+        "description": "",
+        "songs": [
+            "cuttin-a-rug",
+            "he-got-the-egot"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "celebrity",
+        "slug": "celebrity",
+        "description": "",
+        "songs": [
+            "are-you-happy-being-a-schmuck",
+            "the-opposite-side-of-the-interview"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "chameleons",
+        "slug": "chameleons",
+        "description": "",
+        "songs": [
+            "my-chameleon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "chauffeurs",
+        "slug": "chauffeurs",
+        "description": "",
+        "songs": [
+            "drinks-until-she-falls-in-love",
+            "my-two-rescue-cats-drove-me-to-drink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cheese",
+        "slug": "cheese",
+        "description": "",
+        "songs": [
+            "give-me-a-sample",
+            "slow-work-day-a-forgery",
+            "what-the-fuck-is-water"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cheesecake",
+        "slug": "cheesecake",
+        "description": "",
+        "songs": [
+            "despite-our-cake"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "chewing gum",
+        "slug": "chewing-gum",
+        "description": "",
+        "songs": [
+            "lemon-dalliance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "chimpanzees",
+        "slug": "chimpanzees",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "chrome",
+        "slug": "chrome",
+        "description": "",
+        "songs": [
+            "l-a-mic-stand-disaster-2015"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cigarillos",
+        "slug": "cigarillos",
+        "description": "",
+        "songs": [
+            "imitation-crab"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cigars",
+        "slug": "cigars",
+        "description": "",
+        "songs": [
+            "we-re-no-thieves"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cinnamon",
+        "slug": "cinnamon",
+        "description": "",
+        "songs": [
+            "leotard-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cinnamon cake",
+        "slug": "cinnamon-cake",
+        "description": "",
+        "songs": [
+            "despite-our-cake"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cinnamons",
+        "slug": "cinnamons",
+        "description": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "clams",
+        "slug": "clams",
+        "description": "",
+        "songs": [
+            "jetty"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "clothing",
+        "slug": "clothing",
+        "description": "",
+        "songs": [
+            "flash-gordon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "clouds",
+        "slug": "clouds",
+        "description": "",
+        "songs": [
+            "tricky-grey-sky"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "clumsiness",
+        "slug": "clumsiness",
+        "description": "",
+        "songs": [
+            "dartboard-dwayne"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cocktails)",
+        "slug": "cocktails",
+        "description": "",
+        "songs": [
+            "gertrude-s-stein"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "coffee",
+        "slug": "coffee",
+        "description": "",
+        "songs": [
+            "bitter-days",
+            "detective-snooparoni",
+            "dickhead-dalton",
+            "fool-of-the-county",
+            "gertrude-s-stein",
+            "kickstart-my-coffee-cock-in-check",
+            "pony-up-pony-boy",
+            "what-the-fuck-is-water",
+            "woodstock-in-reverse"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cole slaw",
+        "slug": "cole-slaw",
+        "description": "",
+        "songs": [
+            "the-real-macaw-assault-by-lasagna"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "college",
+        "slug": "college",
+        "description": "",
+        "songs": [
+            "floodlight-attic"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "color-guard",
+        "slug": "color-guard",
+        "description": "",
+        "songs": [
+            "l-a-mic-stand-disaster-2015"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "colorforms",
+        "slug": "colorforms",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "comebacks",
+        "slug": "comebacks",
+        "description": "",
+        "songs": [
+            "audible"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "comedy",
+        "slug": "comedy",
+        "description": "",
+        "songs": [
+            "comedy-show",
+            "courtside-peanut-gallery",
+            "crestfallen-tickled",
+            "fanmail-overstock",
+            "he-who-laughs-the-hardest",
+            "the-laughs-that-you-want",
+            "puff-piece-hatchet-job",
+            "rapscallion",
+            "turn-it-into-a-song-the-jackie-puppet-manifesto",
+            "the-way-she-does",
+            "what-the-fuck-is-water"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "comets",
+        "slug": "comets",
+        "description": "",
+        "songs": [
+            "oh-ramona",
+            "turnstile-hop-don-t-do-it"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "comic books",
+        "slug": "comic-books",
+        "description": "",
+        "songs": [
+            "helmets-on-pencils-down"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "comic strip",
+        "slug": "comic-strip",
+        "description": "",
+        "songs": [
+            "working-for-peanuts"
+        ],
+        "parent": "peanuts"
+    },
+    {
+        "name": "competition",
+        "slug": "competition",
+        "description": "",
+        "songs": [
+            "jamila-s-perfect-game",
+            "tri-athlete"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "computers",
+        "slug": "computers",
+        "description": "",
+        "songs": [
+            "radio-trivia"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "confidence",
+        "slug": "confidence",
+        "description": "",
+        "songs": [
+            "curtis-the-absurdist",
+            "our-band-is-the-greatest-band"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "confidentiality",
+        "slug": "confidentiality",
+        "description": "",
+        "songs": [
+            "semi-confidential"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "confrontation",
+        "slug": "confrontation",
+        "description": "",
+        "songs": [
+            "are-you-happy-being-a-schmuck"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "conjugal visits",
+        "slug": "conjugal-visits",
+        "description": "",
+        "songs": [
+            "entry-level-brides"
+        ],
+        "parent": "gambling-sex"
+    },
+    {
+        "name": "conspiracy theories",
+        "slug": "conspiracy-theories",
+        "description": "",
+        "songs": [
+            "soho-truffle"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "construction",
+        "slug": "construction",
+        "description": "",
+        "songs": [
+            "crack-studio"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "context",
+        "slug": "context",
+        "description": "",
+        "songs": [
+            "full-context-sex-appeal"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "contortionists",
+        "slug": "contortionists",
+        "description": "",
+        "songs": [
+            "tinfoil-antenna-tanisha"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "contractors",
+        "slug": "contractors",
+        "description": "",
+        "songs": [
+            "shady-contractor"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "conversation",
+        "slug": "conversation",
+        "description": "",
+        "songs": [
+            "kickstart-my-coffee-cock-in-check"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "corn pone",
+        "slug": "corn-pone",
+        "description": "",
+        "songs": [
+            "read-the-room"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "corned beef",
+        "slug": "corned-beef",
+        "description": "",
+        "songs": [
+            "scrimshaw-sneed"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "corned beef on rye",
+        "slug": "corned-beef-on-rye",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "corrections",
+        "slug": "corrections",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "costumes",
+        "slug": "costumes",
+        "description": "",
+        "songs": [
+            "newsflash"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "couches",
+        "slug": "couches",
+        "description": "",
+        "songs": [
+            "rooftop-party-see-you-at-the-ranch-house"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cougars",
+        "slug": "cougars",
+        "description": "",
+        "songs": [
+            "gravy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "county fairs",
+        "slug": "county-fairs",
+        "description": "",
+        "songs": [
+            "that-s-the-guy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cover bands",
+        "slug": "cover-bands",
+        "description": "",
+        "songs": [
+            "familiarity-breeds-cover-bands"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "crabs",
+        "slug": "crabs",
+        "description": "",
+        "songs": [
+            "imitation-crab",
+            "kelly-bundy-catcall"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cream",
+        "slug": "cream",
+        "description": "",
+        "songs": [
+            "miss-dazeem"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "creamed corn",
+        "slug": "creamed-corn",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "creativity",
+        "slug": "creativity",
+        "description": "",
+        "songs": [
+            "turn-it-into-a-song-the-jackie-puppet-manifesto"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "credit",
+        "slug": "credit",
+        "description": "",
+        "songs": [
+            "he-who-laughs-the-hardest"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "crickets",
+        "slug": "crickets",
+        "description": "",
+        "songs": [
+            "cricket-physicists",
+            "mr-electric-and-his-menacing-crickets"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "crime",
+        "slug": "crime",
+        "description": "",
+        "songs": [
+            "entry-level-brides",
+            "peanut-brittle-madness",
+            "publicity-hounds",
+            "700-hefty-bags-of-pot",
+            "sheila-s-toe",
+            "slow-work-day-a-forgery",
+            "suspicion",
+            "turnstile-hop-don-t-do-it",
+            "turnstile-jumper",
+            "varmints",
+            "vortex",
+            "we-re-no-thieves"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "criminals",
+        "slug": "criminals",
+        "description": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "criticism",
+        "slug": "criticism",
+        "description": "",
+        "songs": [
+            "bad-band-blair",
+            "comedy-show",
+            "courtside-peanut-gallery",
+            "oregano",
+            "puff-piece-hatchet-job",
+            "what-the-fuck-is-water"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "criticisms",
+        "slug": "criticisms",
+        "description": "",
+        "songs": [
+            "letter-to-the-editor"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "crushes",
+        "slug": "crushes",
+        "description": "",
+        "songs": [
+            "the-opposite-side-of-the-interview"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "cussing",
+        "slug": "cussing",
+        "description": "",
+        "songs": [
+            "mr-electric-and-his-menacing-crickets",
+            "one-tick-pony",
+            "varmints"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "custard",
+        "slug": "custard",
+        "description": "",
+        "songs": [
+            "space-lovin"
+        ],
+        "parent": "baked-goods"
+    },
+    {
+        "name": "cyperpunk",
+        "slug": "cyperpunk",
+        "description": "",
+        "songs": [
+            "video-punks"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "daisies",
+        "slug": "daisies",
+        "description": "",
+        "songs": [
+            "lake-of-no-trout"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dalmations",
+        "slug": "dalmations",
+        "description": "",
+        "songs": [
+            "twenty-two"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dance-offs",
+        "slug": "dance-offs",
+        "description": "",
+        "songs": [
+            "cuttin-a-rug"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dances",
+        "slug": "dances",
+        "description": "",
+        "songs": [
+            "jane-crazy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dancing",
+        "slug": "dancing",
+        "description": "",
+        "songs": [
+            "lemon-dalliance",
+            "leotard-ladies",
+            "moose-stag-stance",
+            "rock-roll-reenie"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dandelions",
+        "slug": "dandelions",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "flowers"
+    },
+    {
+        "name": "danger",
+        "slug": "danger",
+        "description": "",
+        "songs": [
+            "burnouts-parking-lot",
+            "dartboard-dwayne",
+            "zoozoodio"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "darts",
+        "slug": "darts",
+        "description": "",
+        "songs": [
+            "dartboard-dwayne"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "daydreams",
+        "slug": "daydreams",
+        "description": "",
+        "songs": [
+            "tedium-boy-and-the-daily-drag"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "days",
+        "slug": "days",
+        "description": "",
+        "songs": [
+            "eleven"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "deception",
+        "slug": "deception",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore",
+            "miss-dazeem"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "demolition",
+        "slug": "demolition",
+        "description": "",
+        "songs": [
+            "disco-dozer"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "depression",
+        "slug": "depression",
+        "description": "",
+        "songs": [
+            "cobra-caveman",
+            "comedy-show"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "diamonds",
+        "slug": "diamonds",
+        "description": "",
+        "songs": [
+            "700-hefty-bags-of-pot"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "digeridoos",
+        "slug": "digeridoos",
+        "description": "",
+        "songs": [
+            "international-music"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "disco",
+        "slug": "disco",
+        "description": "",
+        "songs": [
+            "disco-dozer",
+            "staten-island-rinkadink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "discouragement",
+        "slug": "discouragement",
+        "description": "",
+        "songs": [
+            "stephanie-for-one"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "disguises",
+        "slug": "disguises",
+        "description": "",
+        "songs": [
+            "suspicion",
+            "tripwire"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "distractions",
+        "slug": "distractions",
+        "description": "",
+        "songs": [
+            "tedium-boy-and-the-daily-drag"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "documentaries",
+        "slug": "documentaries",
+        "description": "",
+        "songs": [
+            "newsflash"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dogs",
+        "slug": "dogs",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies",
+            "gawk-stare",
+            "like-a-real-raccoon",
+            "my-two-rescue-cats-drove-me-to-drink",
+            "pony-up-pony-boy",
+            "shapeshifters",
+            "smooth-as-geppetto"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dolphins",
+        "slug": "dolphins",
+        "description": "",
+        "songs": [
+            "zoozoodio"
+        ],
+        "parent": "sea-life"
+    },
+    {
+        "name": "donuts",
+        "slug": "donuts",
+        "description": "",
+        "songs": [
+            "bitter-days"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dragons",
+        "slug": "dragons",
+        "description": "",
+        "songs": [
+            "weed-wagon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dreams",
+        "slug": "dreams",
+        "description": "",
+        "songs": [
+            "crashpad",
+            "daylight-robbery",
+            "drinks-until-she-falls-in-love",
+            "peanut-brittle-madness",
+            "rapscallion",
+            "tedium-boy-and-the-daily-drag",
+            "weed-wagon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "drug dealing",
+        "slug": "drug-dealing",
+        "description": "",
+        "songs": [
+            "tinfoil-antenna-tanisha"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "drugs",
+        "slug": "drugs",
+        "description": "",
+        "songs": [
+            "newsflash",
+            "one-tick-pony",
+            "oregano"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dumb",
+        "slug": "dumb",
+        "description": "",
+        "songs": [
+            "dumb-dumb-dumb",
+            "dumb-dumb-dumb",
+            "dumb-dumb-dumb"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "dump trucks",
+        "slug": "dump-trucks",
+        "description": "",
+        "songs": [
+            "700-hefty-bags-of-pot"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "eating",
+        "slug": "eating",
+        "description": "",
+        "songs": [
+            "tri-athlete"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "eating habits",
+        "slug": "eating-habits",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "eggs",
+        "slug": "eggs",
+        "description": "",
+        "songs": [
+            "rambo-the-mischievous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "electric fences",
+        "slug": "electric-fences",
+        "description": "",
+        "songs": [
+            "gawk-stare"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "electricity",
+        "slug": "electricity",
+        "description": "",
+        "songs": [
+            "expectations"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "elephants",
+        "slug": "elephants",
+        "description": "",
+        "songs": [
+            "voltron-in-the-serengeti",
+            "working-for-peanuts",
+            "zoozoodio"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "elves",
+        "slug": "elves",
+        "description": "",
+        "songs": [
+            "eleven"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "embarrassment",
+        "slug": "embarrassment",
+        "description": "",
+        "songs": [
+            "crestfallen-tickled"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "encouragement",
+        "slug": "encouragement",
+        "description": "",
+        "songs": [
+            "stephanie-for-one"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "entitlement",
+        "slug": "entitlement",
+        "description": "",
+        "songs": [
+            "apple-calypso",
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ermine pelts",
+        "slug": "ermine-pelts",
+        "description": "",
+        "songs": [
+            "judo-day-job"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "escape",
+        "slug": "escape",
+        "description": "",
+        "songs": [
+            "gator-golf",
+            "zoozoodio"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "escapes",
+        "slug": "escapes",
+        "description": "",
+        "songs": [
+            "hugh-the-swimaway-manatee"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "excitement",
+        "slug": "excitement",
+        "description": "",
+        "songs": [
+            "over-amorous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "exercise",
+        "slug": "exercise",
+        "description": "",
+        "songs": [
+            "hot-sprinter"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "experimental music",
+        "slug": "experimental-music",
+        "description": "",
+        "songs": [
+            "beer-bottle-song"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "eye surgery",
+        "slug": "eye-surgery",
+        "description": "",
+        "songs": [
+            "the-ol-detroit-eye-tuck"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fact & fiction",
+        "slug": "fact-fiction",
+        "description": "",
+        "songs": [
+            "imitation-crab"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "facts",
+        "slug": "facts",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fame",
+        "slug": "fame",
+        "description": "",
+        "songs": [
+            "daylight-robbery",
+            "drinks-until-she-falls-in-love",
+            "history-of-greatness",
+            "the-opposite-side-of-the-interview"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "family",
+        "slug": "family",
+        "description": "",
+        "songs": [
+            "muffle-it-thunderthief"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fandom",
+        "slug": "fandom",
+        "description": "",
+        "songs": [
+            "crestfallen-tickled"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fangs",
+        "slug": "fangs",
+        "description": "",
+        "songs": [
+            "ruined-my-bar"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fans",
+        "slug": "fans",
+        "description": "",
+        "songs": [
+            "fanmail-overstock",
+            "the-opposite-side-of-the-interview"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "farms",
+        "slug": "farms",
+        "description": "",
+        "songs": [
+            "like-a-tornado",
+            "the-little-house-that-shouldn-t"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fashion",
+        "slug": "fashion",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies",
+            "clusterfuck-catfight-ladies",
+            "gawk-stare",
+            "gravy",
+            "hand-stamp-action",
+            "interloper",
+            "publicity-hounds",
+            "rock-roll-reenie",
+            "thank-you-thank-you-francesco-fabrica",
+            "well-aware",
+            "what-a-drag"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "faxes",
+        "slug": "faxes",
+        "description": "",
+        "songs": [
+            "letter-to-the-editor"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fear",
+        "slug": "fear",
+        "description": "",
+        "songs": [
+            "expectations",
+            "the-hang-up",
+            "tricky-grey-sky"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fear of heights",
+        "slug": "fear-of-heights",
+        "description": "",
+        "songs": [
+            "rooftop-party-see-you-at-the-ranch-house"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "feast or famine",
+        "slug": "feast-or-famine",
+        "description": "",
+        "songs": [
+            "lake-of-no-trout"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "feathers",
+        "slug": "feathers",
+        "description": "",
+        "songs": [
+            "gravy",
+            "the-real-macaw-assault-by-lasagna"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fences",
+        "slug": "fences",
+        "description": "",
+        "songs": [
+            "gator-golf",
+            "lemon-dalliance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fights",
+        "slug": "fights",
+        "description": "",
+        "songs": [
+            "disco-dozer",
+            "judo-day-job",
+            "just-another-barfight",
+            "like-a-scooby",
+            "pony-up-pony-boy",
+            "unnecessary-outrage",
+            "video-punks",
+            "vortex"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "firecrackers",
+        "slug": "firecrackers",
+        "description": "",
+        "songs": [
+            "jetty"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fireworks",
+        "slug": "fireworks",
+        "description": "",
+        "songs": [
+            "tricky-grey-sky"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fish",
+        "slug": "fish",
+        "description": "",
+        "songs": [
+            "scuba-bob",
+            "space-lovin",
+            "stephanie-for-one",
+            "the-stickler"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "flashiness",
+        "slug": "flashiness",
+        "description": "",
+        "songs": [
+            "secret-agent-mandrill"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "flashing",
+        "slug": "flashing",
+        "description": "",
+        "songs": [
+            "flash-gordon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "flipturns",
+        "slug": "flipturns",
+        "description": "",
+        "songs": [
+            "flipturn"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "flowers",
+        "slug": "flowers",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "food",
+        "slug": "food",
+        "description": "",
+        "songs": [
+            "beard",
+            "billionaires-in-space",
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "food fights",
+        "slug": "food-fights",
+        "description": "",
+        "songs": [
+            "food-fight"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "football",
+        "slug": "football",
+        "description": "",
+        "songs": [
+            "pencil-stalactites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "forgery",
+        "slug": "forgery",
+        "description": "",
+        "songs": [
+            "slow-work-day-a-forgery"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fowl",
+        "slug": "fowl",
+        "description": "",
+        "songs": [
+            "voltron-in-the-serengeti"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "foxes",
+        "slug": "foxes",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "frisbee",
+        "slug": "frisbee",
+        "description": "",
+        "songs": [
+            "frisbee-fritz"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "frisbees",
+        "slug": "frisbees",
+        "description": "",
+        "songs": [
+            "shapeshifters"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "frogs",
+        "slug": "frogs",
+        "description": "",
+        "songs": [
+            "mr-electric-and-his-menacing-crickets"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fruit",
+        "slug": "fruit",
+        "description": "",
+        "songs": [
+            "zapple-mmm"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "frustration",
+        "slug": "frustration",
+        "description": "",
+        "songs": [
+            "bitter-days",
+            "the-stickler"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fudge",
+        "slug": "fudge",
+        "description": "",
+        "songs": [
+            "despite-our-cake"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fugitives",
+        "slug": "fugitives",
+        "description": "",
+        "songs": [
+            "sheila-s-toe"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "fur coats",
+        "slug": "fur-coats",
+        "description": "",
+        "songs": [
+            "gravy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "furniture",
+        "slug": "furniture",
+        "description": "",
+        "songs": [
+            "ruined-my-bar"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gadgets",
+        "slug": "gadgets",
+        "description": "",
+        "songs": [
+            "secret-agent-mandrill"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gambling",
+        "slug": "gambling",
+        "description": "",
+        "songs": [
+            "bad-gambler",
+            "billionaires-in-space",
+            "butterscotch-brenda",
+            "daylight-robbery",
+            "despite-our-cake",
+            "jockey-song",
+            "lulu-wong-in-the-5th",
+            "varmints",
+            "willy-nilly-fastest-filly"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gambling sex",
+        "slug": "gambling-sex",
+        "description": "",
+        "songs": [
+            "entry-level-brides"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "games",
+        "slug": "games",
+        "description": "",
+        "songs": [
+            "bad-gambler",
+            "bowcraft-bop",
+            "dartboard-dwayne",
+            "52-pick-up",
+            "karate-games"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gangs",
+        "slug": "gangs",
+        "description": "",
+        "songs": [
+            "ambidextrous-high-five-gang",
+            "just-another-barfight",
+            "like-a-scooby",
+            "video-punks"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "garbage cans",
+        "slug": "garbage-cans",
+        "description": "",
+        "songs": [
+            "jetty"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "garden gnomes",
+        "slug": "garden-gnomes",
+        "description": "",
+        "songs": [
+            "lawn-flamingo"
+        ],
+        "parent": "lawn-furniture"
+    },
+    {
+        "name": "gatherings",
+        "slug": "gatherings",
+        "description": "",
+        "songs": [
+            "disco-dozer"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gazelles",
+        "slug": "gazelles",
+        "description": "",
+        "songs": [
+            "staten-island-rinkadink",
+            "voltron-in-the-serengeti"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gelt",
+        "slug": "gelt",
+        "description": "",
+        "songs": [
+            "judo-day-job"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gender",
+        "slug": "gender",
+        "description": "",
+        "songs": [
+            "the-mannequin-moved"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "generosity",
+        "slug": "generosity",
+        "description": "",
+        "songs": [
+            "barstool-mensch",
+            "tip-your-tender"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "geology",
+        "slug": "geology",
+        "description": "",
+        "songs": [
+            "i-m-a-geologist"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ghetto blasters",
+        "slug": "ghetto-blasters",
+        "description": "",
+        "songs": [
+            "publicity-hounds"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "giants",
+        "slug": "giants",
+        "description": "",
+        "songs": [
+            "colossus-of-roads",
+            "voltron-in-the-serengeti"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gifts",
+        "slug": "gifts",
+        "description": "",
+        "songs": [
+            "bad-gift-good-paper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gilding the lily",
+        "slug": "gilding-the-lily",
+        "description": "",
+        "songs": [
+            "sneaking-suspicion"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gin",
+        "slug": "gin",
+        "description": "",
+        "songs": [
+            "what-the-fuck-is-water"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "giraffes",
+        "slug": "giraffes",
+        "description": "",
+        "songs": [
+            "voltron-in-the-serengeti"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "glam metal",
+        "slug": "glam-metal",
+        "description": "",
+        "songs": [
+            "cobra-caveman"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "glitter",
+        "slug": "glitter",
+        "description": "",
+        "songs": [
+            "poppy-seed-is-the-glitter-of-bagel-toppings"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "goldfish",
+        "slug": "goldfish",
+        "description": "",
+        "songs": [
+            "my-two-rescue-cats-drove-me-to-drink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "golf",
+        "slug": "golf",
+        "description": "",
+        "songs": [
+            "gator-golf"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gorgonzola",
+        "slug": "gorgonzola",
+        "description": "",
+        "songs": [
+            "slow-work-day-a-forgery",
+            "what-the-fuck-is-water"
+        ],
+        "parent": "cheese"
+    },
+    {
+        "name": "grape",
+        "slug": "grape",
+        "description": "",
+        "songs": [
+            "find-the-yeti"
+        ],
+        "parent": "soda"
+    },
+    {
+        "name": "grapes",
+        "slug": "grapes",
+        "description": "",
+        "songs": [
+            "muffle-it-thunderthief"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "grasshoppers",
+        "slug": "grasshoppers",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "gravity",
+        "slug": "gravity",
+        "description": "",
+        "songs": [
+            "phenomenal"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "gravy",
+        "slug": "gravy",
+        "description": "",
+        "songs": [
+            "gravy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "greetings",
+        "slug": "greetings",
+        "description": "",
+        "songs": [
+            "ambidextrous-high-five-gang"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "grenades",
+        "slug": "grenades",
+        "description": "",
+        "songs": [
+            "judo-day-job"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "grizzlies",
+        "slug": "grizzlies",
+        "description": "",
+        "songs": [
+            "sheila-s-toe"
+        ],
+        "parent": "bears"
+    },
+    {
+        "name": "grizzly bears",
+        "slug": "grizzly-bears",
+        "description": "",
+        "songs": [
+            "gator-golf"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "grooming",
+        "slug": "grooming",
+        "description": "",
+        "songs": [
+            "beard"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "guitar",
+        "slug": "guitar",
+        "description": "",
+        "songs": [
+            "l-a-mic-stand-disaster-2015"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "guitar lessons",
+        "slug": "guitar-lessons",
+        "description": "",
+        "songs": [
+            "dan-smith-will-teach-you-guitar"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "guitars",
+        "slug": "guitars",
+        "description": "",
+        "songs": [
+            "newsflash"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "hackey sack",
+        "slug": "hackey-sack",
+        "description": "",
+        "songs": [
+            "punchbowl-spiker"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "hammerhead sharks",
+        "slug": "hammerhead-sharks",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "handball",
+        "slug": "handball",
+        "description": "",
+        "songs": [
+            "kelly-bundy-catcall"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "harassment",
+        "slug": "harassment",
+        "description": "",
+        "songs": [
+            "bolton-the-articulate-bigot"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "hazing",
+        "slug": "hazing",
+        "description": "",
+        "songs": [
+            "rambo-the-mischievous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "helicopters",
+        "slug": "helicopters",
+        "description": "",
+        "songs": [
+            "tricky-grey-sky"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "high school",
+        "slug": "high-school",
+        "description": "",
+        "songs": [
+            "turnstile-jumper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "hired assassins",
+        "slug": "hired-assassins",
+        "description": "",
+        "songs": [
+            "the-little-colt-that-shouldn-t"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "home repair",
+        "slug": "home-repair",
+        "description": "",
+        "songs": [
+            "shady-contractor"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "honesty",
+        "slug": "honesty",
+        "description": "",
+        "songs": [
+            "we-re-no-thieves"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "honey",
+        "slug": "honey",
+        "description": "",
+        "songs": [
+            "donna-loves-honey",
+            "rambo-the-mischievous",
+            "timeshare-nightmare"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "horns",
+        "slug": "horns",
+        "description": "",
+        "songs": [
+            "rvdersehen"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "horse racing",
+        "slug": "horse-racing",
+        "description": "",
+        "songs": [
+            "lulu-wong-in-the-5th"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "horses",
+        "slug": "horses",
+        "description": "",
+        "songs": [
+            "apple-calypso",
+            "but-not-the-horse-you-rode-in-on",
+            "dickhead-dalton",
+            "give-me-a-sample",
+            "jockey-song",
+            "the-little-colt-that-shouldn-t",
+            "willy-nilly-fastest-filly"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "horseshoes",
+        "slug": "horseshoes",
+        "description": "",
+        "songs": [
+            "jetty"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "hounds",
+        "slug": "hounds",
+        "description": "",
+        "songs": [
+            "publicity-hounds",
+            "tricky-grey-sky"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "hunger",
+        "slug": "hunger",
+        "description": "",
+        "songs": [
+            "voltron-in-the-serengeti"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "hunting",
+        "slug": "hunting",
+        "description": "",
+        "songs": [
+            "peanut-brittle-madness",
+            "voltron-in-the-serengeti"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ice",
+        "slug": "ice",
+        "description": "",
+        "songs": [
+            "moose-stag-stance",
+            "prove-me-right"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "iced cream sundaes",
+        "slug": "iced-cream-sundaes",
+        "description": "",
+        "songs": [
+            "just-desserts"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "idealization",
+        "slug": "idealization",
+        "description": "",
+        "songs": [
+            "expectations"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "immaturity vs. maturity",
+        "slug": "immaturity-vs-maturity",
+        "description": "",
+        "songs": [
+            "mea-culpa-for-the-schadenfreude"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "improvisation",
+        "slug": "improvisation",
+        "description": "",
+        "songs": [
+            "beer-bottle-song"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "indecent exposure",
+        "slug": "indecent-exposure",
+        "description": "",
+        "songs": [
+            "kickstart-my-coffee-cock-in-check"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "independence",
+        "slug": "independence",
+        "description": "",
+        "songs": [
+            "willy-nilly-fastest-filly"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "initiations",
+        "slug": "initiations",
+        "description": "",
+        "songs": [
+            "rambo-the-mischievous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "injury",
+        "slug": "injury",
+        "description": "",
+        "songs": [
+            "l-a-mic-stand-disaster-2015",
+            "lemon-dalliance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "interviews",
+        "slug": "interviews",
+        "description": "",
+        "songs": [
+            "are-you-happy-being-a-schmuck"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "invitations",
+        "slug": "invitations",
+        "description": "",
+        "songs": [
+            "guinea-pig-trip",
+            "rooftop-party-see-you-at-the-ranch-house"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "jellyfish",
+        "slug": "jellyfish",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "jetties",
+        "slug": "jetties",
+        "description": "",
+        "songs": [
+            "barnacles"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "jewels",
+        "slug": "jewels",
+        "description": "",
+        "songs": [
+            "crashpad"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "jobs",
+        "slug": "jobs",
+        "description": "",
+        "songs": [
+            "judo-day-job",
+            "peanut-brittle-madness",
+            "pencil-stalactites",
+            "slow-work-day-a-forgery",
+            "tedium-boy-and-the-daily-drag",
+            "weed-wagon",
+            "what-a-drag",
+            "woman-in-power",
+            "working-for-peanuts"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "judges",
+        "slug": "judges",
+        "description": "",
+        "songs": [
+            "daylight-robbery"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "judo",
+        "slug": "judo",
+        "description": "",
+        "songs": [
+            "judo-day-job"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "jukeboxes",
+        "slug": "jukeboxes",
+        "description": "",
+        "songs": [
+            "ruined-my-bar"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "kangaroos",
+        "slug": "kangaroos",
+        "description": "",
+        "songs": [
+            "fool-of-the-county"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "karate",
+        "slug": "karate",
+        "description": "",
+        "songs": [
+            "cobra-caveman",
+            "karate-games"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "karate belts",
+        "slug": "karate-belts",
+        "description": "",
+        "songs": [
+            "judo-day-job",
+            "karate-games"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "keg cans",
+        "slug": "keg-cans",
+        "description": "",
+        "songs": [
+            "jetty"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "kegs",
+        "slug": "kegs",
+        "description": "",
+        "songs": [
+            "i-m-not-a-marsupial"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "kelp",
+        "slug": "kelp",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "kilts",
+        "slug": "kilts",
+        "description": "",
+        "songs": [
+            "semi-confidential"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "knights",
+        "slug": "knights",
+        "description": "",
+        "songs": [
+            "apple-calypso"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "knives",
+        "slug": "knives",
+        "description": "",
+        "songs": [
+            "lemon-dalliance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "krill",
+        "slug": "krill",
+        "description": "",
+        "songs": [
+            "whales-do"
+        ],
+        "parent": "sea-life"
+    },
+    {
+        "name": "lack of filter",
+        "slug": "lack-of-filter",
+        "description": "",
+        "songs": [
+            "curtis-the-absurdist"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lapdances",
+        "slug": "lapdances",
+        "description": "",
+        "songs": [
+            "newsflash"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "laughter",
+        "slug": "laughter",
+        "description": "",
+        "songs": [
+            "gravy",
+            "he-who-laughs-the-hardest"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lava lamps",
+        "slug": "lava-lamps",
+        "description": "",
+        "songs": [
+            "floodlight-attic"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lawn flamingos",
+        "slug": "lawn-flamingos",
+        "description": "",
+        "songs": [
+            "lawn-flamingo"
+        ],
+        "parent": "lawn-furniture"
+    },
+    {
+        "name": "lawn furniture",
+        "slug": "lawn-furniture",
+        "description": "",
+        "songs": [
+            "lawn-flamingo"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lawn jockeys",
+        "slug": "lawn-jockeys",
+        "description": "",
+        "songs": [
+            "jockey-song",
+            "lawn-flamingo"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lawsuits",
+        "slug": "lawsuits",
+        "description": "",
+        "songs": [
+            "dickhead-dalton"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lawyers",
+        "slug": "lawyers",
+        "description": "",
+        "songs": [
+            "turnstile-hop-don-t-do-it"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "leases",
+        "slug": "leases",
+        "description": "",
+        "songs": [
+            "rock-roll-reenie"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "legends",
+        "slug": "legends",
+        "description": "",
+        "songs": [
+            "find-the-yeti",
+            "nessie"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lemons",
+        "slug": "lemons",
+        "description": "",
+        "songs": [
+            "ferric-oxide-never-sleeps"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ligers",
+        "slug": "ligers",
+        "description": "",
+        "songs": [
+            "zebule"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "light shows",
+        "slug": "light-shows",
+        "description": "",
+        "songs": [
+            "my-chameleon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lima beans",
+        "slug": "lima-beans",
+        "description": "",
+        "songs": [
+            "my-chameleon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lime",
+        "slug": "lime",
+        "description": "",
+        "songs": [
+            "phenomenal"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "limes",
+        "slug": "limes",
+        "description": "",
+        "songs": [
+            "staten-island-rinkadink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "limos",
+        "slug": "limos",
+        "description": "",
+        "songs": [
+            "daylight-robbery"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lindzer torts",
+        "slug": "lindzer-torts",
+        "description": "",
+        "songs": [
+            "just-desserts"
+        ],
+        "parent": "baked-goods"
+    },
+    {
+        "name": "lions",
+        "slug": "lions",
+        "description": "",
+        "songs": [
+            "kelly-bundy-catcall",
+            "voltron-in-the-serengeti"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "liquor",
+        "slug": "liquor",
+        "description": "",
+        "songs": [
+            "tip-your-tender"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "live music",
+        "slug": "live-music",
+        "description": "",
+        "songs": [
+            "i-need-a-new-bar"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "live performance",
+        "slug": "live-performance",
+        "description": "",
+        "songs": [
+            "ware-peddling-days"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lizards",
+        "slug": "lizards",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "llamas",
+        "slug": "llamas",
+        "description": "",
+        "songs": [
+            "what-the-fuck-is-water",
+            "zoozoodio"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "longing",
+        "slug": "longing",
+        "description": "",
+        "songs": [
+            "crashpad"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lotteries",
+        "slug": "lotteries",
+        "description": "",
+        "songs": [
+            "daylight-robbery"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "love",
+        "slug": "love",
+        "description": "",
+        "songs": [
+            "drinks-until-she-falls-in-love",
+            "the-hang-up",
+            "i-d-like-to-buy-a-vowel",
+            "i-m-a-geologist",
+            "lake-of-no-trout",
+            "lemon-dalliance",
+            "leotard-ladies",
+            "oh-ramona",
+            "space-lovin",
+            "standing-in-a-forest",
+            "stephanie-for-one"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "lust",
+        "slug": "lust",
+        "description": "",
+        "songs": [
+            "bad-gambler",
+            "bitter-days",
+            "bolton-the-articulate-bigot",
+            "brazen-admirer",
+            "daylight-robbery",
+            "donna-loves-honey",
+            "expectations",
+            "full-context-sex-appeal",
+            "gawk-stare",
+            "gravy",
+            "hot-sprinter",
+            "i-m-not-a-marsupial",
+            "kelly-bundy-catcall",
+            "kickstart-my-coffee-cock-in-check",
+            "leotard-ladies",
+            "the-opposite-side-of-the-interview",
+            "over-amorous",
+            "phenomenal",
+            "prove-me-right",
+            "publicity-hounds",
+            "space-lovin",
+            "standing-in-a-forest",
+            "thank-you-thank-you-francesco-fabrica",
+            "those-little-dracula-bites",
+            "tonsil-hockey-pocket-pool",
+            "tripwire",
+            "unnecessary-outrage",
+            "the-updown",
+            "we-have-a-way-with-the-ladies",
+            "well-aware",
+            "what-a-drag",
+            "woman-in-power"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "macaques",
+        "slug": "macaques",
+        "description": "",
+        "songs": [
+            "voltron-in-the-serengeti"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "macaws",
+        "slug": "macaws",
+        "description": "",
+        "songs": [
+            "the-real-macaw-assault-by-lasagna"
+        ],
+        "parent": "birds"
+    },
+    {
+        "name": "mail",
+        "slug": "mail",
+        "description": "",
+        "songs": [
+            "crestfallen-tickled",
+            "fanmail-overstock"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "makeup",
+        "slug": "makeup",
+        "description": "",
+        "songs": [
+            "what-a-drag"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "mamba snakes",
+        "slug": "mamba-snakes",
+        "description": "",
+        "songs": [
+            "zoozoodio"
+        ],
+        "parent": "reptiles"
+    },
+    {
+        "name": "manatees",
+        "slug": "manatees",
+        "description": "",
+        "songs": [
+            "hugh-the-swimaway-manatee",
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "mandrills",
+        "slug": "mandrills",
+        "description": "",
+        "songs": [
+            "secret-agent-mandrill"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "mannequins",
+        "slug": "mannequins",
+        "description": "",
+        "songs": [
+            "the-mannequin-moved"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "manta rays",
+        "slug": "manta-rays",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "marbles",
+        "slug": "marbles",
+        "description": "",
+        "songs": [
+            "staten-island-rinkadink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "marriage",
+        "slug": "marriage",
+        "description": "",
+        "songs": [
+            "not-so-fast-beer-glass-song"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "marsupials",
+        "slug": "marsupials",
+        "description": "",
+        "songs": [
+            "i-m-not-a-marsupial"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "masks",
+        "slug": "masks",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "meat",
+        "slug": "meat",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "medals",
+        "slug": "medals",
+        "description": "",
+        "songs": [
+            "daylight-robbery",
+            "judo-day-job"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "miniature golf",
+        "slug": "miniature-golf",
+        "description": "",
+        "songs": [
+            "bowcraft-bop"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "mink stoles",
+        "slug": "mink-stoles",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "mischief",
+        "slug": "mischief",
+        "description": "",
+        "songs": [
+            "dickhead-dalton",
+            "punchbowl-spiker",
+            "rambo-the-mischievous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "misheard words",
+        "slug": "misheard-words",
+        "description": "",
+        "songs": [
+            "one-tick-pony"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "misrepresentations",
+        "slug": "misrepresentations",
+        "description": "",
+        "songs": [
+            "bad-gift-good-paper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "mistakes",
+        "slug": "mistakes",
+        "description": "",
+        "songs": [
+            "crestfallen-tickled"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "money",
+        "slug": "money",
+        "description": "",
+        "songs": [
+            "pony-up-pony-boy",
+            "scuba-bob",
+            "tax-deductible",
+            "tice-tively-moking",
+            "timeshare-nightmare",
+            "tinfoil-antenna-tanisha",
+            "tip-your-tender",
+            "varmints",
+            "ware-peddling-days",
+            "we-re-no-thieves",
+            "working-for-peanuts"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "money issues",
+        "slug": "money-issues",
+        "description": "",
+        "songs": [
+            "cobra-caveman"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "monkeys",
+        "slug": "monkeys",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "monster trucks",
+        "slug": "monster-trucks",
+        "description": "",
+        "songs": [
+            "five-dollar-pull"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "moonshine",
+        "slug": "moonshine",
+        "description": "",
+        "songs": [
+            "five-dollar-pull",
+            "guinea-pig-trip"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "moose",
+        "slug": "moose",
+        "description": "",
+        "songs": [
+            "moose-stag-stance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "motorcycles",
+        "slug": "motorcycles",
+        "description": "",
+        "songs": [
+            "fool-of-the-county"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "mountains",
+        "slug": "mountains",
+        "description": "",
+        "songs": [
+            "thank-you-thank-you-francesco-fabrica"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "movies",
+        "slug": "movies",
+        "description": "",
+        "songs": [
+            "the-opposite-side-of-the-interview"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "movies\/novels",
+        "slug": "movies-novels",
+        "description": "",
+        "songs": [
+            "pony-up-pony-boy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "music",
+        "slug": "music",
+        "description": "",
+        "songs": [
+            "crack-studio",
+            "dan-smith-will-teach-you-guitar",
+            "daylight-robbery",
+            "expectations",
+            "history-of-greatness",
+            "international-music",
+            "one-tick-pony",
+            "oregano",
+            "our-band-is-the-greatest-band",
+            "prove-me-right",
+            "read-the-room",
+            "soho-truffle",
+            "tax-deductible",
+            "that-s-the-guy",
+            "vortex",
+            "ware-peddling-days"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "music video",
+        "slug": "music-video",
+        "description": "",
+        "songs": [
+            "radio-trivia"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "mutants",
+        "slug": "mutants",
+        "description": "",
+        "songs": [
+            "helmets-on-pencils-down"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "myths",
+        "slug": "myths",
+        "description": "",
+        "songs": [
+            "outpunk-the-skunk"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "nasal spray",
+        "slug": "nasal-spray",
+        "description": "",
+        "songs": [
+            "twenty-two"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "neon",
+        "slug": "neon",
+        "description": "",
+        "songs": [
+            "crashpad",
+            "leotard-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "newspapers",
+        "slug": "newspapers",
+        "description": "",
+        "songs": [
+            "letter-to-the-editor"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "nightlife",
+        "slug": "nightlife",
+        "description": "",
+        "songs": [
+            "drinks-until-she-falls-in-love"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "noise complaints",
+        "slug": "noise-complaints",
+        "description": "",
+        "songs": [
+            "pink-s-slip"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "numbers",
+        "slug": "numbers",
+        "description": "",
+        "songs": [
+            "eleven"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "obscurity",
+        "slug": "obscurity",
+        "description": "",
+        "songs": [
+            "history-of-greatness"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "obsession",
+        "slug": "obsession",
+        "description": "",
+        "songs": [
+            "donna-loves-honey"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ocean liners",
+        "slug": "ocean-liners",
+        "description": "",
+        "songs": [
+            "over-amorous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "offices",
+        "slug": "offices",
+        "description": "",
+        "songs": [
+            "pencil-stalactites",
+            "slow-work-day-a-forgery",
+            "tedium-boy-and-the-daily-drag"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "oil",
+        "slug": "oil",
+        "description": "",
+        "songs": [
+            "lake-of-no-trout"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "orange juice",
+        "slug": "orange-juice",
+        "description": "",
+        "songs": [
+            "what-the-fuck-is-water"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "orangutans",
+        "slug": "orangutans",
+        "description": "",
+        "songs": [
+            "fool-of-the-county"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "oregano",
+        "slug": "oregano",
+        "description": "",
+        "songs": [
+            "tip-your-tender"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "orgies",
+        "slug": "orgies",
+        "description": "",
+        "songs": [
+            "apple-calypso"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ospreys",
+        "slug": "ospreys",
+        "description": "",
+        "songs": [
+            "budweiser-wednesday"
+        ],
+        "parent": "birds"
+    },
+    {
+        "name": "outer space",
+        "slug": "outer-space",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "outlaws",
+        "slug": "outlaws",
+        "description": "",
+        "songs": [
+            "varmints"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "owls",
+        "slug": "owls",
+        "description": "",
+        "songs": [
+            "we-have-a-way-with-the-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "oysters",
+        "slug": "oysters",
+        "description": "",
+        "songs": [
+            "helmets-on-pencils-down"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pageants",
+        "slug": "pageants",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "paint",
+        "slug": "paint",
+        "description": "",
+        "songs": [
+            "shapeshifters"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "painting",
+        "slug": "painting",
+        "description": "",
+        "songs": [
+            "peanut-brittle-madness",
+            "standing-in-a-forest"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "panhandling",
+        "slug": "panhandling",
+        "description": "",
+        "songs": [
+            "turnstile-jumper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "paper airplanes",
+        "slug": "paper-airplanes",
+        "description": "",
+        "songs": [
+            "pencil-stalactites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "paper clips",
+        "slug": "paper-clips",
+        "description": "",
+        "songs": [
+            "pencil-stalactites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "paper footballs",
+        "slug": "paper-footballs",
+        "description": "",
+        "songs": [
+            "pencil-stalactites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "parachutes",
+        "slug": "parachutes",
+        "description": "",
+        "songs": [
+            "butterscotch-brenda"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "parrots",
+        "slug": "parrots",
+        "description": "",
+        "songs": [
+            "newsflash"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "parties",
+        "slug": "parties",
+        "description": "",
+        "songs": [
+            "guinea-pig-trip",
+            "newsflash",
+            "staten-island-rinkadink",
+            "what-a-drag",
+            "woodstock-in-reverse"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "peacocks",
+        "slug": "peacocks",
+        "description": "",
+        "songs": [
+            "expectations",
+            "rock-roll-reenie"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "peanut brittle",
+        "slug": "peanut-brittle",
+        "description": "",
+        "songs": [
+            "peanut-brittle-madness"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "peer pressure",
+        "slug": "peer-pressure",
+        "description": "",
+        "songs": [
+            "tip-your-tender"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pencils",
+        "slug": "pencils",
+        "description": "",
+        "songs": [
+            "helmets-on-pencils-down",
+            "pencil-stalactites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pens",
+        "slug": "pens",
+        "description": "",
+        "songs": [
+            "daylight-robbery"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pepper shakers",
+        "slug": "pepper-shakers",
+        "description": "",
+        "songs": [
+            "rambo-the-mischievous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pepperoni",
+        "slug": "pepperoni",
+        "description": "",
+        "songs": [
+            "give-me-a-sample"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "perseverance",
+        "slug": "perseverance",
+        "description": "",
+        "songs": [
+            "bitter-days"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pets",
+        "slug": "pets",
+        "description": "",
+        "songs": [
+            "like-a-real-raccoon",
+            "my-two-rescue-cats-drove-me-to-drink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "philosophy",
+        "slug": "philosophy",
+        "description": "",
+        "songs": [
+            "mr-electric-and-his-menacing-crickets"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "phones",
+        "slug": "phones",
+        "description": "",
+        "songs": [
+            "fanmail-overstock",
+            "the-hang-up"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "physical labor",
+        "slug": "physical-labor",
+        "description": "",
+        "songs": [
+            "butterscotch-brenda"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "physicists",
+        "slug": "physicists",
+        "description": "",
+        "songs": [
+            "cricket-physicists"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "picklebacks",
+        "slug": "picklebacks",
+        "description": "",
+        "songs": [
+            "l-a-mic-stand-disaster-2015"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "pickles",
+        "slug": "pickles",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pigeons)",
+        "slug": "pigeons",
+        "description": "",
+        "songs": [
+            "for-the-birds"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pigs",
+        "slug": "pigs",
+        "description": "",
+        "songs": [
+            "soho-truffle"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pillows",
+        "slug": "pillows",
+        "description": "",
+        "songs": [
+            "the-real-macaw-assault-by-lasagna"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pilot episodes",
+        "slug": "pilot-episodes",
+        "description": "",
+        "songs": [
+            "guinea-pig-trip"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pin-ups",
+        "slug": "pin-ups",
+        "description": "",
+        "songs": [
+            "full-context-sex-appeal"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pinball games",
+        "slug": "pinball-games",
+        "description": "",
+        "songs": [
+            "lemon-dalliance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pineapples",
+        "slug": "pineapples",
+        "description": "",
+        "songs": [
+            "phenomenal"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "piranhas",
+        "slug": "piranhas",
+        "description": "",
+        "songs": [
+            "space-lovin"
+        ],
+        "parent": "fish"
+    },
+    {
+        "name": "pirates",
+        "slug": "pirates",
+        "description": "",
+        "songs": [
+            "for-the-birds",
+            "pirate-radio"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "plankton",
+        "slug": "plankton",
+        "description": "",
+        "songs": [
+            "whales-do"
+        ],
+        "parent": "sea-life"
+    },
+    {
+        "name": "plastic surgery",
+        "slug": "plastic-surgery",
+        "description": "",
+        "songs": [
+            "the-ol-detroit-eye-tuck"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "plate tectonics",
+        "slug": "plate-tectonics",
+        "description": "",
+        "songs": [
+            "i-m-a-geologist"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "poetry",
+        "slug": "poetry",
+        "description": "",
+        "songs": [
+            "peanut-brittle-madness",
+            "read-the-room"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "polar vortex",
+        "slug": "polar-vortex",
+        "description": "",
+        "songs": [
+            "vortex"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pole vaults",
+        "slug": "pole-vaults",
+        "description": "",
+        "songs": [
+            "dickhead-dalton"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "police",
+        "slug": "police",
+        "description": "",
+        "songs": [
+            "rambo-the-mischievous",
+            "tice-tively-moking"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "political correctness",
+        "slug": "political-correctness",
+        "description": "",
+        "songs": [
+            "unnecessary-outrage"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ponies",
+        "slug": "ponies",
+        "description": "",
+        "songs": [
+            "one-tick-pony"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "poor judgement",
+        "slug": "poor-judgement",
+        "description": "",
+        "songs": [
+            "mr-electric-and-his-menacing-crickets"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pop wine",
+        "slug": "pop-wine",
+        "description": "",
+        "songs": [
+            "zapple-mmm"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "popcorn",
+        "slug": "popcorn",
+        "description": "",
+        "songs": [
+            "lemon-pledge"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "poppy seeds",
+        "slug": "poppy-seeds",
+        "description": "",
+        "songs": [
+            "poppy-seed-is-the-glitter-of-bagel-toppings"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "porcupines",
+        "slug": "porcupines",
+        "description": "",
+        "songs": [
+            "zoozoodio"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "pornography",
+        "slug": "pornography",
+        "description": "",
+        "songs": [
+            "read-the-room"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "potatoes",
+        "slug": "potatoes",
+        "description": "",
+        "songs": [
+            "lake-of-no-trout"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pots & pans",
+        "slug": "pots-pans",
+        "description": "",
+        "songs": [
+            "like-a-real-raccoon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pound cake",
+        "slug": "pound-cake",
+        "description": "",
+        "songs": [
+            "despite-our-cake"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "power",
+        "slug": "power",
+        "description": "",
+        "songs": [
+            "woman-in-power"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "practice",
+        "slug": "practice",
+        "description": "",
+        "songs": [
+            "prove-me-right"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "praise",
+        "slug": "praise",
+        "description": "",
+        "songs": [
+            "puff-piece-hatchet-job"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pretzels",
+        "slug": "pretzels",
+        "description": "",
+        "songs": [
+            "dickhead-dalton"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "prison",
+        "slug": "prison",
+        "description": "",
+        "songs": [
+            "turnstile-hop-don-t-do-it"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "proclamations",
+        "slug": "proclamations",
+        "description": "",
+        "songs": [
+            "curtis-the-absurdist"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "publicity",
+        "slug": "publicity",
+        "description": "",
+        "songs": [
+            "publicity-hounds"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "puddles",
+        "slug": "puddles",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "punchbowls",
+        "slug": "punchbowls",
+        "description": "",
+        "songs": [
+            "punchbowl-spiker",
+            "rambo-the-mischievous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "punk rock",
+        "slug": "punk-rock",
+        "description": "",
+        "songs": [
+            "bad-band-blair"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "punks",
+        "slug": "punks",
+        "description": "",
+        "songs": [
+            "tice-tively-moking",
+            "video-punks"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "puppets",
+        "slug": "puppets",
+        "description": "",
+        "songs": [
+            "lemon-pledge",
+            "smooth-as-geppetto"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "pyrite",
+        "slug": "pyrite",
+        "description": "",
+        "songs": [
+            "publicity-hounds"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "quid",
+        "slug": "quid",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": "money"
+    },
+    {
+        "name": "rabies",
+        "slug": "rabies",
+        "description": "",
+        "songs": [
+            "like-a-real-raccoon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "raccoons",
+        "slug": "raccoons",
+        "description": "",
+        "songs": [
+            "floodlight-attic",
+            "like-a-real-raccoon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "racing",
+        "slug": "racing",
+        "description": "",
+        "songs": [
+            "burnouts-parking-lot",
+            "willy-nilly-fastest-filly"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "radio",
+        "slug": "radio",
+        "description": "",
+        "songs": [
+            "pirate-radio",
+            "radio-trivia",
+            "the-way-she-does"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "rain",
+        "slug": "rain",
+        "description": "",
+        "songs": [
+            "but-not-the-horse-you-rode-in-on",
+            "ferric-oxide-never-sleeps",
+            "rvdersehen",
+            "well-aware"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "raincoats",
+        "slug": "raincoats",
+        "description": "",
+        "songs": [
+            "detective-snooparoni",
+            "flash-gordon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "rascals",
+        "slug": "rascals",
+        "description": "",
+        "songs": [
+            "tice-tively-moking"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "recklessness",
+        "slug": "recklessness",
+        "description": "",
+        "songs": [
+            "barstool-mensch",
+            "burnouts-parking-lot",
+            "clusterfuck-catfight-ladies",
+            "dartboard-dwayne",
+            "frisbee-fritz",
+            "lemon-dalliance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "recording",
+        "slug": "recording",
+        "description": "",
+        "songs": [
+            "familiarity-breeds-cover-bands",
+            "what-the-fuck-is-water"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "records",
+        "slug": "records",
+        "description": "",
+        "songs": [
+            "floodlight-attic",
+            "ware-peddling-days"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "redevelopment",
+        "slug": "redevelopment",
+        "description": "",
+        "songs": [
+            "bowcraft-bop",
+            "crack-studio",
+            "i-need-a-new-bar"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "renovations",
+        "slug": "renovations",
+        "description": "",
+        "songs": [
+            "ferric-oxide-never-sleeps",
+            "ruined-my-bar"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "reptiles",
+        "slug": "reptiles",
+        "description": "",
+        "songs": [
+            "zoozoodio"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "reviews",
+        "slug": "reviews",
+        "description": "",
+        "songs": [
+            "read-the-room",
+            "scrimshaw-sneed"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "rifles",
+        "slug": "rifles",
+        "description": "",
+        "songs": [
+            "like-a-real-raccoon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "rivalries",
+        "slug": "rivalries",
+        "description": "",
+        "songs": [
+            "muffle-it-thunderthief"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "roadtrips",
+        "slug": "roadtrips",
+        "description": "",
+        "songs": [
+            "rvdersehen"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "rock & roll",
+        "slug": "rock-roll",
+        "description": "",
+        "songs": [
+            "rock-roll-reenie"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "rock formations",
+        "slug": "rock-formations",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "rockets",
+        "slug": "rockets",
+        "description": "",
+        "songs": [
+            "daylight-robbery"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "roller derby",
+        "slug": "roller-derby",
+        "description": "",
+        "songs": [
+            "staten-island-rinkadink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "roller disco",
+        "slug": "roller-disco",
+        "description": "",
+        "songs": [
+            "staten-island-rinkadink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "roller skating",
+        "slug": "roller-skating",
+        "description": "",
+        "songs": [
+            "woodstock-in-reverse"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "romance",
+        "slug": "romance",
+        "description": "",
+        "songs": [
+            "not-so-fast-beer-glass-song"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "roosters",
+        "slug": "roosters",
+        "description": "",
+        "songs": [
+            "kickstart-my-coffee-cock-in-check"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "roses",
+        "slug": "roses",
+        "description": "",
+        "songs": [
+            "leotard-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "rubber band balls",
+        "slug": "rubber-band-balls",
+        "description": "",
+        "songs": [
+            "pencil-stalactites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "running",
+        "slug": "running",
+        "description": "",
+        "songs": [
+            "hot-sprinter",
+            "tri-athlete",
+            "turnstile-jumper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sabotage",
+        "slug": "sabotage",
+        "description": "",
+        "songs": [
+            "newsflash"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sage",
+        "slug": "sage",
+        "description": "",
+        "songs": [
+            "leotard-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sails",
+        "slug": "sails",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "salamanders",
+        "slug": "salamanders",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "salmon",
+        "slug": "salmon",
+        "description": "",
+        "songs": [
+            "ferric-oxide-never-sleeps"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sambuca",
+        "slug": "sambuca",
+        "description": "",
+        "songs": [
+            "what-the-fuck-is-water"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "sandwiches",
+        "slug": "sandwiches",
+        "description": "",
+        "songs": [
+            "pony-up-pony-boy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sauce)",
+        "slug": "sauce",
+        "description": "",
+        "songs": [
+            "the-real-macaw-assault-by-lasagna"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "scaffolds",
+        "slug": "scaffolds",
+        "description": "",
+        "songs": [
+            "game-for-whiskey"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "schadenfreude",
+        "slug": "schadenfreude",
+        "description": "",
+        "songs": [
+            "mea-culpa-for-the-schadenfreude"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "scissors",
+        "slug": "scissors",
+        "description": "",
+        "songs": [
+            "semi-confidential"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "scotch",
+        "slug": "scotch",
+        "description": "",
+        "songs": [
+            "are-you-happy-being-a-schmuck",
+            "we-re-no-thieves"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "screwdrivers",
+        "slug": "screwdrivers",
+        "description": "",
+        "songs": [
+            "drinks-until-she-falls-in-love"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "scrimmage",
+        "slug": "scrimmage",
+        "description": "",
+        "songs": [
+            "practice-round"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sea anemones",
+        "slug": "sea-anemones",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sea life",
+        "slug": "sea-life",
+        "description": "",
+        "songs": [
+            "zoozoodio"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "search teams",
+        "slug": "search-teams",
+        "description": "",
+        "songs": [
+            "tricky-grey-sky"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "searches",
+        "slug": "searches",
+        "description": "",
+        "songs": [
+            "find-the-yeti",
+            "hugh-the-swimaway-manatee",
+            "nessie"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "secret agents",
+        "slug": "secret-agents",
+        "description": "",
+        "songs": [
+            "zebule"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "security",
+        "slug": "security",
+        "description": "",
+        "songs": [
+            "hand-stamp-action"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sex",
+        "slug": "sex",
+        "description": "",
+        "songs": [
+            "apple-calypso",
+            "bolton-the-articulate-bigot",
+            "boondoggle-the-nudnik-follies",
+            "brazen-admirer",
+            "what-the-fuck-is-water"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sexual activity",
+        "slug": "sexual-activity",
+        "description": "",
+        "songs": [
+            "tonsil-hockey-pocket-pool"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "shapeshifting",
+        "slug": "shapeshifting",
+        "description": "",
+        "songs": [
+            "shapeshifters"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sharks",
+        "slug": "sharks",
+        "description": "",
+        "songs": [
+            "zsaws"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ships",
+        "slug": "ships",
+        "description": "",
+        "songs": [
+            "outpunk-the-skunk"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "shopping",
+        "slug": "shopping",
+        "description": "",
+        "songs": [
+            "cocapina",
+            "what-a-drag"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "showgirls",
+        "slug": "showgirls",
+        "description": "",
+        "songs": [
+            "expectations"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "skunks",
+        "slug": "skunks",
+        "description": "",
+        "songs": [
+            "outpunk-the-skunk"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "skyscrapers",
+        "slug": "skyscrapers",
+        "description": "",
+        "songs": [
+            "l-a-mic-stand-disaster-2015"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sleep",
+        "slug": "sleep",
+        "description": "",
+        "songs": [
+            "drinks-until-she-falls-in-love",
+            "kickstart-my-coffee-cock-in-check",
+            "rapscallion",
+            "smooth-as-geppetto",
+            "tricky-grey-sky"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sleeping bags",
+        "slug": "sleeping-bags",
+        "description": "",
+        "songs": [
+            "tedium-boy-and-the-daily-drag"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sleet",
+        "slug": "sleet",
+        "description": "",
+        "songs": [
+            "rvdersehen"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sliding doors",
+        "slug": "sliding-doors",
+        "description": "",
+        "songs": [
+            "gator-golf"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "snakes",
+        "slug": "snakes",
+        "description": "",
+        "songs": [
+            "peanut-brittle-madness"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sobriety",
+        "slug": "sobriety",
+        "description": "",
+        "songs": [
+            "mea-culpa-for-the-schadenfreude",
+            "weed-wagon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "social anxiety",
+        "slug": "social-anxiety",
+        "description": "",
+        "songs": [
+            "the-mad-caulker-of-ridgemont-avenue"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "soda",
+        "slug": "soda",
+        "description": "",
+        "songs": [
+            "find-the-yeti",
+            "pony-up-pony-boy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sonars",
+        "slug": "sonars",
+        "description": "",
+        "songs": [
+            "nessie"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "songs",
+        "slug": "songs",
+        "description": "",
+        "songs": [
+            "turn-it-into-a-song-the-jackie-puppet-manifesto"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "songwriting",
+        "slug": "songwriting",
+        "description": "",
+        "songs": [
+            "expectations",
+            "woodstock-in-reverse"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "space birds",
+        "slug": "space-birds",
+        "description": "",
+        "songs": [
+            "space-lovin"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "space travel",
+        "slug": "space-travel",
+        "description": "",
+        "songs": [
+            "billionaires-in-space"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "spaghetti",
+        "slug": "spaghetti",
+        "description": "",
+        "songs": [
+            "history-of-greatness"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "speedboats",
+        "slug": "speedboats",
+        "description": "",
+        "songs": [
+            "hugh-the-swimaway-manatee"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "spies",
+        "slug": "spies",
+        "description": "",
+        "songs": [
+            "secret-agent-mandrill",
+            "zebule"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "spilling",
+        "slug": "spilling",
+        "description": "",
+        "songs": [
+            "gawk-stare"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sports",
+        "slug": "sports",
+        "description": "",
+        "songs": [
+            "jamila-s-perfect-game"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "spreading the word",
+        "slug": "spreading-the-word",
+        "description": "",
+        "songs": [
+            "that-s-the-guy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sprinklers",
+        "slug": "sprinklers",
+        "description": "",
+        "songs": [
+            "expectations"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "square dancing",
+        "slug": "square-dancing",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "squids",
+        "slug": "squids",
+        "description": "",
+        "songs": [
+            "song-for-the-squids"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "stalactites",
+        "slug": "stalactites",
+        "description": "",
+        "songs": [
+            "pencil-stalactites",
+            "semi-confidential",
+            "the-stickler"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "stalagmites",
+        "slug": "stalagmites",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "rock-formations"
+    },
+    {
+        "name": "steak",
+        "slug": "steak",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "stickers",
+        "slug": "stickers",
+        "description": "",
+        "songs": [
+            "vortex"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "stockings",
+        "slug": "stockings",
+        "description": "",
+        "songs": [
+            "prove-me-right"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "stop signs",
+        "slug": "stop-signs",
+        "description": "",
+        "songs": [
+            "lemon-dalliance"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "stories",
+        "slug": "stories",
+        "description": "",
+        "songs": [
+            "that-s-the-guy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "storms",
+        "slug": "storms",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies",
+            "one-tick-pony",
+            "standing-in-a-forest",
+            "tricky-grey-sky"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "strandings at sea",
+        "slug": "strandings-at-sea",
+        "description": "",
+        "songs": [
+            "overboard"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "strawberries",
+        "slug": "strawberries",
+        "description": "",
+        "songs": [
+            "zapple-mmm"
+        ],
+        "parent": "fruit"
+    },
+    {
+        "name": "stream-of-consciousness",
+        "slug": "stream-of-consciousness",
+        "description": "",
+        "songs": [
+            "rapscallion"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "street cleaners",
+        "slug": "street-cleaners",
+        "description": "",
+        "songs": [
+            "give-me-a-sample"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "strippers",
+        "slug": "strippers",
+        "description": "",
+        "songs": [
+            "poppy-seed-is-the-glitter-of-bagel-toppings"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "stubble",
+        "slug": "stubble",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "student-teacher relations",
+        "slug": "student-teacher-relations",
+        "description": "",
+        "songs": [
+            "bolton-the-articulate-bigot"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "style",
+        "slug": "style",
+        "description": "",
+        "songs": [
+            "like-a-real-raccoon",
+            "semi-confidential"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "stylus",
+        "slug": "stylus",
+        "description": "",
+        "songs": [
+            "standing-in-a-forest"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "suites",
+        "slug": "suites",
+        "description": "",
+        "songs": [
+            "turnstile-hop-don-t-do-it"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sumo wrestling",
+        "slug": "sumo-wrestling",
+        "description": "",
+        "songs": [
+            "give-me-a-sample"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "sunglasses",
+        "slug": "sunglasses",
+        "description": "",
+        "songs": [
+            "like-a-real-raccoon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "surprise",
+        "slug": "surprise",
+        "description": "",
+        "songs": [
+            "the-mannequin-moved"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "surprises",
+        "slug": "surprises",
+        "description": "",
+        "songs": [
+            "cocapina",
+            "full-context-sex-appeal"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "suspicion",
+        "slug": "suspicion",
+        "description": "",
+        "songs": [
+            "sneaking-suspicion",
+            "soho-truffle",
+            "suspicion",
+            "zebule"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tacos",
+        "slug": "tacos",
+        "description": "",
+        "songs": [
+            "tice-tively-moking"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "talent",
+        "slug": "talent",
+        "description": "",
+        "songs": [
+            "he-got-the-egot"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "talents",
+        "slug": "talents",
+        "description": "",
+        "songs": [
+            "rapscallion",
+            "secret-agent-mandrill"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tales",
+        "slug": "tales",
+        "description": "",
+        "songs": [
+            "scuba-bob"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tans",
+        "slug": "tans",
+        "description": "",
+        "songs": [
+            "thank-you-thank-you-francesco-fabrica"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tar",
+        "slug": "tar",
+        "description": "",
+        "songs": [
+            "ruined-my-bar"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "taxes",
+        "slug": "taxes",
+        "description": "",
+        "songs": [
+            "tax-deductible"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "taxis",
+        "slug": "taxis",
+        "description": "",
+        "songs": [
+            "my-two-rescue-cats-drove-me-to-drink"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "telemarketers",
+        "slug": "telemarketers",
+        "description": "",
+        "songs": [
+            "pencil-stalactites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "telescopes",
+        "slug": "telescopes",
+        "description": "",
+        "songs": [
+            "tripwire"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tests",
+        "slug": "tests",
+        "description": "",
+        "songs": [
+            "helmets-on-pencils-down"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "the Bubblegum Kiss",
+        "slug": "the-bubblegum-kiss",
+        "description": "",
+        "songs": [
+            "jane-crazy"
+        ],
+        "parent": "dances"
+    },
+    {
+        "name": "the Electric Eel",
+        "slug": "the-electric-eel",
+        "description": "",
+        "songs": [
+            "jane-crazy"
+        ],
+        "parent": "dances"
+    },
+    {
+        "name": "the Highest Bid",
+        "slug": "the-highest-bid",
+        "description": "",
+        "songs": [
+            "jane-crazy"
+        ],
+        "parent": "dances"
+    },
+    {
+        "name": "the Love Supreme",
+        "slug": "the-love-supreme",
+        "description": "",
+        "songs": [
+            "jane-crazy"
+        ],
+        "parent": "dances"
+    },
+    {
+        "name": "the Man of Steel",
+        "slug": "the-man-of-steel",
+        "description": "",
+        "songs": [
+            "jane-crazy"
+        ],
+        "parent": "dances"
+    },
+    {
+        "name": "the Moon",
+        "slug": "the-moon",
+        "description": "",
+        "songs": [
+            "tripwire"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "the Navy",
+        "slug": "the-navy",
+        "description": "",
+        "songs": [
+            "gravy"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "the Olympics",
+        "slug": "the-olympics",
+        "description": "",
+        "songs": [
+            "daylight-robbery"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "the Sonic Twist",
+        "slug": "the-sonic-twist",
+        "description": "",
+        "songs": [
+            "jane-crazy"
+        ],
+        "parent": "dances"
+    },
+    {
+        "name": "the Teenage Dream",
+        "slug": "the-teenage-dream",
+        "description": "",
+        "songs": [
+            "jane-crazy"
+        ],
+        "parent": "dances"
+    },
+    {
+        "name": "the alphabet",
+        "slug": "the-alphabet",
+        "description": "",
+        "songs": [
+            "i-d-like-to-buy-a-vowel"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "theft",
+        "slug": "theft",
+        "description": "",
+        "songs": [
+            "peanut-brittle-madness",
+            "publicity-hounds",
+            "700-hefty-bags-of-pot",
+            "turnstile-hop-don-t-do-it",
+            "turnstile-jumper",
+            "we-re-no-thieves"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "theme parks",
+        "slug": "theme-parks",
+        "description": "",
+        "songs": [
+            "timeshare-nightmare"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "thunder",
+        "slug": "thunder",
+        "description": "",
+        "songs": [
+            "one-tick-pony"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "thyme",
+        "slug": "thyme",
+        "description": "",
+        "songs": [
+            "leotard-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tiaras",
+        "slug": "tiaras",
+        "description": "",
+        "songs": [
+            "crashpad"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ticket scalping",
+        "slug": "ticket-scalping",
+        "description": "",
+        "songs": [
+            "vortex"
+        ],
+        "parent": "crime"
+    },
+    {
+        "name": "tigers",
+        "slug": "tigers",
+        "description": "",
+        "songs": [
+            "over-amorous"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "time",
+        "slug": "time",
+        "description": "",
+        "songs": [
+            "expectations",
+            "ruined-my-bar",
+            "slow-work-day-a-forgery",
+            "tricky-grey-sky"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "time travel",
+        "slug": "time-travel",
+        "description": "",
+        "songs": [
+            "woodstock-in-reverse"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "timeshares",
+        "slug": "timeshares",
+        "description": "",
+        "songs": [
+            "timeshare-nightmare"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "titles",
+        "slug": "titles",
+        "description": "",
+        "songs": [
+            "fool-of-the-county",
+            "jetty",
+            "oh-ramona"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "toes",
+        "slug": "toes",
+        "description": "",
+        "songs": [
+            "sheila-s-toe"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tolls",
+        "slug": "tolls",
+        "description": "",
+        "songs": [
+            "colossus-of-roads"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tomatoes",
+        "slug": "tomatoes",
+        "description": "",
+        "songs": [
+            "the-stickler"
+        ],
+        "parent": "vegetables"
+    },
+    {
+        "name": "tonic",
+        "slug": "tonic",
+        "description": "",
+        "songs": [
+            "twenty-two",
+            "what-the-fuck-is-water"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tornadoes",
+        "slug": "tornadoes",
+        "description": "",
+        "songs": [
+            "like-a-tornado"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "track",
+        "slug": "track",
+        "description": "",
+        "songs": [
+            "turnstile-jumper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "trains",
+        "slug": "trains",
+        "description": "",
+        "songs": [
+            "i-need-a-new-bar",
+            "newsflash",
+            "phenomenal"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "travel",
+        "slug": "travel",
+        "description": "",
+        "songs": [
+            "colossus-of-roads",
+            "globe-runnin",
+            "history-of-greatness",
+            "hugh-the-swimaway-manatee",
+            "international-music",
+            "rvdersehen"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "trees",
+        "slug": "trees",
+        "description": "",
+        "songs": [
+            "timeshare-nightmare"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "trick-or-treaters",
+        "slug": "trick-or-treaters",
+        "description": "",
+        "songs": [
+            "i-keep-the-lights-off-on-halloween"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "trickery",
+        "slug": "trickery",
+        "description": "",
+        "songs": [
+            "ambidextrous-high-five-gang",
+            "backdoor-pilot",
+            "daylight-robbery",
+            "52-pick-up",
+            "rambo-the-mischievous",
+            "sheila-s-toe",
+            "soho-truffle",
+            "timeshare-nightmare",
+            "tri-athlete",
+            "tripwire",
+            "turnstile-hop-don-t-do-it",
+            "turnstile-jumper",
+            "varmints",
+            "whales-do",
+            "zebule"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "tripwire",
+        "slug": "tripwire",
+        "description": "",
+        "songs": [
+            "tripwire"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "trivia",
+        "slug": "trivia",
+        "description": "",
+        "songs": [
+            "radio-trivia"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "trolleys",
+        "slug": "trolleys",
+        "description": "",
+        "songs": [
+            "leotard-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "trout)",
+        "slug": "trout",
+        "description": "",
+        "songs": [
+            "lake-of-no-trout"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "truffles",
+        "slug": "truffles",
+        "description": "",
+        "songs": [
+            "soho-truffle"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "truth or fiction",
+        "slug": "truth-or-fiction",
+        "description": "",
+        "songs": [
+            "suspicion"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "turkey",
+        "slug": "turkey",
+        "description": "",
+        "songs": [
+            "scrimshaw-sneed"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "turtles",
+        "slug": "turtles",
+        "description": "",
+        "songs": [
+            "boondoggle-the-nudnik-follies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "ukuleles",
+        "slug": "ukuleles",
+        "description": "",
+        "songs": [
+            "international-music"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "unpopularity",
+        "slug": "unpopularity",
+        "description": "",
+        "songs": [
+            "we-have-a-way-with-the-ladies"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "upside down cake)",
+        "slug": "upside-down-cake",
+        "description": "",
+        "songs": [
+            "despite-our-cake"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "vacations",
+        "slug": "vacations",
+        "description": "",
+        "songs": [
+            "shady-contractor"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "vacuums",
+        "slug": "vacuums",
+        "description": "",
+        "songs": [
+            "rapscallion"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "vampires",
+        "slug": "vampires",
+        "description": "",
+        "songs": [
+            "those-little-dracula-bites"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "vegetables",
+        "slug": "vegetables",
+        "description": "",
+        "songs": [
+            "jolly-green-carnivore",
+            "the-stickler"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "video games",
+        "slug": "video-games",
+        "description": "",
+        "songs": [
+            "video-punks"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "video tapes",
+        "slug": "video-tapes",
+        "description": "",
+        "songs": [
+            "newsflash"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "violence",
+        "slug": "violence",
+        "description": "",
+        "songs": [
+            "mr-electric-and-his-menacing-crickets"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "vodka",
+        "slug": "vodka",
+        "description": "",
+        "songs": [
+            "what-the-fuck-is-water"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "voicemail",
+        "slug": "voicemail",
+        "description": "",
+        "songs": [
+            "fanmail-overstock"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "vows",
+        "slug": "vows",
+        "description": "",
+        "songs": [
+            "lemon-pledge"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "voyeurism",
+        "slug": "voyeurism",
+        "description": "",
+        "songs": [
+            "tripwire"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "wackiness",
+        "slug": "wackiness",
+        "description": "",
+        "songs": [
+            "the-way-she-does"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "waiters",
+        "slug": "waiters",
+        "description": "",
+        "songs": [
+            "rvdersehen"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "wallabies",
+        "slug": "wallabies",
+        "description": "",
+        "songs": [
+            "turnstile-jumper"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "warnings",
+        "slug": "warnings",
+        "description": "",
+        "songs": [
+            "tice-tively-moking"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "water",
+        "slug": "water",
+        "description": "",
+        "songs": [
+            "what-the-fuck-is-water"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "waterbeds",
+        "slug": "waterbeds",
+        "description": "",
+        "songs": [
+            "twenty-two"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "wealth",
+        "slug": "wealth",
+        "description": "",
+        "songs": [
+            "clusterfuck-catfight-ladies",
+            "judo-day-job"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "weasels",
+        "slug": "weasels",
+        "description": "",
+        "songs": [
+            "zebule"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "weather",
+        "slug": "weather",
+        "description": "",
+        "songs": [
+            "one-tick-pony",
+            "shady-contractor",
+            "what-s-gnu-wildebeest"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "weed",
+        "slug": "weed",
+        "description": "",
+        "songs": [
+            "burnouts-parking-lot",
+            "lemon-dalliance",
+            "oh-sh-hit",
+            "one-tick-pony",
+            "oregano",
+            "puff-piece-hatchet-job",
+            "rvdersehen",
+            "700-hefty-bags-of-pot",
+            "tinfoil-antenna-tanisha",
+            "ware-peddling-days",
+            "weed-wagon"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "whales",
+        "slug": "whales",
+        "description": "",
+        "songs": [
+            "whales-do"
+        ],
+        "parent": "sea-life"
+    },
+    {
+        "name": "whiffleball",
+        "slug": "whiffleball",
+        "description": "",
+        "songs": [
+            "over-amorous",
+            "peanut-brittle-madness"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "whiskey",
+        "slug": "whiskey",
+        "description": "",
+        "songs": [
+            "game-for-whiskey"
+        ],
+        "parent": "alcohol"
+    },
+    {
+        "name": "whittling",
+        "slug": "whittling",
+        "description": "",
+        "songs": [
+            "crestfallen-tickled"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "wildebeest",
+        "slug": "wildebeest",
+        "description": "",
+        "songs": [
+            "voltron-in-the-serengeti",
+            "what-s-gnu-wildebeest"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "wildlife",
+        "slug": "wildlife",
+        "description": "",
+        "songs": [
+            "the-stickler",
+            "voltron-in-the-serengeti",
+            "what-the-fuck-is-water",
+            "what-s-gnu-wildebeest",
+            "working-for-peanuts",
+            "zebule",
+            "zoozoodio"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "windmills",
+        "slug": "windmills",
+        "description": "",
+        "songs": [
+            "gator-golf"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "wine)",
+        "slug": "wine",
+        "description": "",
+        "songs": [
+            "tip-your-tender"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "wires",
+        "slug": "wires",
+        "description": "",
+        "songs": [
+            "zebule"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "wisdom",
+        "slug": "wisdom",
+        "description": "",
+        "songs": [
+            "apple-calypso"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "wolves",
+        "slug": "wolves",
+        "description": "",
+        "songs": [
+            "publicity-hounds"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "women",
+        "slug": "women",
+        "description": "",
+        "songs": [
+            "just-desserts",
+            "stephanie-for-one",
+            "thank-you-thank-you-francesco-fabrica"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "work",
+        "slug": "work",
+        "description": "",
+        "songs": [
+            "working-for-peanuts"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "wrestling",
+        "slug": "wrestling",
+        "description": "",
+        "songs": [
+            "just-another-barfight",
+            "leotard-ladies",
+            "puff-piece-hatchet-job",
+            "semi-confidential",
+            "tedium-boy-and-the-daily-drag",
+            "zapple-mmm"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "yachts",
+        "slug": "yachts",
+        "description": "",
+        "songs": [
+            "rock-roll-reenie",
+            "what-s-gnu-wildebeest"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "yellowjackets",
+        "slug": "yellowjackets",
+        "description": "",
+        "songs": [
+            "jetty"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "yo-yos)",
+        "slug": "yo-yos",
+        "description": "",
+        "songs": [
+            "the-games-that-you-want"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "yodeling",
+        "slug": "yodeling",
+        "description": "",
+        "songs": [
+            "bad-band-blair"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "zambonis",
+        "slug": "zambonis",
+        "description": "",
+        "songs": [
+            "give-me-a-sample"
+        ],
+        "parent": ""
+    },
+    {
+        "name": "zebras",
+        "slug": "zebras",
+        "description": "",
+        "songs": [
+            "voltron-in-the-serengeti"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "zebules",
+        "slug": "zebules",
+        "description": "",
+        "songs": [
+            "zebule"
+        ],
+        "parent": "wildlife"
+    },
+    {
+        "name": "zoos",
+        "slug": "zoos",
+        "description": "",
+        "songs": [
+            "what-the-fuck-is-water"
+        ],
+        "parent": ""
+    }
+]

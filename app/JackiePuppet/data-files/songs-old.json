@@ -2419,14 +2419,7 @@
             "dance club"
         ],
         "themes": [
-            " dances (the Electric Eel",
-            " the Man of Steel",
-            " the Love Supreme",
-            " the Teenage Dream",
-            " the Sonic Twist",
-            " the Bubblegum Kiss",
-            " Off The Grid",
-            " the Highest Bid)"
+            " dances (the Electric Eel, the Man of Steel, the Love Supreme, the Teenage Dream, the Sonic Twist, the Bubblegum Kiss, Off The Grid, the Highest Bid)"
         ],
         "slug": "jane-crazy",
         "alternate_titles": []
@@ -2575,8 +2568,7 @@
             "strip club"
         ],
         "themes": [
-            "alcohol (Cabernet Sauvignon wine",
-            " Cupcake brand wine)",
+            "alcohol (Cabernet Sauvignon wine, Cupcake brand wine)",
             " baked goods (lindzer torts)",
             " iced cream sundaes",
             " women"
@@ -2595,7 +2587,7 @@
         "themes": [
             "badminton",
             " games (Monopoly)",
-            " karate (inc. karate belts)"
+            " karate (karate belts)"
         ],
         "slug": "karate-games",
         "alternate_titles": []
@@ -2667,7 +2659,8 @@
             "\"Jimmy Kimmel Live\""
         ],
         "themes": [
-            "alcohol (picklebacks) chrome",
+            "alcohol (picklebacks)",
+            "chrome",
             " color-guard",
             " guitar",
             " injury",
@@ -2727,9 +2720,7 @@
         "settings": [],
         "themes": [
             "birds",
-            " lawn furniture (garden gnomes",
-            " lawn flamingos",
-            " lawn jockeys)"
+            " lawn furniture (garden gnomes, lawn flamingos, lawn jockeys)"
         ],
         "slug": "lawn-flamingo",
         "alternate_titles": []
@@ -3185,8 +3176,7 @@
         "locations": [],
         "settings": [],
         "themes": [
-            "art (Pollock",
-            " Warhol)",
+            "art (Pollock, Warhol)",
             " chameleons",
             " light shows",
             " lima beans"
@@ -3257,11 +3247,11 @@
         ],
         "characters": [
             "Dan Krug",
-            " Pavement (band)"
+            "Pavement (band)"
         ],
         "locations": [
             "Central Park (Manhattan, NY)",
-            " NYU (Manhattan, NY)"
+            "NYU (Manhattan, NY)"
         ],
         "settings": [
             "college",
@@ -3271,7 +3261,8 @@
             "art projects",
             " costumes",
             " documentaries",
-            " drugs (Marinol) guitars",
+            " drugs (Marinol)",
+            " guitars",
             " lapdances",
             " parrots",
             " parties",
@@ -3407,9 +3398,7 @@
             "bar"
         ],
         "themes": [
-            "criticism (tomatoes",
-            " eggs",
-            " & jeers)",
+            "criticism (tomatoes, eggs, & jeers)",
             " live performance"
         ],
         "notes": "* sung by Jackie Puppet band",
@@ -3578,8 +3567,7 @@
         ],
         "themes": [
             "art",
-            " bubblegum (Bubbalicious",
-            " Hubba Bubba)",
+            " bubblegum (Bubbalicious, Hubba Bubba)",
             " bunsons & beakers",
             " crime",
             " dreams",
@@ -3924,8 +3912,7 @@
             "surprise party"
         ],
         "themes": [
-            "alcohol (beer",
-            " Guinness)",
+            "alcohol (beer, Guinness)",
             " bay leaves",
             " Raines sandwiches"
         ],
@@ -4611,25 +4598,14 @@
         "locations": [],
         "settings": [],
         "themes": [
-            "alcohol (beer",
-            " Guinness)",
+            "alcohol (beer, Guinness)",
             " corrections",
-            " dandelions",
+            " flowers (dandelions)",
             " facts",
-            " flowers",
             " frustration",
-            " wildlife (baleen whales",
-            " bugs",
-            " chimpanzees",
-            " fish",
-            " grasshoppers",
-            " lizards",
-            " monkeys",
-            " salamanders)",
-            " stalactites",
-            " stalagmites",
-            " tomatoes",
-            " vegetables"
+            " wildlife (baleen whales, bugs, chimpanzees, fish, grasshoppers, lizards, monkeys, salamanders)",
+            " rock formations (stalactites, stalagmites)",
+            " vegetables (tomatoes)"
         ],
         "notes": "* sung by The Stickler",
         "slug": "the-stickler",
@@ -5211,13 +5187,7 @@
             " giants",
             " hunger",
             " hunting",
-            " wildlife (elephants",
-            " fowl",
-            " gazelles",
-            " giraffes",
-            " lions",
-            " macaques wildebeest",
-            " zebras)"
+            " wildlife (elephants, fowl, gazelles, giraffes, lions, macaques, wildebeest, zebras)"
         ],
         "slug": "voltron-in-the-serengeti",
         "alternate_titles": []
@@ -5466,9 +5436,7 @@
             "recording studio"
         ],
         "themes": [
-            "alcohol (gin",
-            " sambuca",
-            " vodka)",
+            "alcohol (gin, sambuca, vodka)",
             " cheese (gorgonzola)",
             " coffee",
             " comedy",
@@ -5674,9 +5642,7 @@
             " spies",
             " suspicion",
             " trickery",
-            " wildlife (ligers",
-            " weasels",
-            " zebules)",
+            " wildlife (ligers, weasels, zebules)",
             " wires"
         ],
         "slug": "zebule",
@@ -5699,10 +5665,7 @@
             " escape",
             " reptiles (caimans, mamba snakes)", 
             " sea life (dolphins)",
-            " wildlife (elephants",
-            " Kodiak bears",
-            " llamas",
-            " porcupines)"
+            " wildlife (elephants, Kodiak bears, llamas, porcupines)"
         ],
         "slug": "zoozoodio",
         "alternate_titles": []
@@ -5729,4 +5692,5 @@
         "slug": "zsaws",
         "alternate_titles": []
     }
+
 ]

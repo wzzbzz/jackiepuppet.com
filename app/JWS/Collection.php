@@ -13,7 +13,7 @@ class Collection{
             // if data is empty, load a file with the same name as the class in the same directory
             $class = ( new \ReflectionClass( $this ) )->getShortName();
             $file = strtolower( $class ) . ".json";
-            $path = dirname( ( new \ReflectionClass( $this ) )->getFileName() ) . "/" . $file;
+            $path = dirname( ( new \ReflectionClass( $this ) )->getFileName() ) . "/data-files/" . $file;
             $data = json_decode( file_get_contents( $path ) );
 
         }
@@ -23,9 +23,9 @@ class Collection{
     public function find( $slug, $data_or_class="class", $debug=false ){
         
         foreach( $this->data as $item ){
+
             if(is_string($item)){
                 pre($this->data);
-                
                 pre(debug_backtrace());
                 die;
             }
@@ -56,7 +56,7 @@ class Collection{
     public function renderCommaSeparatedListOfLinks(){
         
         $links = "";
-        
+
         foreach( $this->items() as $key=>$item ){
             $links .= $item->renderLink();
             if( $key < count( $this->items() ) - 1 ){
@@ -80,6 +80,10 @@ class Collection{
 
     public static function fromSlugList( $slugs, $class="JWS\NamedEntity" ){
 
+        if(empty($slugs)){
+            return false;
+        }
+
         $items = [];
 
         // collection is a new insta nce of this class use reflection
@@ -87,12 +91,28 @@ class Collection{
 
         // loop through the slugs
         foreach( $slugs as $slug ){
+            if( $collection->find( $slug, "data", true ) == false){
+                pre($slug);
+                pre($collection);
+                die;
+            }
             $items[] = $collection->find( $slug, "data", true );
         }
-
+        
         // return a new collection 
+        $collection = new static( $items );
         return new static( $items );
         
+    }
+
+    public function addOrUpdate( $item ){
+        $slug = $item->slug();
+        $existing = $this->find( $slug, "data" );
+        if( $existing ){
+            $existing->name = $item->name();
+        }else{
+            $this->data[] = $item->data;
+        }
     }
     
 

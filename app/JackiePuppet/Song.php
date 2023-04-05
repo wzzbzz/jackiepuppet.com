@@ -22,11 +22,9 @@ class Song extends \JWS\NamedEntity{
 
     public function credits(){
 
-        $credits = [];
-        
+        $credits = [];      
         foreach( $this->data->credits as $role ){
 
-            
             foreach( $role->credits as $key=>$person ){
                 $people = new People();
                 $person = $people->find( $person );
@@ -49,7 +47,8 @@ class Song extends \JWS\NamedEntity{
 
         foreach( $this->credits() as $credit ){
             
-            $credits .= $credit->role . ": ";
+            if(!empty($credit->role))
+                $credits .= $credit->role . ": ";
             foreach( $credit->credits as $key=>$person ){
                 $credits .= $person->renderLink();
                 if( $key < count( $credit->credits ) - 1 ){
@@ -67,11 +66,12 @@ class Song extends \JWS\NamedEntity{
     }
 
     public function locations(){
-        return $this->data->locations;
+        return \JackiePuppet\Locations::fromSlugList((array)$this->data->locations);
     }
 
     public function settings(){
-        return $this->data->settings;
+        $settings = \JackiePuppet\Settings::fromSlugList((array)$this->data->settings);
+        return $settings;
     }
 
     public function lyrics(){
@@ -79,7 +79,8 @@ class Song extends \JWS\NamedEntity{
     }
 
     public function themes(){
-        return $this->data->themes;
+        $themes = \JackiePuppet\Themes::fromSlugList((array)$this->data->themes);
+        return $themes;
     }
 
     public function notes(){
@@ -108,20 +109,21 @@ class Song extends \JWS\NamedEntity{
         endif;
 
         // locations
-        if( count( $this->locations() ) > 0 ) : ?>
-            <li>Locations: <?= implode( ", ", $this->locations() ); ?></li>
+        if( !( $this->locations() ) == false ) : 
+        ?>
+            <li>Locations: <?php $this->locations()->renderCommaSeparatedListOfLinks(); ?></li>
         <?php  
         endif;
 
         // settings
-        if( count( $this->settings() ) > 0 ) : ?>
-            <li>Settings: <?= implode( ", ", $this->settings() ); ?></li>
+        if( !( $this->settings() ) == false ) : ?>
+           <li>Settings <?php $this->settings()->renderCommaSeparatedListOfLinks(); ?></li>
         <?php
         endif;
 
         // themes
-        if( count( $this->themes() ) > 0 ) : ?>
-            <li>Themes: <?= implode( ", ", $this->themes() ); ?></li>
+        if( !( $this->themes() ) == false ) : ?>
+            <li>Themes: <?php $this->themes()->renderCommaSeparatedListOfLinks(); ?></li>
         <?php
         endif;
 
@@ -135,6 +137,10 @@ class Song extends \JWS\NamedEntity{
         </ul>
         <?php
 
+    }
+
+    public function toJSON(){
+        return json_encode( $this->data );
     }
 
 

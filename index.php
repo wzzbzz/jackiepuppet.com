@@ -13,6 +13,10 @@ $path = $_SERVER['REQUEST_URI'];
 if(isset($_GET['fix'])){
     fix();
 }
+
+if( isset($_GET['test'])){
+    test();
+}
 ?>
 <!-- mobile first boiler plate with bootstrap -->
 <!DOCTYPE html>
