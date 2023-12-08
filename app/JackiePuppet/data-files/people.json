@@ -10,6 +10,7 @@
             "clusterfuck-catfight-ladies",
             "cocapina",
             "cricket-physicists",
+            "ferric-oxide-never-sleeps",
             "the-games-that-you-want",
             "i-taste-the-wasabi",
             "i-was-a-sperm-legacy-of-love",
@@ -28,7 +29,7 @@
         ]
     },
     "b-kleiman": {
-        "name": " B. Kleiman",
+        "name": "B. Kleiman",
         "slug": "b-kleiman",
         "songs": [
             "ambidextrous-high-five-gang",
@@ -238,7 +239,9 @@
             "zapple-mmm",
             "zebule",
             "zoozoodio",
-            "zsaws"
+            "zsaws",
+            "burnouts-parking-lot",
+            "lulu-wong-in-the-5th"
         ]
     },
     "g-hillman": {
@@ -249,7 +252,9 @@
             "diggin-for-gold",
             "my-two-rescue-cats-drove-me-to-drink",
             "newsflash",
-            "peg-leg-maria"
+            "peg-leg-maria",
+            "burnouts-parking-lot",
+            "lulu-wong-in-the-5th"
         ]
     },
     "j-williams": {
@@ -300,15 +305,15 @@
             "the-wrong-guys"
         ]
     },
-    "j-williams-l-reed": {
-        "name": " J. Williams\/ L. Reed",
-        "slug": "j-williams-l-reed",
+    "l-reed": {
+        "name": "L. Reed",
+        "slug": "l-reed",
         "songs": [
             "are-you-happy-being-a-schmuck"
         ]
     },
     "audience-member": {
-        "name": " audience member",
+        "name": "audience member",
         "slug": "audience-member",
         "songs": [
             "bad-band-blair"
@@ -320,14 +325,6 @@
         "songs": [
             "beer-bottle-song",
             "i-taste-the-wasabi"
-        ]
-    },
-    "g-hillman-b-kleiman": {
-        "name": " G. Hillman\/ B. Kleiman",
-        "slug": "g-hillman-b-kleiman",
-        "songs": [
-            "burnouts-parking-lot",
-            "lulu-wong-in-the-5th"
         ]
     },
     "jackie-puppet": {
@@ -366,7 +363,7 @@
         ]
     },
     "b-kleiman-j-williams": {
-        "name": " B. Kleiman\/ J. Williams",
+        "name": "B. Kleiman\/ J. Williams",
         "slug": "b-kleiman-j-williams",
         "songs": [
             "entry-level-brides",
@@ -379,28 +376,28 @@
         ]
     },
     "j-braverrman": {
-        "name": " J. Braverrman",
+        "name": "J. Braverrman",
         "slug": "j-braverrman",
         "songs": [
             "ferric-oxide-never-sleeps"
         ]
     },
     "j-williams-d-bowie": {
-        "name": " J. Williams\/ D. Bowie",
+        "name": "J. Williams\/ D. Bowie",
         "slug": "j-williams-d-bowie",
         "songs": [
             "oh-ramona"
         ]
     },
     "d-johansen": {
-        "name": " D. Johansen",
+        "name": "D. Johansen",
         "slug": "d-johansen",
         "songs": [
             "the-ol-detroit-eye-tuck"
         ]
     },
     "b-kleiman-j-braverman": {
-        "name": " B. Kleiman\/ J. Braverman",
+        "name": "B. Kleiman\/ J. Braverman",
         "slug": "b-kleiman-j-braverman",
         "songs": [
             "one-tick-pony",
@@ -409,35 +406,35 @@
         ]
     },
     "b-kleiman-j-williams-j-braverman": {
-        "name": " B. Kleiman\/ J. Williams\/ J. Braverman",
+        "name": "B. Kleiman\/ J. Williams\/ J. Braverman",
         "slug": "b-kleiman-j-williams-j-braverman",
         "songs": [
             "the-real-macaw-assault-by-lasagna"
         ]
     },
     "r-mund": {
-        "name": " R. Mund",
+        "name": "R. Mund",
         "slug": "r-mund",
         "songs": [
             "those-little-dracula-bites"
         ]
     },
     "e-villegas": {
-        "name": " E. Villegas",
+        "name": "E. Villegas",
         "slug": "e-villegas",
         "songs": [
             "tripwire"
         ]
     },
     "r-quivers": {
-        "name": " R. Quivers",
+        "name": "R. Quivers",
         "slug": "r-quivers",
         "songs": [
             "unnecessary-outrage"
         ]
     },
     "d-rane": {
-        "name": " D. Rane",
+        "name": "D. Rane",
         "slug": "d-rane",
         "songs": [
             "what-the-fuck-is-water"

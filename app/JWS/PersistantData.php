@@ -5,9 +5,7 @@ namespace JWS;
 class PersistantData{
 
     public $path = __DIR__ . "/data-files/";
-
     public $data;
-
     public $filename;
 
     // filename of the json file to load;

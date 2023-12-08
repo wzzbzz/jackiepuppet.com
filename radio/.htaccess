@@ -1,0 +1,12 @@
+RewriteEngine On
+
+
+RewriteRule ^([^/]+)/([0-9]+)/?$ index.php?episode=$1&song=$2 [L,QSA]
+
+RewriteRule ^api/radio/episode/?$ api.php?app=radio&episode=latest [L,QSA]
+RewriteRule ^api/radio/episode/([0-9]+)/?$ api.php?episode=$1 [L,QSA]
+# give me a rule for the song too
+RewriteRule ^api/radio/episode/([0-9]+)/([0-9]+)/?$ api.php?episode=$1&song=2
+
+RewriteRule ^api/episodes/?$ api.php?episode=all
+

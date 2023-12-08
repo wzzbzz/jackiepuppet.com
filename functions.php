@@ -305,10 +305,17 @@ function test(){
         case "update":
             testUpdateItem();
             break;
+        case "migrate":
+            testMigrate();
+            break;
         default:
             echo "no test";
             break;
     }
+}
+
+function testMigrate(){
+    include __DIR__ . "/app/JackiePuppet/Migration.php";
 }
 
 function testDeleteItem(){
@@ -471,8 +478,11 @@ function fixPeople(){
 
     $songs = new \JackiePuppet\SongsData();
 
-    foreach( $people->data as $person ){
-        pre($person);
+    foreach( $people->data as $key=>$person ){
+        $person->name = trim( $person->name );
+        pre($people->data);
+        die;
+        $people->data[$key] = $person;
 continue;
         foreach( $song->credits as $credit ){
             foreach( $credit->credits as $person ){
@@ -481,6 +491,7 @@ continue;
             }
         }
     }
+    pre($peopl>data);
 die;
 } 
 

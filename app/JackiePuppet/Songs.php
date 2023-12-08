@@ -18,6 +18,7 @@ class Songs extends \JWS\Collection{
                 </li>
             <?php endforeach; ?>
         </ul>
+        
         <?php
     }
 

@@ -1,0 +1,113 @@
+/* make the nav a grid with a gap of 1em*/
+/* nav {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
+  grid-gap: 1em;
+} */
+
+/* all nav items are display:block */
+nav * {
+  display: block;
+  margin:0.5em 0;
+  font-size:18px;
+}
+
+nav #search #search_results{
+  display:none;
+}
+
+/* the song list will be have a list stye none, a border, and a padding of 1em */
+ul {
+  list-style: none;
+  border: 1px solid black;
+  padding: 1em;
+}
+
+/* the active song will have a background color of light blue */
+.active {
+  background-color: lightblue;
+}
+
+main {
+  margin: 1em;
+}
+
+/* song title bigger and bolder */
+#song_title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#total_songs{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#song_lyrics {
+  margin: 1em 0;
+}
+
+#song_lyrics .verse {
+  margin: 1em 0;
+}
+
+#controls, #buttons{
+  display:flex;
+  justify-content:left;
+}
+
+#controls >div, #buttons >div{
+  margin:0 1em;
+}
+
+@font-face {
+	font-family: apple;
+	src: url('fonts/PrintChar21.ttf');
+}
+
+@font-face {
+	font-family: smallapple;
+	src: url('fonts/PRNumber3.ttf');
+}
+
+@font-face {
+	font-family: commodore-angled;
+	src: url('fonts/Commodore Angled v1.2.ttf');
+}
+
+@font-face {
+	font-family: commodore-rounded;
+	src: url('fonts/Commodore Rounded v1.2.ttf');
+}
+
+@font-face {
+	font-family: commodore-v63;
+	src: url('fonts/Commodore-64-v6.3.TTF');
+}
+
+@font-face {
+	font-family: trs-80;
+	src: url('fonts/TRS-80.TTF');
+}
+
+body.apple{
+    background:#000;
+    color:#33ff66;
+    font-family: apple;
+    font-size:16px;
+    
+}
+
+body.c64{
+    background:#0000ff;
+    color:#6699ff;
+    font-family:commodore-rounded;
+    font-size:16px;
+}
+
+body.trs80{
+    background:#000;
+    color:#fff;
+    font-family:smallapple;
+    font-size:16px;
+}

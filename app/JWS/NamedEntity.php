@@ -8,7 +8,6 @@ class NamedEntity{
     public $collectionClass = "JWS\Collection";
 
     public function __construct( $data=null ){
-
         $this->data = $data;
     }
 
@@ -21,7 +20,6 @@ class NamedEntity{
     }
 
     public function renderLink(){
-        
         $section = strtolower( ( new \ReflectionClass( $this ) )->getShortName() );
     
         ob_start();
